@@ -1,0 +1,73 @@
+{
+  "audiovisual_files": {
+    "91724853-aaab-4dd6-a515-2125f61b2323": {
+      "label": "Fusion Familia Cepeda 1983 Video #3",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/c4nqwrXQ7go",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "6d36d117-fc29-4ab7-9c0f-5747e3ac3ce8": {
+      "label": "Fusion Familia Cepeda 1983 Video #4",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/XojsZEQqXUA?si=BJqtXTXPQrYW4y_e",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "19c402cc-bbe7-4c1b-a75c-378d09301145": {
+      "label": "Fusion Familia Cepeda 1983 Video #5",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/cZdXIRz3eCw?si=FABTxPa3x1hOJn1A",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "68eed75d-302a-4f86-885d-4a7222ddf98b": {
+      "label": "Fusion Familia Cepeda 1983 Video #1",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/reTE3dzsg1A?si=bzv6NEJbmp_acq-i",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "e0fb0338-514a-4307-9de0-10b1d237a820": {
+      "label": "Fusion Familia Cepeda 1983 Video #2",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/reTE3dzsg1A?si=kckaaRmyI9NORH2G",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Fusion Familia Cepeda 1983 Film",
+  "av_file_order": [
+    "68eed75d-302a-4f86-885d-4a7222ddf98b",
+    "e0fb0338-514a-4307-9de0-10b1d237a820",
+    "91724853-aaab-4dd6-a515-2125f61b2323",
+    "6d36d117-fc29-4ab7-9c0f-5747e3ac3ce8",
+    "19c402cc-bbe7-4c1b-a75c-378d09301145"
+  ],
+  "created_at": "2025-10-09T17:36:54.096Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2025-10-09T17:36:54.096Z",
+  "updated_by": "lexirosev16"
+}
