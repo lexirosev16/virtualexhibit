@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 494,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discusses plantations and slavery"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4dc17c8b-e98b-4132-a46e-de8e5789f035"
+    }
+  ],
   "set": "Default",
   "event_id": "856e8d8f-ba7a-4014-923d-8b5f7966e7e0",
   "source_id": "68eed75d-302a-4f86-885d-4a7222ddf98b"
