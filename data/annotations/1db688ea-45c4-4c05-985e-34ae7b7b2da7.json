@@ -31,6 +31,22 @@
       ],
       "tags": [],
       "uuid": "433abd20-aacc-450e-b55c-b2bdd4355758"
+    },
+    {
+      "start_time": 908,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "New bomba song begins"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "510dabfd-ecf6-4ade-a3a9-b7904615c70b"
     }
   ],
   "set": "Default",
