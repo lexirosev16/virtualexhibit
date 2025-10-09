@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "a44161ae-d030-4eca-a29d-2d35a4af542e"
+    },
+    {
+      "start_time": 700,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rafael Cepeda sings a bomba \"paraiso,\" most likely a yuba.  "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "433abd20-aacc-450e-b55c-b2bdd4355758"
     }
   ],
   "set": "Default",
