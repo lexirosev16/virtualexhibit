@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "4dc17c8b-e98b-4132-a46e-de8e5789f035"
+    },
+    {
+      "start_time": 798,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zafra"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dd4df340-9cdb-4441-a9a3-b549d7493474"
     }
   ],
   "set": "Default",
