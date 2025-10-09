@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "lexirosev16",
+    "is_private": false,
+    "title": "A Virtual Exhibit: Celebrating the Life of Alba Rosa Rosario Cepeda",
+    "description": "This virtual exhibit will discuss the movement vocabulary and stylistic innovations of Alba Rosa Rosario Cepeda. It can also be a used as a pedagogical tool when learning the Cangrejos/Cepeda variant of bomba. ",
+    "language": "en",
+    "slug": "virtualexhibit",
+    "creator": "lexirosev16",
+    "authors": "Alexis R. Velazquez",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-10-09T17:31:22.585Z",
+    "updated_at": "2025-10-09T17:31:22.585Z"
   }
 }
