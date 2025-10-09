@@ -14,7 +14,7 @@
   "project": {
     "github_org": "lexirosev16",
     "is_private": false,
-    "title": "A Virtual Exhibit: Celebrating the Life of Alba Rosa Rosario Cepeda",
+    "title": "A Virtual Exhibit: Bomba Scenes",
     "description": "This virtual exhibit will discuss the movement vocabulary and stylistic innovations of Alba Rosa Rosario Cepeda. It can also be a used as a pedagogical tool when learning the Cangrejos/Cepeda variant of bomba. ",
     "language": "en",
     "slug": "virtualexhibit",
@@ -28,7 +28,7 @@
       "tags": []
     },
     "created_at": "2025-10-09T17:31:22.585Z",
-    "updated_at": "2025-10-09T18:03:10.997Z",
+    "updated_at": "2025-10-09T18:05:04.826Z",
     "generate_pages_site": true
   },
   "annotations": {},
