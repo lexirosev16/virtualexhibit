@@ -12,7 +12,7 @@
     "6d36d117-fc29-4ab7-9c0f-5747e3ac3ce8": {
       "label": "Fusion Familia Cepeda 1983 Video #4",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://youtu.be/XojsZEQqXUA?si=BJqtXTXPQrYW4y_e",
       "duration": 0,
       "caption_set": [],
@@ -21,7 +21,7 @@
     "19c402cc-bbe7-4c1b-a75c-378d09301145": {
       "label": "Fusion Familia Cepeda 1983 Video #5",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://youtu.be/cZdXIRz3eCw?si=FABTxPa3x1hOJn1A",
       "duration": 0,
       "caption_set": [],
@@ -30,7 +30,7 @@
     "68eed75d-302a-4f86-885d-4a7222ddf98b": {
       "label": "Fusion Familia Cepeda 1983 Video #1",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://youtu.be/reTE3dzsg1A?si=bzv6NEJbmp_acq-i",
       "duration": 0,
       "caption_set": [],
@@ -39,7 +39,7 @@
     "e0fb0338-514a-4307-9de0-10b1d237a820": {
       "label": "Fusion Familia Cepeda 1983 Video #2",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://youtu.be/reTE3dzsg1A?si=kckaaRmyI9NORH2G",
       "duration": 0,
       "caption_set": [],
@@ -68,6 +68,6 @@
   ],
   "created_at": "2025-10-09T17:36:54.096Z",
   "created_by": "lexirosev16",
-  "updated_at": "2025-10-09T17:36:54.096Z",
+  "updated_at": "2025-10-09T17:47:22.292Z",
   "updated_by": "lexirosev16"
 }
