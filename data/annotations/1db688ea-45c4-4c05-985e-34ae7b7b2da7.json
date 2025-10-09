@@ -1,5 +1,38 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 645,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaker:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poem: "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Keywords: Decima "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a44161ae-d030-4eca-a29d-2d35a4af542e"
+    }
+  ],
   "set": "Default",
   "event_id": "856e8d8f-ba7a-4014-923d-8b5f7966e7e0",
   "source_id": "91724853-aaab-4dd6-a515-2125f61b2323"
