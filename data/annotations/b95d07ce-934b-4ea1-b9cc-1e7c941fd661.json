@@ -31,6 +31,38 @@
       ],
       "tags": [],
       "uuid": "ca1c7922-f32f-437a-b5e7-3149608db748"
+    },
+    {
+      "start_time": 417,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Son mas divina\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhythm: sica"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jonas Martinez"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7e63c220-2886-4eec-9604-0436f44f7d27"
     }
   ],
   "set": "Default",
