@@ -192,6 +192,22 @@
               "text": "African Title "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fast Sica "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jose Martinez"
+            }
+          ]
         }
       ],
       "tags": [],
