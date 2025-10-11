@@ -172,6 +172,30 @@
       ],
       "tags": [],
       "uuid": "cd1b1697-7f66-413a-9be4-1d12438cb4d6"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Otonono barrile\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "African Title "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2489e9d7-9b56-4484-a8e1-f2c9ad6dba4d"
     }
   ],
   "set": "Default",
