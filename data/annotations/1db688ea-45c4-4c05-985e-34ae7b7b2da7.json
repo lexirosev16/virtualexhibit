@@ -63,6 +63,51 @@
       ],
       "tags": [],
       "uuid": "f6cf2a29-3868-4840-8f99-4eeaccff7cd8"
+    },
+    {
+      "start_time": 493,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "\"El Bombon de Elena\""
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "Don Rafael Cepeda "
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "Covered by Cortijo y su combo\""
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "Jonas "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f248b737-b2e9-4196-94de-7baa6aff690d"
     }
   ],
   "set": "Default",
