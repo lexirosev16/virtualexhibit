@@ -48,7 +48,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Petronila Gilbert; Guilbe\" "
+              "text": "Title:",
+              "bold": true
+            },
+            {
+              "text": " \"Petronila Gilbert; Guilbe\" (Martinez)"
             }
           ]
         },
@@ -56,20 +60,25 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "False accusation "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
+              "text": "Context:",
+              "bold": true
+            },
             {
-              "text": "Jonas Martinez"
+              "text": " False accusation "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        },
+        {
+          "category": "Music",
+          "tag": "Rhythm"
+        }
+      ],
       "uuid": "ca1c7922-f32f-437a-b5e7-3149608db748"
     },
     {
