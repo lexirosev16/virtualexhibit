@@ -1,1 +1,64 @@
-{"annotations":[{"start_time":494,"end_time":0,"annotation":[{"type":"paragraph","children":[{"text":"Discusses plantations and slavery"}]}],"tags":[],"uuid":"4dc17c8b-e98b-4132-a46e-de8e5789f035"},{"start_time":798,"end_time":0,"annotation":[{"type":"paragraph","children":[{"text":"Zafra means sugarcane harvest (Martinez)"}]}],"tags":[],"uuid":"dd4df340-9cdb-4441-a9a3-b549d7493474"},{"start_time":1233,"end_time":1334,"annotation":[{"type":"paragraph","children":[{"text":"\"Colonia\""}]}],"tags":[],"uuid":"ffcc430c-b9bc-4911-87be-0ffbc2268d82"}],"set":"Default","event_id":"856e8d8f-ba7a-4014-923d-8b5f7966e7e0","source_id":"68eed75d-302a-4f86-885d-4a7222ddf98b"}
+{
+  "annotations": [
+    {
+      "start_time": 494,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discusses plantations and slavery"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4dc17c8b-e98b-4132-a46e-de8e5789f035"
+    },
+    {
+      "start_time": 798,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zafra means sugarcane harvest (Martinez)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dd4df340-9cdb-4441-a9a3-b549d7493474"
+    },
+    {
+      "start_time": 1233,
+      "end_time": 1334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: \"",
+              "bold": true
+            },
+            {
+              "text": "Colonia\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "ffcc430c-b9bc-4911-87be-0ffbc2268d82"
+    }
+  ],
+  "set": "Default",
+  "event_id": "856e8d8f-ba7a-4014-923d-8b5f7966e7e0",
+  "source_id": "68eed75d-302a-4f86-885d-4a7222ddf98b"
+}
