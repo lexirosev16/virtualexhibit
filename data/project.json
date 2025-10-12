@@ -13,13 +13,13 @@
   ],
   "project": {
     "github_org": "lexirosev16",
-    "is_private": false,
-    "title": "A Virtual Exhibit: Bomba Scenes",
-    "description": "This virtual exhibit will discuss the movement vocabulary and stylistic innovations of Alba Rosa Rosario Cepeda. It can also be a used as a pedagogical tool when learning the Cangrejos/Cepeda variant of bomba. ",
+    "is_private": true,
+    "title": "Beyond the Batey: Analyzing Historical and Contemporary Bomba Performances and Films ",
+    "description": "For this digital edition/exhibit, I have created annotations for the film Zafra: Fusion Familia Cepeda (1983) performed by Bellas Artes in San Juan Puerto Rico and featuring Don Rafael Cepeda, Jesus Cepeda, and Luis Palos Matos. These annotations include a transcription of the dialogue, notes instrumentation, piquetes, posturas, song names and lyrics, and the context surrounding the poems used. These annotations support my dissertation research for \"Beyond the Batey: Building a Digital Community Archive. This project serves as a pedagogical open access digital tool for bomba practitioners learning the bomba's varied movement vocabulary. \n",
     "language": "en",
     "slug": "virtualexhibit",
     "creator": "lexirosev16",
-    "authors": "Alexis R. Velazquez",
+    "authors": "Alexis R. Velazquez, Jonas Martinez, Michael Stevens, William Miranda, Barbara Cepeda, Tata Cepeda",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
@@ -28,7 +28,7 @@
       "tags": []
     },
     "created_at": "2025-10-09T17:31:22.585Z",
-    "updated_at": "2025-10-12T00:10:53.414Z",
+    "updated_at": "2025-10-12T17:43:43.705Z",
     "generate_pages_site": true
   },
   "annotations": {},
