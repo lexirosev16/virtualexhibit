@@ -89,7 +89,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Son mas divina\""
+              "text": "Title: ",
+              "bold": true
+            },
+            {
+              "text": "\"Son mas divina\" (Martinez)"
             }
           ]
         },
@@ -97,7 +101,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Rhythm: sica"
+              "text": "Rhythm:",
+              "bold": true
+            },
+            {
+              "text": " Sica"
             }
           ]
         },
@@ -105,12 +113,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jonas Martinez"
+              "text": ""
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        },
+        {
+          "category": "Music",
+          "tag": "Rhythm"
+        }
+      ],
       "uuid": "7e63c220-2886-4eec-9604-0436f44f7d27"
     },
     {
