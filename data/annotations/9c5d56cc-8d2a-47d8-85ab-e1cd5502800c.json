@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 170,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marielle de Leon (Martinez); trans-rights political activist"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "916a7686-a786-4a2f-8630-cb6859adb128"
+    }
+  ],
   "set": "Default",
   "event_id": "8d2931b9-ddd5-431f-8f7b-33b52ca82248",
   "source_id": "ebf3d06a-4d8b-49c5-95a6-7d3098de663e"
