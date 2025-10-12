@@ -52,7 +52,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Alexis R. Velazquez's AVAnnotate project “Beyond the Batey: Analyzing Historical and Contemporary Bomba Performances” contains two sets of annotations. A Translation of the film \"Zafra: Fusion Familia Cepeda 1983,\" and a second set of annotations identifying bomba songs, lyrics, instrumentation, rhythms, and performers with assistance from community consultants and bomba practitioners, Jonas Martinez, Miguel Stevens, William Miranda, and Barbara Cepeda. "
         }
       ]
     }
@@ -68,6 +68,7 @@
   ],
   "created_at": "2025-10-09T17:36:54.096Z",
   "created_by": "lexirosev16",
-  "updated_at": "2025-10-09T17:47:22.292Z",
-  "updated_by": "lexirosev16"
+  "updated_at": "2025-10-12T17:36:30.420Z",
+  "updated_by": "lexirosev16",
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/"
 }
