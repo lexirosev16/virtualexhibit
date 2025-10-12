@@ -1,1 +1,48 @@
-{"annotations":[{"start_time":0,"end_time":202,"annotation":[{"type":"paragraph","children":[{"text":"\"En la hacienda Caridad se baile bomba\" "}]},{"type":"paragraph","children":[{"text":"Hollande"}]},{"type":"paragraph","children":[{"text":"Jonas Martinez"}]}],"tags":[],"uuid":"47fbafe5-bada-412f-9a08-93822f408afc"}],"set":"Default","event_id":"856e8d8f-ba7a-4014-923d-8b5f7966e7e0","source_id":"19c402cc-bbe7-4c1b-a75c-378d09301145"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: ",
+              "bold": true
+            },
+            {
+              "text": "\"En la hacienda Caridad se baile bomba\" "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhythm:",
+              "bold": true
+            },
+            {
+              "text": " Hollande (Martinez)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Rhythm"
+        },
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "47fbafe5-bada-412f-9a08-93822f408afc"
+    }
+  ],
+  "set": "Default",
+  "event_id": "856e8d8f-ba7a-4014-923d-8b5f7966e7e0",
+  "source_id": "19c402cc-bbe7-4c1b-a75c-378d09301145"
+}
