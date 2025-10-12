@@ -24,7 +24,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Rafael Cepeda sings a bomba \"Anaiso\""
+              "text": "Performer: ",
+              "bold": true
+            },
+            {
+              "text": "Rafael Cepeda"
             }
           ]
         },
@@ -32,7 +36,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Rhythm: yuba.  "
+              "text": "Title: ",
+              "bold": true
+            },
+            {
+              "text": "\"Anaiso\""
             }
           ]
         },
@@ -40,7 +48,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Assistance from Jonas Marinez"
+              "text": "Rhythm:",
+              "bold": true
+            },
+            {
+              "text": " yuba (Martinez)"
             }
           ]
         },
@@ -48,12 +60,29 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Covered by Grupo Afro Boriqua"
+              "text": "Covered by: ",
+              "bold": true
+            },
+            {
+              "text": "Grupo Afro Boriqua"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        },
+        {
+          "category": "Music",
+          "tag": "Rhythm"
+        },
+        {
+          "category": "Music",
+          "tag": "Performer"
+        }
+      ],
       "uuid": "433abd20-aacc-450e-b55c-b2bdd4355758"
     },
     {
