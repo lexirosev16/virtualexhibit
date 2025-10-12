@@ -218,13 +218,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Otonono barrile\""
+              "text": "Title:",
+              "bold": true
+            },
+            {
+              "text": " \"Otonono barrile\" (Martinez)"
             }
           ]
         },
         {
           "type": "paragraph",
           "children": [
+            {
+              "text": "Context: ",
+              "bold": true
+            },
             {
               "text": "African Title "
             }
@@ -234,7 +242,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Fast Sica "
+              "text": "Rhythm:",
+              "bold": true
+            },
+            {
+              "text": " Fast Sica "
             }
           ]
         },
@@ -242,20 +254,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jose Martinez"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
+              "text": "Performers:",
+              "bold": true
+            },
             {
-              "text": "Featured dancer is possible Dona Caridad Brenes"
+              "text": " Featured bombera is possibly Doña Caridad Brenes de Cepeda"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Performer"
+        },
+        {
+          "category": "Music",
+          "tag": "Context"
+        },
+        {
+          "category": "Music",
+          "tag": "Rhythm"
+        },
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
       "uuid": "2489e9d7-9b56-4484-a8e1-f2c9ad6dba4d"
     }
   ],
