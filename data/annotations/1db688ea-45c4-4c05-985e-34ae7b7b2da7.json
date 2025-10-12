@@ -109,7 +109,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Speaker discusses the history of Bomba. Bomba en barrile "
+              "text": "Context: ",
+              "bold": true
+            },
+            {
+              "text": "Speaker discusses the history of Bomba. "
             }
           ]
         },
@@ -117,7 +121,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jesus Cepeda on the barriles"
+              "text": "Title:",
+              "bold": true
+            },
+            {
+              "text": " [Bomba en barrile] Check"
             }
           ]
         },
@@ -125,12 +133,29 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jonas Martinez"
+              "text": "Performers: ",
+              "bold": true
+            },
+            {
+              "text": "Jesus Cepeda on the barriles, primo (Martinez)"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Performer"
+        },
+        {
+          "category": "Music",
+          "tag": "Context"
+        },
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
       "uuid": "f6cf2a29-3868-4840-8f99-4eeaccff7cd8"
     },
     {
