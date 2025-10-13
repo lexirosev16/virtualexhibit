@@ -8,12 +8,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Speaker introduces Don Rafael Cepeda "
+              "text": "Luis Palés Matos introduces Don Rafael Cepeda "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Performer"
+        }
+      ],
       "uuid": "a44161ae-d030-4eca-a29d-2d35a4af542e"
     },
     {
