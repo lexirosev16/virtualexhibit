@@ -8,6 +8,10 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "Speaker: ",
+              "bold": true
+            },
+            {
               "text": "Luis Palés Matos introduces Don Rafael Cepeda "
             }
           ]
