@@ -8,7 +8,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Style: Bomba danced in couples"
+              "text": "Style:",
+              "bold": true
+            },
+            {
+              "text": " Bomba danced in couples"
             }
           ]
         },
@@ -16,15 +20,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Location: possibly Southern variant"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
+              "text": "Email: ",
+              "bold": true
+            },
             {
-              "text": "Email: Ivan Davila"
+              "text": "Ivan Davila"
             }
           ]
         },
