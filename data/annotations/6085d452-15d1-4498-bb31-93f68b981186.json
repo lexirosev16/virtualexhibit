@@ -47,6 +47,27 @@
               "text": "Colonia\""
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Composer: ",
+              "bold": true
+            },
+            {
+              "text": "Don Rafael Cepeda"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lyrics:",
+              "bold": true
+            }
+          ]
         }
       ],
       "tags": [
