@@ -743,6 +743,63 @@
         }
       ],
       "uuid": "2489e9d7-9b56-4484-a8e1-f2c9ad6dba4d"
+    },
+    {
+      "start_time": 65,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Genre:",
+              "bold": true
+            },
+            {
+              "text": " plena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: ",
+              "bold": true
+            },
+            {
+              "text": "unknown"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Instrumentation: "
+            },
+            {
+              "text": "accordions, barriles"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Instrumentation"
+        },
+        {
+          "category": "Music",
+          "tag": "Rhythm"
+        },
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "16fc8c85-2933-4bac-92f2-40e27aabbadb"
     }
   ],
   "set": "Default",
