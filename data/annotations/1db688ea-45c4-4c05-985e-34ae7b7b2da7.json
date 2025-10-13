@@ -603,13 +603,17 @@
     },
     {
       "start_time": 0,
-      "end_time": 0,
+      "end_time": 63,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Sica "
+              "text": "Rhythm: ",
+              "bold": true
+            },
+            {
+              "text": "[Sica] "
             }
           ]
         },
@@ -617,12 +621,38 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "unknown song "
+              "text": "Title:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instrumentation: ",
+              "bold": true
+            },
+            {
+              "text": "barriles, accordion"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Instrumentation"
+        },
+        {
+          "category": "Music",
+          "tag": "Rhythm"
+        },
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
       "uuid": "cd1b1697-7f66-413a-9be4-1d12438cb4d6"
     },
     {
