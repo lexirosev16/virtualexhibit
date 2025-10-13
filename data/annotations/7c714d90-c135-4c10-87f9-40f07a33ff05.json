@@ -12,7 +12,19 @@
               "bold": true
             },
             {
-              "text": "\"En la hacienda Caridad se baile bomba\" "
+              "text": "\"En la hacienda de Caridad\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Copyright ID:",
+              "bold": true
+            },
+            {
+              "text": " LOC V1944P244"
             }
           ]
         },
