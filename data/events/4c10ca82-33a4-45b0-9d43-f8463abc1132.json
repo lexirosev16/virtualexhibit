@@ -66,11 +66,20 @@
     "9fe478b7-07d3-4884-a88f-7c29d3b6484c": {
       "label": "Raices Part 8",
       "is_offline": false,
-      "file_type": "Audio",
-      "file_url": "",
+      "file_type": "Video",
+      "file_url": "https://youtu.be/_TAc9EBNRm8?si=S_FQoGyOnO0tnm1P",
       "duration": 0,
       "caption_set": [],
       "set_sort": []
+    },
+    "bb8f2f6b-36ba-4d9e-966f-08711cedc53c": {
+      "label": "Raices Part 9",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
@@ -88,6 +97,16 @@
   "label": "Raices Banco Popular",
   "created_at": "2025-10-20T18:00:20.192Z",
   "created_by": "lexirosev16",
-  "updated_at": "2025-10-20T18:00:20.192Z",
-  "updated_by": "lexirosev16"
+  "updated_at": "2025-10-20T18:01:31.671Z",
+  "updated_by": "lexirosev16",
+  "av_file_order": [
+    "d1c17900-ade7-4a7c-be72-84a831e93f26",
+    "0cd5dad1-e080-46f1-b5aa-ec0681a68982",
+    "4f55d3c7-1e32-41d4-bf89-6ff4b47dee3b",
+    "54480dda-adea-4c3e-ab39-37901054ca47",
+    "04d7ca08-314c-4b5b-b11d-0e01eea186ec",
+    "a78e76e3-d9ff-47ae-a5cc-605e22d521e8",
+    "2d3afa01-73d6-4771-8a5b-b74aa845f774",
+    "9fe478b7-07d3-4884-a88f-7c29d3b6484c"
+  ]
 }
