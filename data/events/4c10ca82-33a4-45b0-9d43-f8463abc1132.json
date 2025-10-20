@@ -1,0 +1,93 @@
+{
+  "audiovisual_files": {
+    "d1c17900-ade7-4a7c-be72-84a831e93f26": {
+      "label": "Raices Part I",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/CWeqsevB7qw?si=XgQTAmYaVtYCeOyj",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "0cd5dad1-e080-46f1-b5aa-ec0681a68982": {
+      "label": "Raices Part 2",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/mGyfyRB9pyc?si=1b9ScfyHd8dRVqBg",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "4f55d3c7-1e32-41d4-bf89-6ff4b47dee3b": {
+      "label": "Racies Part 3",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/FFNnUMM0ts0?si=dm8tooUCEnDEKURI",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "54480dda-adea-4c3e-ab39-37901054ca47": {
+      "label": "Raices Part 4",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/1NQCHgAUxcQ?si=APZALddpQbPKbm4P",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "04d7ca08-314c-4b5b-b11d-0e01eea186ec": {
+      "label": "Racies Part 5",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/c8lKJPBc6w4?si=FKG9OfRCKgQULF9q",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "a78e76e3-d9ff-47ae-a5cc-605e22d521e8": {
+      "label": "Raices Part 6",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/fC5nHBCxnUI?si=CUBZXkhKIZktp_z8",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "2d3afa01-73d6-4771-8a5b-b74aa845f774": {
+      "label": "Raices Part 7",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/VLgvxzHzVx4?si=a6OK0gyWmYXtmRAX",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "9fe478b7-07d3-4884-a88f-7c29d3b6484c": {
+      "label": "Raices Part 8",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Raices Banco Popular",
+  "created_at": "2025-10-20T18:00:20.192Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2025-10-20T18:00:20.192Z",
+  "updated_by": "lexirosev16"
+}
