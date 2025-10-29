@@ -210,6 +210,27 @@
         }
       ],
       "uuid": "f670f2b3-1936-4da2-a42f-38b791c0f55e"
+    },
+    {
+      "start_time": 922,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Plena de San Anton\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "209ded8a-0fb3-4e44-8e69-0fa32c988641"
     }
   ],
   "set": "Default",
