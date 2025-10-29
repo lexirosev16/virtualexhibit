@@ -8,7 +8,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cuembe na ma\" "
+              "text": "\"Cuembé Na' Ma'\"",
+              "bold": true
             }
           ]
         },
@@ -16,7 +17,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Salsa-fied bomba scene"
+              "text": "Salsa adaptation ",
+              "bold": true
             }
           ]
         },
@@ -24,7 +26,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Instrumentation: Flamenco guitar; singer; palmas (hand claps)"
+              "text": "Instrumentation: ",
+              "bold": true
+            },
+            {
+              "text": "Flamenco guitar; vocalist; palmas (hand claps)"
             }
           ]
         }
