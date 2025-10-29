@@ -524,7 +524,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Yuba, la marile\""
+              "text": "\"Yuba, la Marile\"",
+              "bold": true
             }
           ]
         },
@@ -532,7 +533,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Salsa adaptation"
+              "text": "Salsa adaptation",
+              "bold": true
             }
           ]
         }
