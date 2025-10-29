@@ -236,7 +236,32 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Plena de San Anton\""
+              "text": "\"Plena De San Anton\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performer: ",
+              "bold": true
+            },
+            {
+              "text": "Los Pleneros de la 21"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Composer:",
+              "bold": true
+            },
+            {
+              "text": " Chago Montes"
             }
           ]
         }
@@ -245,6 +270,10 @@
         {
           "category": "Music",
           "tag": "Song Title"
+        },
+        {
+          "category": "Music",
+          "tag": "Performer"
         }
       ],
       "uuid": "209ded8a-0fb3-4e44-8e69-0fa32c988641"
