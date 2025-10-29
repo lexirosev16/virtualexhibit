@@ -1,5 +1,47 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 158,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cuembe na ma\" "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salsa-fied bomba scene"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instrumentation: Flamenco guitar; singer; palmas (hand claps)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        },
+        {
+          "category": "Music",
+          "tag": "Instrumentation"
+        }
+      ],
+      "uuid": "f8a5f474-199c-4f5d-bf1a-e693b65feb2f"
+    }
+  ],
   "set": "Default",
   "event_id": "4c10ca82-33a4-45b0-9d43-f8463abc1132",
   "source_id": "d1c17900-ade7-4a7c-be72-84a831e93f26"
