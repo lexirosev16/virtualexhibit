@@ -181,6 +181,27 @@
         }
       ],
       "uuid": "5ffa01b4-52e4-40c9-b864-1950cdb2bf24"
+    },
+    {
+      "start_time": 685,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Bomba me llamo\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "f670f2b3-1936-4da2-a42f-38b791c0f55e"
     }
   ],
   "set": "Default",
