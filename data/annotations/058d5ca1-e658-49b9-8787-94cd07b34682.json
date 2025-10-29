@@ -231,6 +231,22 @@
         }
       ],
       "uuid": "209ded8a-0fb3-4e44-8e69-0fa32c988641"
+    },
+    {
+      "start_time": 1019,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hip-hop; recited poetry"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "26134d2c-4d73-45f2-81e9-3f994944b2c1"
     }
   ],
   "set": "Default",
