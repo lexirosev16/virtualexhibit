@@ -343,6 +343,27 @@
         }
       ],
       "uuid": "388f22b5-9fa2-4caf-a605-ef0d2f7ff5d6"
+    },
+    {
+      "start_time": 2302,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cuando Diego baila\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "934e9e39-28e3-4d30-b2c8-34ecb56da712"
     }
   ],
   "set": "Default",
