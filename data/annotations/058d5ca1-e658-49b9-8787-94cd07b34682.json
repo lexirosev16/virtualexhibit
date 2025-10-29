@@ -88,7 +88,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Performer: vocalist Lucita Benitez"
+              "text": "Performer: ",
+              "bold": true
+            },
+            {
+              "text": "vocalist Lucecita Benítez"
             }
           ]
         }
