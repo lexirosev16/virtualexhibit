@@ -451,7 +451,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cuando Diego bailo\""
+              "text": "\"Cuando Diego bailó\" ",
+              "bold": true
             }
           ]
         }
