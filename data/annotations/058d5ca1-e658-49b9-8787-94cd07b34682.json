@@ -139,6 +139,27 @@
       ],
       "tags": [],
       "uuid": "d5ee399a-46cd-47be-b8e6-e12a761d6e3a"
+    },
+    {
+      "start_time": 566,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cachon dice Elena\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "a04e7a5f-4cc5-4fc5-a532-be03350188df"
     }
   ],
   "set": "Default",
