@@ -496,6 +496,27 @@
         }
       ],
       "uuid": "1fbfc068-6d77-4448-ae1f-8980e1d2dc2a"
+    },
+    {
+      "start_time": 4439,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don Rafel Cepeda Atiles"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "ebae9dad-ee5a-4c49-8819-5061a3b73c22"
     }
   ],
   "set": "Default",
