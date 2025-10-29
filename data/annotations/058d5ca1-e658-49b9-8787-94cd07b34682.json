@@ -138,12 +138,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Angel Chuco Quintero"
+              "text": "Speaker: ",
+              "bold": true
+            },
+            {
+              "text": "Ángel “Chuco” Quintero"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Performer"
+        }
+      ],
       "uuid": "d5ee399a-46cd-47be-b8e6-e12a761d6e3a"
     },
     {
