@@ -123,6 +123,22 @@
         }
       ],
       "uuid": "b2b03aee-05ec-49b5-b2ac-02eeef2788b1"
+    },
+    {
+      "start_time": 504,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angel Chuco Quintero"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d5ee399a-46cd-47be-b8e6-e12a761d6e3a"
     }
   ],
   "set": "Default",
