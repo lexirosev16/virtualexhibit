@@ -184,13 +184,21 @@
     },
     {
       "start_time": 685,
-      "end_time": 0,
+      "end_time": 770,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
               "text": "\"Bomba me llamo\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "me da la memoria"
             }
           ]
         }
