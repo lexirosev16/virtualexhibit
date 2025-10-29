@@ -399,7 +399,30 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Estoy Buscando un arbol que me da sombra\""
+              "text": "\"Estoy Buscando un arbol que me de sombra\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Yuba"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Composer",
+              "bold": true,
+              "strikethrough": true
+            },
+            {
+              "text": ": Don Rafael Cepeda Atiles"
             }
           ]
         }
@@ -408,6 +431,14 @@
         {
           "category": "Music",
           "tag": "Song Title"
+        },
+        {
+          "category": "Music",
+          "tag": "Performer"
+        },
+        {
+          "category": "Music",
+          "tag": "Rhythm"
         }
       ],
       "uuid": "388f22b5-9fa2-4caf-a605-ef0d2f7ff5d6"
