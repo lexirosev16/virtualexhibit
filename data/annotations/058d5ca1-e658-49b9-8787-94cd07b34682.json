@@ -148,7 +148,20 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cachon dice Elena\""
+              "text": "\"Cachón dice Elena\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performer: ",
+              "bold": true
+            },
+            {
+              "text": "Nelie Lebron Robles (lead vocalist); Paracumbé"
             }
           ]
         }
@@ -157,6 +170,10 @@
         {
           "category": "Music",
           "tag": "Song Title"
+        },
+        {
+          "category": "Music",
+          "tag": "Performer"
         }
       ],
       "uuid": "a04e7a5f-4cc5-4fc5-a532-be03350188df"
