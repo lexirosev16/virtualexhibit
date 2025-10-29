@@ -73,6 +73,27 @@
         }
       ],
       "uuid": "e5bfa7fb-36ff-4d7d-a87e-727f3be38028"
+    },
+    {
+      "start_time": 329,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performer: vocalist Lucita Benitez"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Performer"
+        }
+      ],
+      "uuid": "2a3c6a09-02b7-456b-b141-7edb3a6b3589"
     }
   ],
   "set": "Default",
