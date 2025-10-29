@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"856e8d8f-ba7a-4014-923d-8b5f7966e7e0","source_id":"e0fb0338-514a-4307-9de0-10b1d237a820"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Context: This segment of Zafra depicts the tri-ethnic heritage of Puerto Ricans. It includes scenes from the plantations, scenes involving enslavement, and scenes depicting Christopher Colombus....."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "97ff0d95-5ece-4e04-b45e-c7537eb8edf3"
+    }
+  ],
+  "set": "Default",
+  "event_id": "856e8d8f-ba7a-4014-923d-8b5f7966e7e0",
+  "source_id": "e0fb0338-514a-4307-9de0-10b1d237a820"
+}
