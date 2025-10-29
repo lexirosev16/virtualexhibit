@@ -94,6 +94,27 @@
         }
       ],
       "uuid": "2a3c6a09-02b7-456b-b141-7edb3a6b3589"
+    },
+    {
+      "start_time": 370,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"al dolor\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "b2b03aee-05ec-49b5-b2ac-02eeef2788b1"
     }
   ],
   "set": "Default",
