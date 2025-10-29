@@ -268,6 +268,27 @@
         }
       ],
       "uuid": "6906d6ed-68c3-4229-bb6d-a0cb5db00e3d"
+    },
+    {
+      "start_time": 1700,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"hueso, hueso\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "c2729ffc-4163-45ed-a2c7-600c49ed5928"
     }
   ],
   "set": "Default",
