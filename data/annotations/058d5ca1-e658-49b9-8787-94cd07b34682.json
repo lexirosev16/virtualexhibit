@@ -361,7 +361,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Petra Cepeda \"Mama cuidame Belen\""
+              "text": "\"Mamá, cuídame a Belén\"",
+              "bold": true
             }
           ]
         },
@@ -369,7 +370,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Paracumbe, Nelie Robles"
+              "text": "Performers: ",
+              "bold": true
+            },
+            {
+              "text": "Petra Cepeda; Nelie Lebron Robles; Paracumbé"
             }
           ]
         }
