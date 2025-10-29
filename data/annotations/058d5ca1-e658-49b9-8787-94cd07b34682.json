@@ -538,6 +538,22 @@
         }
       ],
       "uuid": "f0e8fb17-6c33-4375-b576-559276e2a09c"
+    },
+    {
+      "start_time": 91,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hip-hop"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "744e2c0b-64ef-4dbc-b52c-2ff6f6639243"
     }
   ],
   "set": "Default",
