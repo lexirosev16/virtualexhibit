@@ -580,7 +580,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Carnival "
+              "text": "\"Vejigante come coco\"",
+              "bold": true
             }
           ]
         },
@@ -588,7 +589,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Vejigante Toque coco\""
+              "text": "Context: ",
+              "bold": true
+            },
+            {
+              "text": "Festivales de Santiago; Carnival  "
             }
           ]
         }
