@@ -554,6 +554,35 @@
       ],
       "tags": [],
       "uuid": "744e2c0b-64ef-4dbc-b52c-2ff6f6639243"
+    },
+    {
+      "start_time": 5700,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Closing bomba song "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hollande"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Rhythm"
+        }
+      ],
+      "uuid": "2192a4a3-2847-4921-a106-02feb9e7d6eb"
     }
   ],
   "set": "Default",
