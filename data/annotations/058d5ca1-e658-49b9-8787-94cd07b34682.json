@@ -463,6 +463,39 @@
         }
       ],
       "uuid": "46814eb3-6644-4135-910c-b5399d34361b"
+    },
+    {
+      "start_time": 3433,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carnival "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Vejigante Toque coco\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Context"
+        },
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "1fbfc068-6d77-4448-ae1f-8980e1d2dc2a"
     }
   ],
   "set": "Default",
