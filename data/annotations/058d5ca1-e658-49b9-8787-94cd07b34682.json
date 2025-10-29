@@ -373,7 +373,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"mi bandera\" "
+              "text": "\"Palo de Bandera\""
             }
           ]
         },
@@ -381,7 +381,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "paracumbe "
+              "text": "Guayama"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performer: ",
+              "bold": true
+            },
+            {
+              "text": "Paracumbe "
             }
           ]
         }
@@ -390,6 +402,10 @@
         {
           "category": "Music",
           "tag": "Song Title"
+        },
+        {
+          "category": "Music",
+          "tag": "Performer"
         }
       ],
       "uuid": "fa6f1d31-fe2e-4b47-9602-c257a6a01859"
