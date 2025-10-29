@@ -160,6 +160,27 @@
         }
       ],
       "uuid": "a04e7a5f-4cc5-4fc5-a532-be03350188df"
+    },
+    {
+      "start_time": 597,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Petra Cepeda speaks"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Performer"
+        }
+      ],
+      "uuid": "5ffa01b4-52e4-40c9-b864-1950cdb2bf24"
     }
   ],
   "set": "Default",
