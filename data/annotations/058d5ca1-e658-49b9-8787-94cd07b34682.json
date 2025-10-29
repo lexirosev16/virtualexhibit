@@ -517,6 +517,27 @@
         }
       ],
       "uuid": "ebae9dad-ee5a-4c49-8819-5061a3b73c22"
+    },
+    {
+      "start_time": 5372,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "reggae"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Rhythm"
+        }
+      ],
+      "uuid": "f0e8fb17-6c33-4375-b576-559276e2a09c"
     }
   ],
   "set": "Default",
