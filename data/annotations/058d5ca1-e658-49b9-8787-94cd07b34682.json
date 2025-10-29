@@ -364,6 +364,35 @@
         }
       ],
       "uuid": "934e9e39-28e3-4d30-b2c8-34ecb56da712"
+    },
+    {
+      "start_time": 2465,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"mi bandera\" "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "paracumbe "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "fa6f1d31-fe2e-4b47-9602-c257a6a01859"
     }
   ],
   "set": "Default",
