@@ -322,6 +322,27 @@
         }
       ],
       "uuid": "87ade07f-d5af-45f6-86d4-b422a663b8e1"
+    },
+    {
+      "start_time": 1902,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Estoy Buscando un arbol que me da sombra\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "388f22b5-9fa2-4caf-a605-ef0d2f7ff5d6"
     }
   ],
   "set": "Default",
