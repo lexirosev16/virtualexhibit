@@ -289,6 +289,39 @@
         }
       ],
       "uuid": "c2729ffc-4163-45ed-a2c7-600c49ed5928"
+    },
+    {
+      "start_time": 1745,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Petra Cepeda \"Mama cuidame Belen\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paracumbe, Nelie Robles"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Performer"
+        },
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        }
+      ],
+      "uuid": "87ade07f-d5af-45f6-86d4-b422a663b8e1"
     }
   ],
   "set": "Default",
