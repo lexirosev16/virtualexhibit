@@ -409,6 +409,39 @@
         }
       ],
       "uuid": "fa6f1d31-fe2e-4b47-9602-c257a6a01859"
+    },
+    {
+      "start_time": 3336,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yuba, la marile\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salsa adaptation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "Song Title"
+        },
+        {
+          "category": "Music",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "249c42cc-3535-4cf4-8ff0-89c80d1c8f10"
     }
   ],
   "set": "Default",
