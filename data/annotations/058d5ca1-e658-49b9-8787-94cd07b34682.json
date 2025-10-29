@@ -40,6 +40,34 @@
         }
       ],
       "uuid": "f8a5f474-199c-4f5d-bf1a-e693b65feb2f"
+    },
+    {
+      "start_time": 280,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performer: ",
+              "bold": true
+            },
+            {
+              "text": "Marc Anthony"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e5bfa7fb-36ff-4d7d-a87e-727f3be38028"
     }
   ],
   "set": "Default",
