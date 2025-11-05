@@ -41,7 +41,7 @@
       "uuid": "17f8a9ae-771f-4d4e-8ddc-19cf8c93e960"
     },
     {
-      "start_time": 565,
+      "start_time": 480,
       "end_time": 965,
       "annotation": [
         {
@@ -52,7 +52,7 @@
               "bold": true
             },
             {
-              "text": " \"Petronila Gilbert; Guilbe\" (Martinez)"
+              "text": " \"Petronila Gilbert; Guilbe\""
             }
           ]
         },
@@ -64,7 +64,7 @@
               "bold": true
             },
             {
-              "text": " False accusation "
+              "text": " False accusation"
             }
           ]
         }
