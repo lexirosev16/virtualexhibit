@@ -385,6 +385,22 @@
       ],
       "tags": [],
       "uuid": "13b92666-208c-4768-a5fd-e10835103863"
+    },
+    {
+      "start_time": 2995,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "8 Encuentro de Tambores"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "571d3f0b-d1af-4ae4-93a3-2d2b50e153c6"
     }
   ],
   "set": "Default",
