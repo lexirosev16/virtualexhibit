@@ -263,12 +263,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "hip-hop; recited poetry"
+              "text": "recited poetry"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "hip-hop"
+        }
+      ],
       "uuid": "26134d2c-4d73-45f2-81e9-3f994944b2c1"
     },
     {
