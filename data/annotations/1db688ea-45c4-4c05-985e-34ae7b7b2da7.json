@@ -652,6 +652,22 @@
         }
       ],
       "uuid": "9a07a83d-6e29-457e-80dd-7f24698a6164"
+    },
+    {
+      "start_time": 308,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dandy Figure"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5eef008b-62a3-4679-956a-e90208ae5dc7"
     }
   ],
   "set": "Default",
