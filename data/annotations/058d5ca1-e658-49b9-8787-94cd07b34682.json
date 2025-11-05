@@ -293,11 +293,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Performer: ",
-              "bold": true
-            },
-            {
-              "text": "Félix Alduén [?]"
+              "text": ""
             }
           ]
         }
@@ -309,7 +305,7 @@
         },
         {
           "category": "Speaker/Singer/Performer",
-          "tag": "Performer"
+          "tag": "Félix Alduén"
         }
       ],
       "uuid": "6906d6ed-68c3-4229-bb6d-a0cb5db00e3d"
