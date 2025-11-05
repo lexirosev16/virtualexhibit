@@ -353,6 +353,22 @@
         }
       ],
       "uuid": "ffbe3b0c-0fd9-4463-b220-3fc7bf2ad445"
+    },
+    {
+      "start_time": 2612,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sustainability and musical endangerment"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1a80f34d-2907-4b75-8106-74da7bfc063a"
     }
   ],
   "set": "Default",
