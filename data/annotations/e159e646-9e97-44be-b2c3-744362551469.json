@@ -132,6 +132,27 @@
         }
       ],
       "uuid": "8ec51a2e-2da8-4593-8813-43ef84e95b0c"
+    },
+    {
+      "start_time": 292,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "213b3a0c-56f4-41ea-aef0-996758526919"
     }
   ],
   "set": "Default",
