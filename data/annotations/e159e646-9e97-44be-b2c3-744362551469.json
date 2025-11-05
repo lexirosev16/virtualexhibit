@@ -36,6 +36,27 @@
         }
       ],
       "uuid": "0445efd5-794b-4df8-ab71-f97dcf7467cc"
+    },
+    {
+      "start_time": 144,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saxophone; jazz"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Instrumentation",
+          "tag": "Instrumentation"
+        }
+      ],
+      "uuid": "129de598-e358-4dd0-a6d2-dce6da396302"
     }
   ],
   "set": "Default",
