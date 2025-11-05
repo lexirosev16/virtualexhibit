@@ -90,6 +90,27 @@
         }
       ],
       "uuid": "0ecfb801-9f0a-47ad-8adb-6c53b9987cc9"
+    },
+    {
+      "start_time": 222,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Jesus Cepeda"
+        }
+      ],
+      "uuid": "c59a50c6-8b8a-4a5b-9ef7-838cebc6ba33"
     }
   ],
   "set": "Default",
