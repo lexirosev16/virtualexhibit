@@ -332,6 +332,27 @@
         }
       ],
       "uuid": "8e647681-d9a0-494d-a572-d576372b8153"
+    },
+    {
+      "start_time": 2490,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "poverty theme; suffer for the culture"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "ffbe3b0c-0fd9-4463-b220-3fc7bf2ad445"
     }
   ],
   "set": "Default",
