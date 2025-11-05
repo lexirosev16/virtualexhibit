@@ -33,26 +33,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Rhythm:",
-              "bold": true
-            },
-            {
-              "text": " yuba (Martinez)"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Covered by: ",
               "bold": true
             },
@@ -64,16 +44,16 @@
       ],
       "tags": [
         {
-          "category": "Cantos de Bomba",
-          "tag": "Song Title"
-        },
-        {
           "category": "Speaker/Singer/Performer",
           "tag": "Don Rafael Cepeda Atiles"
         },
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "Yuba"
+        },
+        {
+          "category": "Cantos de Bomba",
+          "tag": "\"Anaiso\""
         }
       ],
       "uuid": "433abd20-aacc-450e-b55c-b2bdd4355758"
