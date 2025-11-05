@@ -429,45 +429,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Palo de bandera\"",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Guayama",
               "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Performer: ",
-              "bold": true
-            },
-            {
-              "text": "Paracumbé"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Cantos de Bomba",
-          "tag": "Song Title"
+          "category": "Analysis",
+          "tag": "Context"
         },
         {
           "category": "Speaker/Singer/Performer",
-          "tag": "Performer"
+          "tag": "Paracumbé"
         },
         {
-          "category": "Analysis",
-          "tag": "Context"
+          "category": "Cantos de Bomba",
+          "tag": "\"Palo'e bandera\""
         }
       ],
       "uuid": "fa6f1d31-fe2e-4b47-9602-c257a6a01859"
