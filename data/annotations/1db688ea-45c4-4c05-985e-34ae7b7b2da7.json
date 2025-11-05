@@ -623,6 +623,27 @@
         }
       ],
       "uuid": "16fc8c85-2933-4bac-92f2-40e27aabbadb"
+    },
+    {
+      "start_time": 63,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "nonspeech"
+        }
+      ],
+      "uuid": "9a07a83d-6e29-457e-80dd-7f24698a6164"
     }
   ],
   "set": "Default",
