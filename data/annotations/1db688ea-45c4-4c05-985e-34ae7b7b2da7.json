@@ -175,46 +175,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Title: ",
-              "bold": true
-            },
-            {
-              "text": "\"El Bombon de Elena\""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Performer: ",
-              "bold": true
-            },
-            {
-              "text": "Don Rafael Cepeda"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Covered by: ",
               "bold": true
             },
@@ -597,6 +557,14 @@
         {
           "category": "Analysis",
           "tag": "Lyrics"
+        },
+        {
+          "category": "Cantos de Bomba",
+          "tag": "\"El Bombon de Elena\""
+        },
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Don Rafael Cepeda Atiles"
         }
       ],
       "uuid": "f248b737-b2e9-4196-94de-7baa6aff690d"
