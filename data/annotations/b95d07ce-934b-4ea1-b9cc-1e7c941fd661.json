@@ -198,6 +198,22 @@
         }
       ],
       "uuid": "7da2d061-a34f-486a-9739-2420cd1cc068"
+    },
+    {
+      "start_time": 1004,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Boricana"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "21a33b89-f1d3-47b5-a67c-b4d766038c75"
     }
   ],
   "set": "Default",
