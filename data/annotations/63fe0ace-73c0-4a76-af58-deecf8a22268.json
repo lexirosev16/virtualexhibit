@@ -1,1 +1,32 @@
-{"annotations":[],"set":"Default","event_id":"5e8ab18a-7ff1-436f-8e0b-15258b35dd48","source_id":"1a23fa0c-1b17-4565-a6bd-b90fc669e7b9"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Cantos de Bomba",
+          "tag": "\"Cachon Dice Elena\""
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "02dd3e1c-c995-4c23-a3b8-68f1c49ede26"
+    }
+  ],
+  "set": "Default",
+  "event_id": "5e8ab18a-7ff1-436f-8e0b-15258b35dd48",
+  "source_id": "1a23fa0c-1b17-4565-a6bd-b90fc669e7b9"
+}
