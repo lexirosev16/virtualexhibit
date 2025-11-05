@@ -65,6 +65,31 @@
         }
       ],
       "uuid": "129de598-e358-4dd0-a6d2-dce6da396302"
+    },
+    {
+      "start_time": 188,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Don Rafael Cepeda Atiles"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "0ecfb801-9f0a-47ad-8adb-6c53b9987cc9"
     }
   ],
   "set": "Default",
