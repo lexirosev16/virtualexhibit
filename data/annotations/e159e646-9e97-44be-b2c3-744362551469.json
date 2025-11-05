@@ -253,6 +253,22 @@
       ],
       "tags": [],
       "uuid": "bcdaf544-a5b2-4abb-a357-0ec5892db384"
+    },
+    {
+      "start_time": 1831,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "diegetic music piano"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "27ebf6e9-38ea-451f-8b94-3701cae418e1"
     }
   ],
   "set": "Default",
