@@ -61,7 +61,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Colonia Colonia "
+              "text": "Colonia, colonia "
             }
           ],
           "align": "center"
@@ -70,7 +70,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Lleva la cana, lejendo"
+              "text": "Lleva la cana, lejenio"
             }
           ],
           "align": "center"
@@ -80,7 +80,16 @@
           "align": "center",
           "children": [
             {
-              "text": "morir de hambre "
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "Morir de hambre "
             }
           ]
         },
