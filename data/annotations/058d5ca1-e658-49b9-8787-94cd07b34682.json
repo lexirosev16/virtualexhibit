@@ -37,18 +37,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Performer: ",
-              "bold": true
-            },
-            {
-              "text": "Marc Anthony"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": ""
             }
           ]
@@ -57,7 +45,7 @@
       "tags": [
         {
           "category": "Speaker/Singer/Performer",
-          "tag": "Performer"
+          "tag": "Marc Anthony"
         }
       ],
       "uuid": "e5bfa7fb-36ff-4d7d-a87e-727f3be38028"
