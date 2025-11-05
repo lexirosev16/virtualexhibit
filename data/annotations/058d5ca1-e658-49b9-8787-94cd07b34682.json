@@ -11,36 +11,20 @@
               "text": ""
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Salsa adaptation "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Flamenco guitar; vocalist; palmas (hand claps)"
-            }
-          ]
         }
       ],
       "tags": [
         {
-          "category": "Cantos de Bomba",
-          "tag": "Song Title"
+          "category": "Instrumentation",
+          "tag": "palmas"
         },
         {
           "category": "Instrumentation",
-          "tag": "Instrumentation"
+          "tag": "guitar"
         },
         {
           "category": "Genre/Sub-genre/Rhythm",
-          "tag": "rhythm"
+          "tag": "salsa"
         }
       ],
       "uuid": "f8a5f474-199c-4f5d-bf1a-e693b65feb2f"
