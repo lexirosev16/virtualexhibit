@@ -459,16 +459,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Yuba, la Marile\"",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Salsa adaptation",
+              "text": "",
               "bold": true
             }
           ]
@@ -476,12 +467,24 @@
       ],
       "tags": [
         {
-          "category": "Cantos de Bomba",
-          "tag": "Song Title"
-        },
-        {
           "category": "Analysis",
           "tag": "Context"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "salsa"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        },
+        {
+          "category": "Cantos de Bomba",
+          "tag": "\"Yuba la Marile\""
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "yubá"
         }
       ],
       "uuid": "249c42cc-3535-4cf4-8ff0-89c80d1c8f10"
