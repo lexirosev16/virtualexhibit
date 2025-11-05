@@ -111,6 +111,27 @@
         }
       ],
       "uuid": "c59a50c6-8b8a-4a5b-9ef7-838cebc6ba33"
+    },
+    {
+      "start_time": 255,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Mario Cepeda"
+        }
+      ],
+      "uuid": "8ec51a2e-2da8-4593-8813-43ef84e95b0c"
     }
   ],
   "set": "Default",
