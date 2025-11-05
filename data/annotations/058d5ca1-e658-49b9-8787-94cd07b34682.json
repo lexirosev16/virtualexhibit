@@ -623,15 +623,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Closing bomba song "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Hollande"
+              "text": ""
             }
           ]
         }
@@ -639,7 +631,11 @@
       "tags": [
         {
           "category": "Genre/Sub-genre/Rhythm",
-          "tag": "rhythm"
+          "tag": "holandés"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
         }
       ],
       "uuid": "2192a4a3-2847-4921-a106-02feb9e7d6eb"
