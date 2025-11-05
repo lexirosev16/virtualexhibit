@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "c76d18ac-9347-482f-b110-471d79f6a938"
+    },
+    {
+      "start_time": 1420,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Zumbador\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "plena"
+        }
+      ],
+      "uuid": "52939ddb-13ac-4c10-a676-2fcb1841059d"
     }
   ],
   "set": "Default",
