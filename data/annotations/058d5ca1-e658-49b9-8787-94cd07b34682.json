@@ -163,7 +163,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Petra Cepeda speaks"
+              "text": ""
             }
           ]
         }
@@ -172,6 +172,10 @@
         {
           "category": "Speaker/Singer/Performer",
           "tag": "Performer"
+        },
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Petra Cededa"
         }
       ],
       "uuid": "5ffa01b4-52e4-40c9-b864-1950cdb2bf24"
