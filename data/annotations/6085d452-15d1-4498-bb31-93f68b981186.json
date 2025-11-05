@@ -33,7 +33,7 @@
       "uuid": "dd4df340-9cdb-4441-a9a3-b549d7493474"
     },
     {
-      "start_time": 1233,
+      "start_time": 843,
       "end_time": 1334,
       "annotation": [
         {
@@ -52,11 +52,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Composer: ",
+              "text": "Lyrics:",
               "bold": true
-            },
-            {
-              "text": "Don Rafael Cepeda"
             }
           ]
         },
@@ -64,8 +61,89 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Lyrics:",
-              "bold": true
+              "text": "Colonia Colonia "
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lleva la cana, lejendo"
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "morir de hambre "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "a los hombres "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "a reciben sus salarios "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "moriendo "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "colonia, colonia "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "lleva la cana llejeno "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Colonia, colonia"
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "lleva la cana llejeno "
             }
           ]
         }
@@ -74,6 +152,14 @@
         {
           "category": "Cantos de Bomba",
           "tag": "Song Title"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Lyrics"
+        },
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Don Rafael Cepeda Atiles"
         }
       ],
       "uuid": "ffcc430c-b9bc-4911-87be-0ffbc2268d82"
