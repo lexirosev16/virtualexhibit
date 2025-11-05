@@ -343,28 +343,20 @@
               "bold": true
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Performers: ",
-              "bold": true
-            },
-            {
-              "text": "Petra Cepeda; Nelie Lebron Robles; Paracumbé"
-            }
-          ]
         }
       ],
       "tags": [
         {
-          "category": "Speaker/Singer/Performer",
-          "tag": "Performer"
-        },
-        {
           "category": "Cantos de Bomba",
           "tag": "Song Title"
+        },
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Petra Cededa"
+        },
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Paracumbé"
         }
       ],
       "uuid": "87ade07f-d5af-45f6-86d4-b422a663b8e1"
