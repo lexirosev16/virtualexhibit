@@ -237,6 +237,22 @@
         }
       ],
       "uuid": "90815b7a-9121-486b-b502-73b9093d33a0"
+    },
+    {
+      "start_time": 1485,
+      "end_time": 1500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "saxophone"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bcdaf544-a5b2-4abb-a357-0ec5892db384"
     }
   ],
   "set": "Default",
