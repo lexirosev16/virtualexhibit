@@ -378,21 +378,7 @@
           "type": "paragraph",
           "children": [
             {
-              "bold": true,
-              "text": "Yuba"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Composer",
-              "bold": true,
-              "strikethrough": true
-            },
-            {
-              "text": ": Don Rafael Cepeda Atiles"
+              "text": ""
             }
           ]
         }
@@ -404,11 +390,11 @@
         },
         {
           "category": "Speaker/Singer/Performer",
-          "tag": "Performer"
+          "tag": "Don Rafael Cepeda Atiles"
         },
         {
           "category": "Genre/Sub-genre/Rhythm",
-          "tag": "rhythm"
+          "tag": "yubá"
         }
       ],
       "uuid": "388f22b5-9fa2-4caf-a605-ef0d2f7ff5d6"
