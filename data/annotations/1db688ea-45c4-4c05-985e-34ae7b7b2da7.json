@@ -33,23 +33,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Performer: ",
-              "bold": true
-            },
-            {
-              "text": "Rafael Cepeda"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Title: ",
-              "bold": true
-            },
-            {
-              "text": "\"Anaiso\""
+              "text": ""
             }
           ]
         },
@@ -84,12 +68,12 @@
           "tag": "Song Title"
         },
         {
-          "category": "Genre/Sub-genre/Rhythm",
-          "tag": "Rhythm"
+          "category": "Speaker/Singer/Performer",
+          "tag": "Don Rafael Cepeda Atiles"
         },
         {
-          "category": "Speaker/Singer/Performer",
-          "tag": "Performer"
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "Yuba"
         }
       ],
       "uuid": "433abd20-aacc-450e-b55c-b2bdd4355758"
