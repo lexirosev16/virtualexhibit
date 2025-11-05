@@ -625,20 +625,12 @@
       ],
       "tags": [
         {
-          "category": "Speaker/Singer/Performer",
-          "tag": "Performer"
-        },
-        {
           "category": "Analysis",
           "tag": "Context"
         },
         {
-          "category": "Genre/Sub-genre/Rhythm",
-          "tag": "Rhythm"
-        },
-        {
           "category": "Cantos de Bomba",
-          "tag": "Song Title"
+          "tag": "\"Orindoro\""
         }
       ],
       "uuid": "2489e9d7-9b56-4484-a8e1-f2c9ad6dba4d"
