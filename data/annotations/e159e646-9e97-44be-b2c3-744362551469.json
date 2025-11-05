@@ -422,6 +422,22 @@
         }
       ],
       "uuid": "beb5b6e6-65ee-481d-ad78-a28e5d16fefe"
+    },
+    {
+      "start_time": 3391,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lone saxophone; diegetic music "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "43f927ea-d39e-4da8-b05d-5b23e1c3cf6c"
     }
   ],
   "set": "Default",
