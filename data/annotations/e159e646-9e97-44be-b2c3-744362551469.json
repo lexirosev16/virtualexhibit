@@ -255,27 +255,6 @@
       "uuid": "43f927ea-d39e-4da8-b05d-5b23e1c3cf6c"
     },
     {
-      "start_time": 3546,
-      "end_time": 60,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "bomba used for the 2019 protests"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Cantos de Bomba",
-          "tag": "\"Candela\""
-        }
-      ],
-      "uuid": "ee4220f6-359e-4906-85b3-d4a8adcf3bee"
-    },
-    {
       "start_time": 0,
       "end_time": 6,
       "annotation": [
