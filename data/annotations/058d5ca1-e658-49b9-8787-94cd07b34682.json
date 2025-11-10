@@ -2254,6 +2254,27 @@
       ],
       "tags": [],
       "uuid": "650af012-a75c-41c0-9a9b-3854a7d0311c"
+    },
+    {
+      "start_time": 2010,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Adios que me voy\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "6c37e5cd-0ed7-4dfd-861e-3a2d99fc1d00"
     }
   ],
   "set": "Default",
