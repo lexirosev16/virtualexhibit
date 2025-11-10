@@ -1228,7 +1228,7 @@
     },
     {
       "start_time": 612,
-      "end_time": 0,
+      "end_time": 616,
       "annotation": [
         {
           "type": "paragraph",
@@ -1267,6 +1267,14 @@
           "children": [
             {
               "text": "canto, baile, ritmo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "canto, baile, ritmo\""
             }
           ]
         },
