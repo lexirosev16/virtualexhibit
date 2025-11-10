@@ -1234,59 +1234,40 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Welmo raps "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
+              "text": "Welmo raps: \"M"
+            },
             {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"es canto baile tirmo me levanto tomo aire signo el tirmo ela espejo "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "canto, baile, ritmo"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "canto, baile, ritmo\""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"",
+              "text": "e levanto tomo aire sigo el ritmo me despejo en la sangre de una raza que se mira al espejo con las manos negras manos que se lanzan sobre el cuero. Canto, baile, ritmo. Canto, baile, ritmo\"",
               "italic": true
             }
-          ],
-          "align": "center"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "English Translation: ",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "italic": true,
+              "text": "\"I rise, I breathe, I follow the rhythm. I clear my mind in the blood of a race that looks into the mirror with Black hands—hands that strike the drum. Song, dance, rhythm. Song, dance, rhythm.\""
+            }
+          ]
         }
       ],
       "tags": [],
