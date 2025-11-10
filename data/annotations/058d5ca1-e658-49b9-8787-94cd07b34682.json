@@ -1359,8 +1359,49 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cuando Diego bailó\" ",
+              "text": "\"Cuando Diego\" ",
               "bold": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Cuando Diego Bailó "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Cuando Diego bailó, "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "cuando Diego… cuando Diego bailó, hasta la lluvia llegó. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "No hay nadie que baile lero como Diego hasta la tierra tembló."
             }
           ]
         }
