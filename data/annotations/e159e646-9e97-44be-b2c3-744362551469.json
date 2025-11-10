@@ -459,6 +459,478 @@
         }
       ],
       "uuid": "ee4220f6-359e-4906-85b3-d4a8adcf3bee"
+    },
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Le Lo Lai; chicken sounds"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1da1bd9e-450b-47ce-9e18-822e3868345e"
+    },
+    {
+      "start_time": 21,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Bambulae Se alla\""
+        }
+      ],
+      "uuid": "deb045de-77a5-4caa-bc07-79f4a11d6616"
+    },
+    {
+      "start_time": 117,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "images of the ocean"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "saxophone I piano I jazz"
+        }
+      ],
+      "uuid": "13bafa29-1529-4401-aa65-05ba80a04cfe"
+    },
+    {
+      "start_time": 188,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Don Rafael Cepeda Atiles"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "bomba I \"Que no baile gracima\""
+        }
+      ],
+      "uuid": "3c72cb67-116f-47cc-a5cf-2cea61d7e4a4"
+    },
+    {
+      "start_time": 222,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Jesus Cepeda"
+        }
+      ],
+      "uuid": "9925a4e9-f139-42cb-afa3-3062334d2067"
+    },
+    {
+      "start_time": 255,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Mario Cepeda"
+        }
+      ],
+      "uuid": "14778014-3131-4f6b-b755-f9bec70dc9e2"
+    },
+    {
+      "start_time": 292,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "e7769140-bcf7-457f-9ab5-72f985929a1a"
+    },
+    {
+      "start_time": 333,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien Torres discusses the bomba ensemble Plenibom"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Marien Torres Lopez"
+        }
+      ],
+      "uuid": "0450278c-56e1-4340-bee3-7e3eb4391076"
+    },
+    {
+      "start_time": 405,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "saxophone"
+        }
+      ],
+      "uuid": "ba1c5806-77b0-415e-9b6c-bc9e91086c09"
+    },
+    {
+      "start_time": 478,
+      "end_time": 500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "77b6f9dd-5535-44f1-b717-e8d5a0912b29"
+    },
+    {
+      "start_time": 1130,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Saxophone I piano"
+        }
+      ],
+      "uuid": "45fb0a52-56e3-4ab1-a232-e08ee16baf90"
+    },
+    {
+      "start_time": 1485,
+      "end_time": 1500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "diegetic music "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "saxophone"
+        }
+      ],
+      "uuid": "89041e26-8ce8-4387-a709-f7a9a3fcf2da"
+    },
+    {
+      "start_time": 1831,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "diegetic music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "piano"
+        }
+      ],
+      "uuid": "0e98983f-9aad-4918-92dc-8373de24c86b"
+    },
+    {
+      "start_time": 2194,
+      "end_time": 2316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "37b2d954-6d44-4b73-bf4a-1385bedfce86"
+    },
+    {
+      "start_time": 2336,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "EBPDCB"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "24f7fde6-f552-4762-93e4-61409100998c"
+    },
+    {
+      "start_time": 2340,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Cary Cepeda"
+        }
+      ],
+      "uuid": "255c102c-084b-4d25-9b00-357d4fc95d87"
+    },
+    {
+      "start_time": 2490,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "poverty theme; suffer for the culture"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "45427e6b-60ae-4513-8e98-94980c2edfeb"
+    },
+    {
+      "start_time": 2612,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sustainability and musical endangerment"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b7147d88-b545-4095-ae02-c8c7508db527"
+    },
+    {
+      "start_time": 2672,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Denise Solis and Julia Cepeda"
+        }
+      ],
+      "uuid": "57e21adc-e70b-48e9-a20e-52dbe98a2ba9"
+    },
+    {
+      "start_time": 2995,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "8 Encuentro de Tambores"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7ead9012-c776-4165-acdb-2fffb5c7a366"
+    },
+    {
+      "start_time": 3076,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"Estoy llamando\""
+        }
+      ],
+      "uuid": "c7a1954d-900d-486a-b265-960666c60857"
+    },
+    {
+      "start_time": 3391,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "diegetic music "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "saxophone"
+        }
+      ],
+      "uuid": "268d4e58-d425-4e77-86ac-0f7853b56e21"
+    },
+    {
+      "start_time": 3546,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "bomba used for the 2019 protests"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Cantos de Bomba",
+          "tag": "\"Candela\""
+        }
+      ],
+      "uuid": "a0ec36d0-2ba8-4660-818c-61397e8112a8"
     }
   ],
   "set": "Default",
