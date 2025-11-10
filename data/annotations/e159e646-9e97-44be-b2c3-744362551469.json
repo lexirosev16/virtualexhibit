@@ -784,6 +784,27 @@
       ],
       "tags": [],
       "uuid": "2a4b62b9-65ba-4202-8421-eef7312787ca"
+    },
+    {
+      "start_time": 780,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "holandés"
+        }
+      ],
+      "uuid": "e2cd1186-aae5-47ab-be5e-1e74884600b1"
     }
   ],
   "set": "Default",
