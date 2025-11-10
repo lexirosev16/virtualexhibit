@@ -3072,6 +3072,26 @@
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Director and Music Producer:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Angel \"Cuco\" Pena"
+            }
+          ]
         }
       ],
       "tags": [
