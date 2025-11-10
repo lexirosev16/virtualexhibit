@@ -1528,6 +1528,27 @@
       ],
       "tags": [],
       "uuid": "8076d99f-6b54-413b-a848-9932aeac638e"
+    },
+    {
+      "start_time": 1537,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Temporal\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "plena"
+        }
+      ],
+      "uuid": "f181cad8-8d33-4d37-8927-94b40b63e068"
     }
   ],
   "set": "Default",
