@@ -678,7 +678,7 @@
     },
     {
       "start_time": 541,
-      "end_time": 0,
+      "end_time": 608,
       "annotation": [
         {
           "type": "paragraph",
@@ -761,7 +761,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "5c0d1251-0cc8-4285-8b20-b31f6a8d5aa3"
     }
   ],
