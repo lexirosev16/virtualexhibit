@@ -954,6 +954,27 @@
       ],
       "tags": [],
       "uuid": "477cd3f4-860c-4082-b0a9-28ab4e801e62"
+    },
+    {
+      "start_time": 3261,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Delegation of Loiza presents their work at the Encuentro de Tambores"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "fee7d94a-8af1-4286-9318-a7d0cf4c7ec9"
     }
   ],
   "set": "Default",
