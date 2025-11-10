@@ -118,27 +118,6 @@
       "uuid": "213b3a0c-56f4-41ea-aef0-996758526919"
     },
     {
-      "start_time": 333,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Speaker/Singer/Performer",
-          "tag": "Marien Torres Lopez"
-        }
-      ],
-      "uuid": "75a15a8c-b0e0-4bfa-8326-4bf17c01a20b"
-    },
-    {
       "start_time": 1831,
       "end_time": 0,
       "annotation": [
