@@ -87,6 +87,10 @@
         {
           "category": "Speaker/Singer/Performer",
           "tag": "Performer"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "salsa"
         }
       ],
       "uuid": "2a3c6a09-02b7-456b-b141-7edb3a6b3589"
