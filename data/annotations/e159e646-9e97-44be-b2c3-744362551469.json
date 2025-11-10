@@ -768,6 +768,22 @@
         }
       ],
       "uuid": "5c0d1251-0cc8-4285-8b20-b31f6a8d5aa3"
+    },
+    {
+      "start_time": 740,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of political corruption. Videos of politicians are shown"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2a4b62b9-65ba-4202-8421-eef7312787ca"
     }
   ],
   "set": "Default",
