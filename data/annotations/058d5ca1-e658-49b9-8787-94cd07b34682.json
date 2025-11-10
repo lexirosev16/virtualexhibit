@@ -1296,6 +1296,22 @@
       ],
       "tags": [],
       "uuid": "18546f9d-dec3-493f-bfb1-1870a6c99b36"
+    },
+    {
+      "start_time": 835,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "M Gomez"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83014299-61ff-4418-b112-c2a6d37e0f13"
     }
   ],
   "set": "Default",
