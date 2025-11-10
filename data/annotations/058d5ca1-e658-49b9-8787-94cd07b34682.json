@@ -1234,9 +1234,51 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Welmo raps"
+              "text": "Welmo raps "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"es canto baile tirmo me levanto tomo aire signo el tirmo ela espejo "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "canto, baile, ritmo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"",
+              "italic": true
+            }
+          ],
+          "align": "center"
         }
       ],
       "tags": [],
