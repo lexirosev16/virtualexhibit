@@ -681,6 +681,10 @@
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "hip-hop"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Transcription"
         }
       ],
       "uuid": "744e2c0b-64ef-4dbc-b52c-2ff6f6639243"
