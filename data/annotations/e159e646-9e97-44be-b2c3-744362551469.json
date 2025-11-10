@@ -1004,6 +1004,27 @@
         }
       ],
       "uuid": "682cc0c6-51ae-4589-a57e-1f79cecb9e61"
+    },
+    {
+      "start_time": 3391,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Diegetic saxophone music plays while Marien Torres discusses the trenches, cultural labor, and the values of resilience inherent to bomba. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "saxophone"
+        }
+      ],
+      "uuid": "b4493661-4131-4948-80c9-6040e9effb14"
     }
   ],
   "set": "Default",
