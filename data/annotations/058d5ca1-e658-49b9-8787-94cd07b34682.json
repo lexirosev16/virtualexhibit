@@ -3956,6 +3956,16 @@
               "text": "Residente or Calle 13; possibly Welmo"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"",
+              "italic": true
+            }
+          ],
+          "align": "center"
         }
       ],
       "tags": [],
