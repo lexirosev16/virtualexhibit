@@ -793,7 +793,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Marien discusses the lack of self-governance in Puerto Rico"
             }
           ]
         }
@@ -802,6 +802,10 @@
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "holandés"
+        },
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Marien Torres Lopez"
         }
       ],
       "uuid": "e2cd1186-aae5-47ab-be5e-1e74884600b1"
