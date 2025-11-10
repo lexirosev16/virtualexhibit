@@ -968,8 +968,18 @@
           "align": "center",
           "children": [
             {
-              "text": "Para que sepas en verdad quien soy de donde vengo o donde voy. Voy a  contarte una historia a lo que debe saber la sangre que corre mis pedaz  es pura cera que ataca jose  ",
+              "text": "Para que sepas en verdad quién soy, de dónde vengo y hacia dónde voy. Voy a contarte una historia, lo que debe saber la sangre que corre. Mis pedazos son pura cera\"",
               "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Llamada: \"que ataca a José\" "
             }
           ]
         },
