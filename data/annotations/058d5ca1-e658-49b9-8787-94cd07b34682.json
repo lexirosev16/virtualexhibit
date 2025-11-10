@@ -2320,6 +2320,22 @@
       ],
       "tags": [],
       "uuid": "3938337b-c333-4c06-aabd-763a36df0ada"
+    },
+    {
+      "start_time": 2139,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Petra Cepeda discusses \"pedir piquete\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0c4f56b4-ec72-4915-a323-acd2ed545ac3"
     }
   ],
   "set": "Default",
