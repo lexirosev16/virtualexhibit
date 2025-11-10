@@ -350,7 +350,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "undefined"
+              "text": "[Cepeda] performs [\"song\"] on barriles"
             }
           ]
         }
@@ -359,6 +359,10 @@
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "bomba"
+        },
+        {
+          "category": "Instrumentation",
+          "tag": "barriles"
         }
       ],
       "uuid": "e7769140-bcf7-457f-9ab5-72f985929a1a"
