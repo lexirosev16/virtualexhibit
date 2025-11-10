@@ -2357,6 +2357,22 @@
         }
       ],
       "uuid": "6057fc0e-a25a-48b5-9103-b5094217423c"
+    },
+    {
+      "start_time": 2198,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps again "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c331985f-4ce3-4021-a714-e724311c1b68"
     }
   ],
   "set": "Default",
