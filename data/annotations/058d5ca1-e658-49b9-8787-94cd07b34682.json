@@ -1430,10 +1430,20 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Guayama",
+              "text": "(Guayama) ",
               "bold": true
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "\"Palo'e bandera\""
+            }
+          ],
+          "align": "center"
         }
       ],
       "tags": [
