@@ -792,7 +792,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The electric guitar transitions into “Cuembe na’ma,” a bomba song presented here with a salsa-fusion adaptation. Flamenco singer Olga Tañón performs, accompanied by palmas (handclaps), while a bomba dancer is present. Traditional "
+              "text": "An electric guitar transitions into “Cuembe na’ma,” a bomba song presented here with a salsa-fusion adaptation. Flamenco singer Olga Tañón performs, accompanied by palmas (handclaps), while a bomba dancer is present. Traditional "
             },
             {
               "text": "jomba jaleos",
@@ -818,7 +818,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "salsa"
+        }
+      ],
       "uuid": "e3d7b98a-d652-4dc4-a95f-2b41d26adca5"
     }
   ],
