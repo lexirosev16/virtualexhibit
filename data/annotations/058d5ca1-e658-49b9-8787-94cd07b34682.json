@@ -602,7 +602,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Welmo E. Romero-Joseph (b. 1993) was a hip-hop MC, who is also known for his activism and values of social justice. In this clip he raps in Spanish stating \""
+              "text": "Welmo E. Romero-Joseph (b. 1993) was a hip-hop MC, who is also known for his activism and values of social justice. In this clip, he sings in Spanish, rapping the following: "
             }
           ]
         },
@@ -632,7 +632,47 @@
           "children": [
             {
               "italic": true,
-              "text": "que le rinde culto al ritmo el tambor y la cadencia dando esencia y vigencia a fuertes memorias reclamando un espacio al interior de una cultura que en ocasiones ha olvidado el espelendor de su negrura"
+              "text": "que le rinde culto al ritmo el tambor y la cadencia dando esencia y vigencia a fuertes memorias "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "reclamando un espacio al interior de una cultura que en ocasiones ha olvidado el espelendor de su negrura\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "underline": true,
+              "text": "English Translation"
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "“Assuming my people\nare ready, a chronicler arrives—protagonist of a story\nthat pays homage to rhythm, to the drum and its cadence,\ngiving essence and vitality to powerful memories,\nreclaiming a space within a culture that at times\nhas forgotten the splendor of its Blackness.\"",
+              "italic": true
+            },
+            {
+              "text": "\n"
             }
           ]
         }
