@@ -461,27 +461,6 @@
       "uuid": "37b2d954-6d44-4b73-bf4a-1385bedfce86"
     },
     {
-      "start_time": 2336,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "EBPDCB"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Genre/Sub-genre/Rhythm",
-          "tag": "bomba"
-        }
-      ],
-      "uuid": "24f7fde6-f552-4762-93e4-61409100998c"
-    },
-    {
       "start_time": 2340,
       "end_time": 0,
       "annotation": [
