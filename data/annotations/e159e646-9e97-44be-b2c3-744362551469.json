@@ -528,13 +528,13 @@
     },
     {
       "start_time": 2672,
-      "end_time": 0,
+      "end_time": 2647,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "undefined"
+              "text": "Unidentified bomba song"
             }
           ]
         }
@@ -543,6 +543,10 @@
         {
           "category": "_uncategorized_",
           "tag": "Denise Solis and Julia Cepeda"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
         }
       ],
       "uuid": "57e21adc-e70b-48e9-a20e-52dbe98a2ba9"
