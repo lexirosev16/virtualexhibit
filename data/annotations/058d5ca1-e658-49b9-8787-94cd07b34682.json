@@ -3867,6 +3867,30 @@
       ],
       "tags": [],
       "uuid": "2851150e-582d-4397-82e4-d329c9957ba9"
+    },
+    {
+      "start_time": 5637,
+      "end_time": 5640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Possible Brazilian instrument; cuica"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Images of hip-hop or breakdance occurring in a batey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "91a8098a-d683-4b43-8507-eb36e1250802"
     }
   ],
   "set": "Default",
