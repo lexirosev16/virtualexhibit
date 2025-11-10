@@ -239,27 +239,6 @@
       "uuid": "ffbe3b0c-0fd9-4463-b220-3fc7bf2ad445"
     },
     {
-      "start_time": 3076,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Estoy llamando"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Cantos de Bomba",
-          "tag": "Song Title"
-        }
-      ],
-      "uuid": "beb5b6e6-65ee-481d-ad78-a28e5d16fefe"
-    },
-    {
       "start_time": 3391,
       "end_time": 0,
       "annotation": [
