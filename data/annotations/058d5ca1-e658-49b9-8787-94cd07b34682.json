@@ -783,6 +783,22 @@
         }
       ],
       "uuid": "8f31bf67-25dc-47b4-b312-958f99bf4860"
+    },
+    {
+      "start_time": 133,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electric guitar transitions to \"Cuembe na'ma.\" A bomba song that uses a salsa-fusion adaptation in this context.  "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e3d7b98a-d652-4dc4-a95f-2b41d26adca5"
     }
   ],
   "set": "Default",
