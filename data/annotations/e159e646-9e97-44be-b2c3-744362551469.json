@@ -1025,6 +1025,22 @@
         }
       ],
       "uuid": "b4493661-4131-4948-80c9-6040e9effb14"
+    },
+    {
+      "start_time": 3657,
+      "end_time": 3658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chickens and baby chickens appear on screen to close alluding to hope, as their presence was discussed by Marien Torres earlier in the film"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "09f7722f-2643-4fb2-a61d-a27a3b28632e"
     }
   ],
   "set": "Default",
