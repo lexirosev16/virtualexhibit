@@ -610,35 +610,35 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Presuemiendo que mi gente ",
+              "text": "\"Presuemiendo que mi gente se encuentre lista llega un cronista, protagonista de una historia",
               "italic": true
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "italic": true,
-              "text": "se encuentre lista llega un cronista, protagonista de una historia"
+              "text": "que le rinde culto al ritmo el tambor y la cadencia "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "italic": true,
-              "text": "que le rinde culto al ritmo el tambor y la cadencia dando esencia y vigencia a fuertes memorias "
+              "text": "dando esencia y vigencia a fuertes memorias "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "italic": true,
@@ -648,7 +648,7 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "text": "",
@@ -658,7 +658,7 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "underline": true,
