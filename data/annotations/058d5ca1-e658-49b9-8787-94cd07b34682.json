@@ -3692,7 +3692,56 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Bombero Eh\" Loiza"
+              "text": "\"Bombero Eh\" (Loíza)",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Coro]  \nBombero eh\nBombero eh\nRepícame la bomba, bombero eh (x2)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Verso 1]  \nRepica por aquí\nRepica por allá\nQue yo te cantaré\nBomba africana"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Coro]  \nBombero eh\nBombero eh\nRepícame la bomba, bombero eh"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Verso 2]  \nLoíza tiene bomba, bombera eh\nLoíza tiene bomba\nY yo la bailaré"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Coro]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
             }
           ]
         }
@@ -3701,6 +3750,10 @@
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "bomba"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "seis corrido"
         }
       ],
       "uuid": "f6012f3d-3b9b-420f-9f52-7b15b7700ddb"
