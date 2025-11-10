@@ -817,7 +817,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Soy de la calle la puerta de atras donde este ritmo"
+              "text": "Soy de la calle la puerta de atras donde este ritmo caliente aqui todo el mundo",
+              "italic": true
             }
           ]
         }
