@@ -71,27 +71,6 @@
       "uuid": "f8a5f474-199c-4f5d-bf1a-e693b65feb2f"
     },
     {
-      "start_time": 280,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Speaker/Singer/Performer",
-          "tag": "Marc Anthony"
-        }
-      ],
-      "uuid": "e5bfa7fb-36ff-4d7d-a87e-727f3be38028"
-    },
-    {
       "start_time": 329,
       "end_time": 0,
       "annotation": [
