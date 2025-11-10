@@ -3049,6 +3049,27 @@
       ],
       "tags": [],
       "uuid": "ffe78eec-6ac4-416a-a092-af1e53abd384"
+    },
+    {
+      "start_time": 2653,
+      "end_time": 2700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "salsa"
+        }
+      ],
+      "uuid": "2428684d-8415-44f3-be00-29d28288d69b"
     }
   ],
   "set": "Default",
