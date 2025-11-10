@@ -3070,6 +3070,22 @@
         }
       ],
       "uuid": "2428684d-8415-44f3-be00-29d28288d69b"
+    },
+    {
+      "start_time": 2824,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Manuel Jimenez \"el canario\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2851150e-582d-4397-82e4-d329c9957ba9"
     }
   ],
   "set": "Default",
