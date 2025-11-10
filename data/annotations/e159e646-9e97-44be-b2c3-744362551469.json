@@ -906,6 +906,22 @@
       ],
       "tags": [],
       "uuid": "f83204d0-bd1c-4e8c-b344-0a0d484f6ad8"
+    },
+    {
+      "start_time": 2100,
+      "end_time": 2160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a car ride, Marien discussed civil rights, bomba, and gender issues."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f3e350a-d104-4f57-8235-41f7f202529a"
     }
   ],
   "set": "Default",
