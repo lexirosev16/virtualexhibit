@@ -625,6 +625,16 @@
               "text": "se encuentre lista llega un cronista, protagonista de una historia"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "que le rinde culto al ritmo"
+            }
+          ]
         }
       ],
       "tags": [
