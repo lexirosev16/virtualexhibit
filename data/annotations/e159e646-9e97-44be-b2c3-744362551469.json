@@ -239,22 +239,6 @@
       "uuid": "ffbe3b0c-0fd9-4463-b220-3fc7bf2ad445"
     },
     {
-      "start_time": 2672,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "denise and julia"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "13b92666-208c-4768-a5fd-e10835103863"
-    },
-    {
       "start_time": 2995,
       "end_time": 0,
       "annotation": [
