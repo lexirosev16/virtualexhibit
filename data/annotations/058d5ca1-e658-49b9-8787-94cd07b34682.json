@@ -1512,6 +1512,22 @@
         }
       ],
       "uuid": "2b4eb2ec-6b97-46b1-b7ca-763b5322e154"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cuando las mujeres\" (Ponce)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8076d99f-6b54-413b-a848-9932aeac638e"
     }
   ],
   "set": "Default",
