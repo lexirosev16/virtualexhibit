@@ -890,6 +890,22 @@
       ],
       "tags": [],
       "uuid": "8dcdcc8d-1120-4958-ac51-b869954542c4"
+    },
+    {
+      "start_time": 2078,
+      "end_time": 2100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Protests discussing the wages in Puerto Rico. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f83204d0-bd1c-4e8c-b344-0a0d484f6ad8"
     }
   ],
   "set": "Default",
