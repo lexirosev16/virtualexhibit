@@ -809,6 +809,27 @@
         }
       ],
       "uuid": "e2cd1186-aae5-47ab-be5e-1e74884600b1"
+    },
+    {
+      "start_time": 1345,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song about hurricane Maria plays as images of someone's music production studio and audio editing software are shown"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "dc738913-a994-4436-8ad6-88fb5360d839"
     }
   ],
   "set": "Default",
