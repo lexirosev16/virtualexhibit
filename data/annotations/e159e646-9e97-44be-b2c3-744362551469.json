@@ -983,6 +983,27 @@
         }
       ],
       "uuid": "fee7d94a-8af1-4286-9318-a7d0cf4c7ec9"
+    },
+    {
+      "start_time": 3310,
+      "end_time": 3360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Delegation of the Diaspora. Ivelisse Dias of La Escuelita de Bombera Corazon presents a solo. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "682cc0c6-51ae-4589-a57e-1f79cecb9e61"
     }
   ],
   "set": "Default",
