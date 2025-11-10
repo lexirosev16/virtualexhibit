@@ -2266,6 +2266,14 @@
               "text": "\"Adios que me voy\" "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "attributed to Mayaguez "
+            }
+          ]
         }
       ],
       "tags": [
