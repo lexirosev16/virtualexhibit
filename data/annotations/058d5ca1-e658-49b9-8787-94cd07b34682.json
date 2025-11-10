@@ -615,6 +615,16 @@
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "se encuentre lista llega un cronista"
+            }
+          ]
         }
       ],
       "tags": [
