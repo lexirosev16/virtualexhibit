@@ -3891,6 +3891,22 @@
       ],
       "tags": [],
       "uuid": "91a8098a-d683-4b43-8507-eb36e1250802"
+    },
+    {
+      "start_time": 5685,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Residente "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "14f55bba-31bc-44e9-9f0a-0ec82844ccd8"
     }
   ],
   "set": "Default",
