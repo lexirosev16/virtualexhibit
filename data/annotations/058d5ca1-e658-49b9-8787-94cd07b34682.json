@@ -2422,6 +2422,27 @@
       ],
       "tags": [],
       "uuid": "c331985f-4ce3-4021-a714-e724311c1b68"
+    },
+    {
+      "start_time": 2418,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paracumbe and Nelie sing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Paracumbé"
+        }
+      ],
+      "uuid": "d1793ab7-0b82-4249-bc39-99c4d9524faa"
     }
   ],
   "set": "Default",
