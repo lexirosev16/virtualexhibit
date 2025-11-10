@@ -3953,7 +3953,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Residente or Calle 13; possibly Welmo"
+              "text": "Residente/Calle 13; possibly Welmo. Electric guitar melody begins the song. "
             }
           ]
         },
@@ -3961,11 +3961,71 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"",
+              "text": "",
               "italic": true
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "\"Soy Libre\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "\"Y soy libre "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "libre como el rio que en el mar desembica "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "libre las palabras que saltan de mi boca "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "libre decido y alcanzo lo que wuiero y aunque presto este mi cuerpo es mi mente la que elevo libre es el aire que repira del monento en que nazco hasta ultimo suspiro lobre como el suelo de una isla que se expande libre es mi pueblo y ante balas no se rinde libre y soy libre"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "libre, y soy libre "
+            }
+          ]
         }
       ],
       "tags": [],
