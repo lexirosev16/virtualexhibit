@@ -1003,6 +1003,30 @@
       ],
       "tags": [],
       "uuid": "2b532b8f-5953-4a40-bb8c-e8e1e0e11008"
+    },
+    {
+      "start_time": 375,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo intervenes again with a narrative rap transition. His raps states the following "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"no te pretendo ser reemplazo "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a530d6fb-3b8a-4a8e-869f-d067b3e22365"
     }
   ],
   "set": "Default",
