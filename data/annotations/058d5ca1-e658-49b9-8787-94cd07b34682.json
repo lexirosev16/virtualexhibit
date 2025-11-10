@@ -107,8 +107,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ruth Fernandez sings \"Negra triste\"",
-              "bold": true
+              "text": "Ruth Fernandez sings \"Negra triste.\" A song which discusses a Black woman who loses her love and suffers due to this loss. "
             }
           ]
         },
@@ -128,7 +127,7 @@
           "children": [
             {
               "italic": true,
-              "text": "Negra triste "
+              "text": "Negra triste, porque ya el negro murió, porque ya el negro durmió, mas nunca va a disfrutar el guateque— solo quedó la negra."
             }
           ]
         },
@@ -138,7 +137,7 @@
           "children": [
             {
               "italic": true,
-              "text": "porque ya negro murio"
+              "text": "La negra no cesa de llorar, ¡ay, su dolor! Negra está triste, negra sola llora su pena, llora su pena y su dolor."
             }
           ]
         },
@@ -148,7 +147,27 @@
           "children": [
             {
               "italic": true,
-              "text": "porque ya negro durmio ma nunca va dispet guateque solo quedo negra"
+              "text": "El negro que tanto quiso está en los reinos de Dios. Negra está triste, está llorando su amor, está llorando a su negro, su negro que tanto amó."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "underline": true,
+              "text": "English Translation "
             }
           ]
         },
@@ -158,7 +177,7 @@
           "children": [
             {
               "italic": true,
-              "text": "negra no cesa de llorar ay su dolor "
+              "text": "\"Sad Black Woman\""
             }
           ]
         },
@@ -168,7 +187,7 @@
           "children": [
             {
               "italic": true,
-              "text": "negra esta triste "
+              "text": "Sad Black woman, because the Black man has died, because the Black man has slept, never again to enjoy the celebration— only the Black woman remains."
             }
           ]
         },
@@ -178,7 +197,7 @@
           "children": [
             {
               "italic": true,
-              "text": "negra sola llora pena llora su pena y su dolor el negro que tanto quiso esta en los reinos de dios "
+              "text": "She does not stop crying, oh, her sorrow. She is sad, alone she weeps her grief, she weeps her sorrow and her pain."
             }
           ]
         },
@@ -188,7 +207,7 @@
           "children": [
             {
               "italic": true,
-              "text": "negra esta triste esta llorando su amor esta llorando su negro su negro que tanto amo."
+              "text": "The Black man she loved so deeply is now in the realms of God. She is heartbroken, mourning her love, mourning her Black man, the one she loved so much."
             }
           ]
         }
