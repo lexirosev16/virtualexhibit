@@ -905,6 +905,31 @@
       ],
       "tags": [],
       "uuid": "9f3e350a-d104-4f57-8235-41f7f202529a"
+    },
+    {
+      "start_time": 2427,
+      "end_time": 2460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidentified bomba song"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        },
+        {
+          "category": "Instrumentation",
+          "tag": "barriles"
+        }
+      ],
+      "uuid": "bf20e87c-bc52-4d74-9cda-828555ad54f7"
     }
   ],
   "set": "Default",
