@@ -2238,6 +2238,22 @@
         }
       ],
       "uuid": "95d6d43f-cff8-4531-bb46-5e781b558971"
+    },
+    {
+      "start_time": 2005,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "William Cepeda, Afro-Jazz composer, speaks about Southern bomba"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "650af012-a75c-41c0-9a9b-3854a7d0311c"
     }
   ],
   "set": "Default",
