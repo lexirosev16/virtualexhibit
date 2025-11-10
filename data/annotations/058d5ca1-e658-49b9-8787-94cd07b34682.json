@@ -952,6 +952,36 @@
               "text": "tan agustito, tan agustito, tú ves..."
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "Variation of Original Lyrics ",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "Para que sepas en verdad quien soy de donde vengo o de boy voya  acontarte una historia ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
         }
       ],
       "tags": [],
