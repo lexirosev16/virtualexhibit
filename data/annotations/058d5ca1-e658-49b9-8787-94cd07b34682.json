@@ -2217,6 +2217,27 @@
         }
       ],
       "uuid": "f181cad8-8d33-4d37-8927-94b40b63e068"
+    },
+    {
+      "start_time": 1969,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reina ey "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "salsa"
+        }
+      ],
+      "uuid": "95d6d43f-cff8-4531-bb46-5e781b558971"
     }
   ],
   "set": "Default",
