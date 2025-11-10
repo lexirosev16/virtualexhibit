@@ -887,6 +887,30 @@
       ],
       "tags": [],
       "uuid": "b89b758d-e1a0-40e5-a888-4e462f28cbc5"
+    },
+    {
+      "start_time": 1938,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Theme: Poverty"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien Torres discusses how she had to make changes to her quality of living to continue paying for her daughter's education and to continue paying her bomba instructors"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f70833d8-4e40-4a1e-ab96-63daa5701207"
     }
   ],
   "set": "Default",
