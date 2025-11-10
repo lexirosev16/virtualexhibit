@@ -1246,6 +1246,22 @@
         }
       ],
       "uuid": "87dc17bd-c561-46a2-8936-f1a76d36446f"
+    },
+    {
+      "start_time": 612,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "18546f9d-dec3-493f-bfb1-1870a6c99b36"
     }
   ],
   "set": "Default",
