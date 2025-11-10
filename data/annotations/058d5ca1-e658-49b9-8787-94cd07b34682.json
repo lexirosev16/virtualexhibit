@@ -642,18 +642,31 @@
     },
     {
       "start_time": 33,
-      "end_time": 0,
+      "end_time": 67,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "The bomba song with yuba rhythm \"Estoy buscando un arbol que me de somba plays\" partially. a image of a tree growing plays. que me de somba que me de sombra porque que tengo volora mi me da esyoy busncao un arbol then trasnitions into a salsa adaptioaton"
+              "text": "A bomba song begins with a yubá rhythm. The song is “Estoy buscando un árbol que me dé sombra. ”The accompanying image is of a tree growing. The traditional tune then transitions into a salsa adaptation, signaling musical fusion and innovation.\n\n"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "salsa"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "fusion"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "8f31bf67-25dc-47b4-b312-958f99bf4860"
     }
   ],
