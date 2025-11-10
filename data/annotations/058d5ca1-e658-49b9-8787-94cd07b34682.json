@@ -1492,7 +1492,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "\"Plena Libre\""
             }
           ]
         }
@@ -1500,7 +1500,15 @@
       "tags": [
         {
           "category": "Genre/Sub-genre/Rhythm",
+          "tag": "fusion"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
           "tag": "salsa"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "plena"
         }
       ],
       "uuid": "2b4eb2ec-6b97-46b1-b7ca-763b5322e154"
