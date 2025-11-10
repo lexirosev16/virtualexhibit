@@ -71,18 +71,14 @@
       "uuid": "f8a5f474-199c-4f5d-bf1a-e693b65feb2f"
     },
     {
-      "start_time": 329,
+      "start_time": 327,
       "end_time": 0,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Performer: ",
-              "bold": true
-            },
-            {
-              "text": "vocalist Lucecita Benítez"
+              "text": "Vocalist Lucecita Benítez takes over with"
             }
           ]
         }
