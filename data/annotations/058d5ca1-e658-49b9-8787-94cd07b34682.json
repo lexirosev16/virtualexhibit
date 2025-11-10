@@ -1454,6 +1454,22 @@
       ],
       "tags": [],
       "uuid": "9414b877-4201-496c-b5a5-27d514eb59db"
+    },
+    {
+      "start_time": 1057,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cancion de Baquine\" Guayama"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "45daa7c7-9be8-48a3-8e27-a267a9081134"
     }
   ],
   "set": "Default",
