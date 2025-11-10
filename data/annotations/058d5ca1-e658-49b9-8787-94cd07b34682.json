@@ -1460,10 +1460,23 @@
       "end_time": 0,
       "annotation": [
         {
-          "type": "paragraph",
+          "type": "bulleted-list",
           "children": [
             {
-              "text": "\"Cancion de Baquine\" Guayama"
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "\"Cancion de Baquine\" Guayama"
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "Recited poetry, avante-garde style"
+                }
+              ]
             }
           ]
         }
