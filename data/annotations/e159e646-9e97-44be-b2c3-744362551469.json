@@ -934,6 +934,22 @@
         }
       ],
       "uuid": "bf20e87c-bc52-4d74-9cda-828555ad54f7"
+    },
+    {
+      "start_time": 2592,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Generational changes. The new generation has it a little easier than the last. If they did not teach, they knew it would not continue. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "477cd3f4-860c-4082-b0a9-28ab4e801e62"
     }
   ],
   "set": "Default",
