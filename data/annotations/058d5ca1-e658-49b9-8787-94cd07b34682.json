@@ -975,6 +975,19 @@
         },
         {
           "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "The song is most likely a merengue"
+            },
+            {
+              "italic": true,
+              "text": ". "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
           "align": "center",
           "children": [
             {
