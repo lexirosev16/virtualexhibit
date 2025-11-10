@@ -817,10 +817,71 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Soy de la calle la puerta de atras donde este ritmo caliente aqui todo el mundo",
+              "text": "\"Agustito\"",
+              "bold": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy de la calle y la puerta de atrás",
               "italic": true
             }
-          ]
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Donde está el ritmo caliente",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí todo el mundo quiere gozar",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya sé que ésta es mi gente",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El humo de un joy me hace volar",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí no hay noches ni día",
+              "italic": true
+            }
+          ],
+          "align": "center"
         }
       ],
       "tags": [],
