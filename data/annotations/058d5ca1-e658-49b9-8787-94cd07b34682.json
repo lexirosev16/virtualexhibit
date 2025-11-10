@@ -2336,6 +2336,27 @@
       ],
       "tags": [],
       "uuid": "0c4f56b4-ec72-4915-a323-acd2ed545ac3"
+    },
+    {
+      "start_time": 2158,
+      "end_time": 2190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Estoy buscando un arbol appears again"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "6057fc0e-a25a-48b5-9103-b5094217423c"
     }
   ],
   "set": "Default",
