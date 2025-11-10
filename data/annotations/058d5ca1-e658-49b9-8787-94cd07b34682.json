@@ -107,7 +107,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Negra triste\"",
+              "text": "Ruth Fernandez sings \"Negra triste\"",
               "bold": true
             }
           ]
@@ -116,7 +116,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "\"Negra Triste\"",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Negra triste"
             }
           ]
         }
