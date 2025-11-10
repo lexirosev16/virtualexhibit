@@ -1041,6 +1041,22 @@
       ],
       "tags": [],
       "uuid": "a530d6fb-3b8a-4a8e-869f-d067b3e22365"
+    },
+    {
+      "start_time": 400,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of the sugar cane plantations"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cef6002d-9b57-4e38-907b-5d97f4737244"
     }
   ],
   "set": "Default",
