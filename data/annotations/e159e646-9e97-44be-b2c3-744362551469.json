@@ -218,27 +218,6 @@
       "uuid": "a9100277-e154-40c6-810c-ebd1d12eca00"
     },
     {
-      "start_time": 2340,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Speaker/Singer/Performer",
-          "tag": "Cary Cepeda"
-        }
-      ],
-      "uuid": "8e647681-d9a0-494d-a572-d576372b8153"
-    },
-    {
       "start_time": 2490,
       "end_time": 0,
       "annotation": [
