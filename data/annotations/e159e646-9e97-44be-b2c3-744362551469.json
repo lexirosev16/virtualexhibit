@@ -855,6 +855,22 @@
         }
       ],
       "uuid": "d2bf7458-9231-4dbe-9fba-b1bde243b081"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien Torres discusses the impact of Puerto Rico's soundscape which consisted of chicken cries that changed after hurricane Maria and also how even these animals exemplify resilience."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d991a010-eded-47b1-883e-b81145e77c59"
     }
   ],
   "set": "Default",
