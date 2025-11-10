@@ -1020,7 +1020,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"no te pretendo ser reemplazo de voces que estan austentes"
+              "text": "\"no te pretendo ser reemplazo de voces que estan austentes ni decir que mi oratoria",
+              "italic": true
             }
           ]
         }
