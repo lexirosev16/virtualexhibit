@@ -396,7 +396,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Marien Torres dance classes at Museo San Juan are shown. "
+              "text": "At Museo de San Juan, Marien Torres’ dance classes present a re-enactment of the Vieques military occupation protests. The choreography explores the tension and resistance of that historic moment: some dancers embody military figures, their arms rigidly posed like rifles, while others portray the resisters. Through movement, the dancers evoke the emotional and political struggle of the protests, transforming the studio into a living archive of Puerto Rican resistance."
             }
           ]
         }
@@ -405,6 +405,10 @@
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "bomba"
+        },
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Marien Torres Lopez"
         }
       ],
       "uuid": "77b6f9dd-5535-44f1-b717-e8d5a0912b29"
