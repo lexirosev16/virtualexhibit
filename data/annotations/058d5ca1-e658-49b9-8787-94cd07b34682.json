@@ -808,6 +808,22 @@
         }
       ],
       "uuid": "e3d7b98a-d652-4dc4-a95f-2b41d26adca5"
+    },
+    {
+      "start_time": 241,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy de la calle la puerta de atras donde"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2b532b8f-5953-4a40-bb8c-e8e1e0e11008"
     }
   ],
   "set": "Default",
