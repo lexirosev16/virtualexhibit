@@ -1353,7 +1353,7 @@
     },
     {
       "start_time": 2275,
-      "end_time": 2355,
+      "end_time": 2397,
       "annotation": [
         {
           "type": "paragraph",
@@ -1410,6 +1410,14 @@
         {
           "category": "Cantos de Bomba",
           "tag": "Song Title"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        },
+        {
+          "category": "Instrumentation",
+          "tag": "barriles"
         }
       ],
       "uuid": "934e9e39-28e3-4d30-b2c8-34ecb56da712"
