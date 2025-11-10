@@ -871,6 +871,22 @@
       ],
       "tags": [],
       "uuid": "d991a010-eded-47b1-883e-b81145e77c59"
+    },
+    {
+      "start_time": 1840,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bayamon"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b89b758d-e1a0-40e5-a888-4e462f28cbc5"
     }
   ],
   "set": "Default",
