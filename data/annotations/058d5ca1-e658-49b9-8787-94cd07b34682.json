@@ -286,31 +286,6 @@
       "uuid": "d5ee399a-46cd-47be-b8e6-e12a761d6e3a"
     },
     {
-      "start_time": 566,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Speaker/Singer/Performer",
-          "tag": "Paracumbé"
-        },
-        {
-          "category": "Cantos de Bomba",
-          "tag": "\"Cachon Dice Elena\""
-        }
-      ],
-      "uuid": "a04e7a5f-4cc5-4fc5-a532-be03350188df"
-    },
-    {
       "start_time": 597,
       "end_time": 0,
       "annotation": [
