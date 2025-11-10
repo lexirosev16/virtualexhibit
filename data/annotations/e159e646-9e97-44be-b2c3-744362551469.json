@@ -830,6 +830,31 @@
         }
       ],
       "uuid": "dc738913-a994-4436-8ad6-88fb5360d839"
+    },
+    {
+      "start_time": 1469,
+      "end_time": 1500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More diegetic saxophone and piano music is played "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "saxophone"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "piano"
+        }
+      ],
+      "uuid": "d2bf7458-9231-4dbe-9fba-b1bde243b081"
     }
   ],
   "set": "Default",
