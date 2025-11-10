@@ -1196,6 +1196,43 @@
       ],
       "tags": [],
       "uuid": "cef6002d-9b57-4e38-907b-5d97f4737244"
+    },
+    {
+      "start_time": 535,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cachon\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1950s recording"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "87dc17bd-c561-46a2-8936-f1a76d36446f"
     }
   ],
   "set": "Default",
