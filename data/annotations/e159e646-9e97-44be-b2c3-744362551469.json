@@ -675,6 +675,94 @@
         }
       ],
       "uuid": "a0ec36d0-2ba8-4660-818c-61397e8112a8"
+    },
+    {
+      "start_time": 541,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hashlye S. Pérez Vega discusses his relationship to \"Yito,\" and his growing up surrounded by bomba  \n\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "heading-two",
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "https://www.bing.com/ck/a?!&&p=372d72e14fcf2f0f92884da1d0a15db4f1a3d2c0db3e3c3d8ba10c5401d10555JmltdHM9MTc2MjczMjgwMA&ptn=3&ver=2&hsh=4&fclid=10db06ea-6900-6e9d-26a9-10e968756f1a&psq=hashley+perez+vega&u=a1aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9oc3B2YmViby8&ntb=1",
+              "children": [
+                {
+                  "text": "Hashlye S. Pérez Vega"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        },
+        {
+          "type": "heading-two",
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "https://www.bing.com/ck/a?!&&p=372d72e14fcf2f0f92884da1d0a15db4f1a3d2c0db3e3c3d8ba10c5401d10555JmltdHM9MTc2MjczMjgwMA&ptn=3&ver=2&hsh=4&fclid=10db06ea-6900-6e9d-26a9-10e968756f1a&psq=hashley+perez+vega&u=a1aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9oc3B2YmViby8&ntb=1",
+              "children": [
+                {
+                  "text": "Hashlye S. Pérez Vega"
+                }
+              ]
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5c0d1251-0cc8-4285-8b20-b31f6a8d5aa3"
     }
   ],
   "set": "Default",
