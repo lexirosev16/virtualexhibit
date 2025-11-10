@@ -1006,13 +1006,17 @@
     },
     {
       "start_time": 375,
-      "end_time": 0,
+      "end_time": 388,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Welmo intervenes again with a narrative rap transition. His raps states the following "
+              "text": "Welmo intervenes once again with a narrative rap transition. His rap declares: "
+            },
+            {
+              "italic": true,
+              "text": "“No pretendo ser el reemplazo de voces ausentes, ni decir que mi oratoria es la única referencia. Baile bomba, toques de plena—lo que digo vale la pena. Lo importante es la conexión del pasado con el presente.”\\"
             }
           ]
         },
@@ -1020,7 +1024,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"no te pretendo ser reemplazo de voces que estan austentes ni decir que mi oratoria es el unico reference baile bomba, toques plena, lo que digo vale la pena y lo importante es la conecion del pasado y presente",
+              "text": "English Translation:",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“I don’t pretend to replace absent voices, nor claim that my speech is the only reference. Dance bomba, play plena—what I say is worth hearing. What matters is the connection between past and present.”",
               "italic": true
             }
           ]
