@@ -1205,7 +1205,13 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cachon\""
+              "text": "“Cachón”",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nCachón, dice Elena.\nCachón, dice Elena, para calmarse.\nMe voy para Guayama, de vuelta del viaje.\nCachón le dice a Almoe que vamos a encontrarnos.\nCachón, dice Elena. ",
+              "italic": true
             }
           ]
         },
@@ -1213,15 +1219,18 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
+              "text": "Domingo en la manana de regreso del viaje.\n",
+              "italic": true
+            },
             {
-              "text": "1950s recording"
+              "text": "1950s recording which transitions into a professional commercial recording of "
+            },
+            {
+              "text": "Paracumbé with lead singer Nelie Robles Lebron from 1997. ",
+              "italic": true
+            },
+            {
+              "text": "\n\n"
             }
           ]
         }
@@ -1230,6 +1239,10 @@
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "bomba"
+        },
+        {
+          "category": "Cantos de Bomba",
+          "tag": "\"Cachon Dice Elena\""
         }
       ],
       "uuid": "87dc17bd-c561-46a2-8936-f1a76d36446f"
