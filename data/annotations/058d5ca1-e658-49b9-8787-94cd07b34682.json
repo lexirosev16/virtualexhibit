@@ -3092,6 +3092,26 @@
               "text": "Angel \"Cuco\" Pena"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Producer "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Laura E Vega"
+            }
+          ]
         }
       ],
       "tags": [
