@@ -1201,25 +1201,145 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Estoy Buscando un arbol que me de sombra\"",
+              "text": "“Estoy Buscando un Árbol” ",
+              "italic": true,
               "bold": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " Estoy buscando un árbol que me de sombra"
             }
           ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": ""
+              "italic": true,
+              "text": " Que me de sombra que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " Estoy buscando un árbol que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " Porque es que tengo calor a mi me da"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " Estoy buscando un árbol que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " ¡Ay! Que si está lindo que me deje besar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " Estoy buscando un árbol que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " ¡Ay! Que si está bueno en mi soledad"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " Estoy buscando un árbol que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " ¡Ay! Que sea muy lindo como el Guilán Guilán"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " Estoy buscando un árbol que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " Que no me deje que tenga piedad"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": " Estoy buscando un árbol que me"
             }
           ]
         }
       ],
       "tags": [
-        {
-          "category": "Cantos de Bomba",
-          "tag": "Song Title"
-        },
         {
           "category": "Speaker/Singer/Performer",
           "tag": "Don Rafael Cepeda Atiles"
