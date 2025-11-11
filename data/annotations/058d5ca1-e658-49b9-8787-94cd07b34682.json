@@ -549,16 +549,16 @@
       ],
       "tags": [
         {
+          "category": "Analysis",
+          "tag": "lyrics"
+        },
+        {
           "category": "Cantos de Bomba",
-          "tag": "Song Title"
+          "tag": "\"Plena de San Anton\""
         },
         {
           "category": "Speaker/Singer/Performer",
-          "tag": "Performer"
-        },
-        {
-          "category": "Analysis",
-          "tag": "lyrics"
+          "tag": "Los Pleneros de 21"
         }
       ],
       "uuid": "209ded8a-0fb3-4e44-8e69-0fa32c988641"
