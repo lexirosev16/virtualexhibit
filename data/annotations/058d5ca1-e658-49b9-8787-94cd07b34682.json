@@ -3976,7 +3976,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Welmo E. Romero Joseph"
+        }
+      ],
       "uuid": "c331985f-4ce3-4021-a714-e724311c1b68"
     },
     {
