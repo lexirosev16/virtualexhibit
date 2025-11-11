@@ -778,6 +778,27 @@
         }
       ],
       "uuid": "bab90a49-8cfe-426a-88a9-0af7a5912d07"
+    },
+    {
+      "start_time": 2273,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Candela Colorao\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "50590790-aba6-4ddb-ae9d-ef634f8ef97a"
     }
   ],
   "set": "Default",
