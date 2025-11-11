@@ -848,6 +848,27 @@
         }
       ],
       "uuid": "c5353818-1637-442b-ac76-b7f67c42a0fb"
+    },
+    {
+      "start_time": 2735,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ausuba "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "916fbe08-7154-4467-978f-907629f8ade7"
     }
   ],
   "set": "Default",
