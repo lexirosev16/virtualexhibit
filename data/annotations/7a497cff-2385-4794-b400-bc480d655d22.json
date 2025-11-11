@@ -46,6 +46,27 @@
       ],
       "tags": [],
       "uuid": "e92eb6ad-ae17-44f8-a1d3-a9754034154b"
+    },
+    {
+      "start_time": 135,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "North Delegation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Instrumentation",
+          "tag": "barriles"
+        }
+      ],
+      "uuid": "4965674b-7325-4e5c-aca0-1efe5a8682d4"
     }
   ],
   "set": "Default",
