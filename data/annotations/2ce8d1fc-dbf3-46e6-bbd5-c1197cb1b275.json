@@ -993,6 +993,27 @@
         }
       ],
       "uuid": "5e4c4b25-502b-4be1-a522-2d3127ef921f"
+    },
+    {
+      "start_time": 4530,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Si te coja, porque\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "126fdd06-ed1b-4fec-91f8-57a7d6b39677"
     }
   ],
   "set": "Default",
