@@ -49,90 +49,13 @@
     },
     {
       "start_time": 135,
-      "end_time": 0,
+      "end_time": 343,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "North Delegation"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "El rojo de mi bandera tiene sangre de cimarrón, el azul de mi Caribe, el blanco de mi ilusión. El rojo de mi bandera tiene sangre de cimarrón."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "Puerto Rico, para mí eres canción, tu espíritu vuela en mi bandera y mi nación. El azul de mi Caribe, el campo de mi ilusión, el rojo de mi bandera tiene sangre de cimarrón."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "La bandera de mia pia hermosa de nación a tus pies todos se rinde los robas del corazón,"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "el azul de mi Caribe, el blanco de mi ilusión. El rojo de mi bandera tiene sangre de cimarrón."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "italic": true,
-              "text": "English Translation ",
-              "underline": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The red of my flag holds the blood of the cimarrón,\nthe blue of my Caribbean, the white of my dream.\nThe red of my flag holds the blood of the cimarrón.",
+              "text": "North Delegation",
               "italic": true
             }
           ],
@@ -142,7 +65,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Puerto Rico, to me you are a song,\nyour spirit soars in my flag and my nation.\nThe blue of my Caribbean, the field of my dream,\nthe red of my flag holds the blood of the cimarrón.",
+              "text": "El rojo de mi bandera tiene sangre de cimarrón, el azul\nde mi Caribe, el blanco de mi ilusión. El rojo de mi bandera tiene sangre de\ncimarrón.",
               "italic": true
             }
           ],
@@ -152,7 +75,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The flag of my beautiful homeland,\nbefore your feet all surrender — you steal hearts.\nThe blue of my Caribbean, the white of my dream.\nThe red of my flag holds the blood of the cimarrón",
+              "text": "Puerto Rico, para mí eres canción, tu espíritu vuela en\nmi bandera y mi nación. El azul de mi Caribe, el campo de mi ilusión, el rojo\nde mi bandera tiene sangre de cimarrón.",
               "italic": true
             }
           ],
@@ -162,7 +85,107 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\n\n",
+              "text": "La bandera de mia pia hermosa de nación a tus pies todos\nse rinde los robas del corazón,",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el azul de mi Caribe, el blanco de mi ilusión. El rojo de\nmi bandera tiene sangre de cimarrón.",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Verso 3] ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con el toque de mi tambor, de rebelde asi, malo lucho\nsola con esta mi tor y mi religion el ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el azul de mi Caribe, el llanto de mi ilusión. El rojo de\nmi bandera tiene sangre de cimarrón.",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mis guerreras artes y pasion colian bandera con las\nmachetes y tambor",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[coro] ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el azul de mi Caribe, el llanto de mi ilusión. El rojo de\nmi bandera tiene sangre de cimarrón.",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[coro repite]",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el azul de mi Caribe, el llantio de mi ilusión. El rojo\nde mi bandera tiene sangre de cimarrón.",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
               "italic": true
             }
           ],
