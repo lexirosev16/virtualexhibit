@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 1610,
-      "end_time": 1620,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "history "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "817b1ddc-d592-4240-a95f-43bbc70891e6"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "6ea301df-c0ba-4718-a2ad-0d2946f8fb7e",
   "source_id": "450cfe28-3066-431e-bb37-d6df942733c1"
