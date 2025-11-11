@@ -8,8 +8,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "",
-              "italic": true
+              "text": ""
             }
           ],
           "align": "center"
@@ -19,13 +18,7 @@
           "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "\"Somos semillas, somos el fruto de la bomba\"",
-              "bold": true
-            },
-            {
-              "italic": true,
-              "text": "\n"
+              "text": "\"Somos semillas, somos el fruto de la bomba\"\n"
             }
           ]
         },
@@ -33,8 +26,7 @@
           "type": "code-block",
           "children": [
             {
-              "text": "[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoños, como herencia son los tambores  \n\n[verso]  \nDe un bello árbol que nos dio sombra  \nheredamos estas tradiciones, y día a día aprendemos  \nbomba, tambores, baile y las canciones  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores, las flores  \nson retoños como capullo  \nnuestra herencia son los tambores  \n\n[verso]  \nSomos legado de los ancestros que dejaron en nuestros corazones  \nsomos el eco de los barriles  \nsomos ritmo, tambor y flores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores",
-              "italic": true
+              "text": "[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoños, como herencia son los tambores  \n\n[verso]  \nDe un bello árbol que nos dio sombra  \nheredamos estas tradiciones, y día a día aprendemos  \nbomba, tambores, baile y las canciones  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores, las flores  \nson retoños como capullo  \nnuestra herencia son los tambores  \n\n[verso]  \nSomos legado de los ancestros que dejaron en nuestros corazones  \nsomos el eco de los barriles  \nsomos ritmo, tambor y flores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores"
             }
           ],
           "align": "center"
@@ -44,7 +36,6 @@
           "align": "center",
           "children": [
             {
-              "italic": true,
               "text": ""
             }
           ]
@@ -54,7 +45,6 @@
           "align": "center",
           "children": [
             {
-              "italic": true,
               "text": "[verso]"
             }
           ]
@@ -64,7 +54,6 @@
           "align": "center",
           "children": [
             {
-              "italic": true,
               "text": "somos presentes somos futuros semilleros de generaciones"
             }
           ]
@@ -74,7 +63,6 @@
           "align": "center",
           "children": [
             {
-              "italic": true,
               "text": "hijas e hijos de nuestra bomba y compartimos bien nuestros dones. "
             }
           ]
@@ -84,7 +72,7 @@
           "align": "center",
           "children": [
             {
-              "text": "\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores\n\n"
+              "text": "\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores"
             }
           ]
         },
@@ -93,26 +81,37 @@
           "align": "center",
           "children": [
             {
-              "italic": true,
               "text": ""
             }
           ]
         },
         {
-          "type": "paragraph",
+          "type": "code-block",
+          "align": "center",
           "children": [
             {
-              "text": "\n\n",
-              "italic": true
+              "text": "[verso] "
             }
-          ],
-          "align": "center"
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "text": "segurimos\n"
+            }
+          ]
         }
       ],
       "tags": [
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "bomba"
+        },
+        {
+          "category": "Cantos de Bomba",
+          "tag": "\"Somos semillas, somos el fruto de la bomba\""
         }
       ],
       "uuid": "d5c7a31b-33e1-4508-b9cd-4dfe0ece9db3"
