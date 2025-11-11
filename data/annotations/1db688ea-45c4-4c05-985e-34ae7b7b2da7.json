@@ -103,7 +103,23 @@
               "bold": true
             },
             {
-              "text": " [Bomba en barrile] Check"
+              "text": " [Bomba en marine] Check"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "lo afirma que la bomba tocaba en el barril"
             }
           ]
         }
