@@ -199,6 +199,22 @@
         }
       ],
       "uuid": "4965674b-7325-4e5c-aca0-1efe5a8682d4"
+    },
+    {
+      "start_time": 344,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "indecencia "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "112c2acc-4571-42ea-9dae-ef4e15320e31"
     }
   ],
   "set": "Default",
