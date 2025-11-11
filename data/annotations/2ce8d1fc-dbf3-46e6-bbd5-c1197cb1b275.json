@@ -247,18 +247,40 @@
     },
     {
       "start_time": 929,
-      "end_time": 0,
+      "end_time": 1160,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Campo, yo vivo triste\"",
+              "text": "Lead Vocalist: Melody",
               "bold": true,
               "italic": true
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "\"Campo, yo vivo triste\""
+            }
+          ]
         },
         {
           "type": "paragraph",
