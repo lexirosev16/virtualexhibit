@@ -15,27 +15,6 @@
       ],
       "tags": [],
       "uuid": "817b1ddc-d592-4240-a95f-43bbc70891e6"
-    },
-    {
-      "start_time": 2735,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ausuba ensemble's second song"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Genre/Sub-genre/Rhythm",
-          "tag": "bomba"
-        }
-      ],
-      "uuid": "898f1ce9-d706-407e-9f94-b46c7cef70c3"
     }
   ],
   "set": "Default",
