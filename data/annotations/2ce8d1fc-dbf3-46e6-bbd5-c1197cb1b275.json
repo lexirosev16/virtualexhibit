@@ -200,6 +200,27 @@
         }
       ],
       "uuid": "5bd704cc-707c-4f44-9ddb-9011dda30401"
+    },
+    {
+      "start_time": 520,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Soy los elementos\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "d07f75dd-7e7d-467c-ae50-50c13cb897dd"
     }
   ],
   "set": "Default",
