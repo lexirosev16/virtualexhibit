@@ -3934,7 +3934,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Petra Cededa"
+        }
+      ],
       "uuid": "0c4f56b4-ec72-4915-a323-acd2ed545ac3"
     },
     {
