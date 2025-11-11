@@ -703,7 +703,12 @@
           "align": "center"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "ecf406ed-f294-47f6-93b4-1d066a37f99c"
     }
   ],
