@@ -212,11 +212,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Yo no feliz\nvivir aquí. Yo no feliz vivir aquí. Tanta indecencia. Tanta indecencia. Oh\npedir al mayoral mi  castigaba sangre y sudor mi palabra pero mi alma siempre libre quiso",
+              "text": "Yo no feliz\nvivir aquí. Yo no feliz vivir aquí. Tanta indecencia. Tanta indecencia. Oh\npedir al mayoral mi  castigaba sangre y sudor mi palabra pero mi alma siempre libre quiso ser la dignidad donede me llevaron libertad de ",
               "italic": true
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "y no pedi venir aqui "
+            }
+          ]
         },
         {
           "type": "paragraph",
