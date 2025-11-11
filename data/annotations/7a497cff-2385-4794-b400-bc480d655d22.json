@@ -58,6 +58,115 @@
               "text": "North Delegation"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "El rojo de mi bandera tiene sangre de cimarrón, el azul de mi Caribe, el blanco de mi ilusión. El rojo de mi bandera tiene sangre de cimarrón."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Puerto Rico, para mí eres canción, tu espíritu vuela en mi bandera y mi nación. El azul de mi Caribe, el campo de mi ilusión, el rojo de mi bandera tiene sangre de cimarrón."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "La bandera de mia pia hermosa de nación a tus pies todos se rinde los robas del corazón,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "el azul de mi Caribe, el blanco de mi ilusión. El rojo de mi bandera tiene sangre de cimarrón."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "italic": true,
+              "text": "English Translation ",
+              "underline": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The red of my flag holds the blood of the cimarrón,\nthe blue of my Caribbean, the white of my dream.\nThe red of my flag holds the blood of the cimarrón.",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puerto Rico, to me you are a song,\nyour spirit soars in my flag and my nation.\nThe blue of my Caribbean, the field of my dream,\nthe red of my flag holds the blood of the cimarrón.",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The flag of my beautiful homeland,\nbefore your feet all surrender — you steal hearts.\nThe blue of my Caribbean, the white of my dream.\nThe red of my flag holds the blood of the cimarrón",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n",
+              "italic": true
+            }
+          ],
+          "align": "center"
         }
       ],
       "tags": [
