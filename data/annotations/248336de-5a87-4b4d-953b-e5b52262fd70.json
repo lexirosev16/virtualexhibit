@@ -104,6 +104,22 @@
         }
       ],
       "uuid": "4fa13149-2d0f-430f-9a81-243ad47dc77b"
+    },
+    {
+      "start_time": 728,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loiza delegation"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "73e96ffe-05c4-44b9-be5d-3d5f4ba08180"
     }
   ],
   "set": "Default",
