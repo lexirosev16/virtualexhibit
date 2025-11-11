@@ -40,6 +40,36 @@
           "align": "center"
         },
         {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[verso]"
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "somos presentes somos futuros"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
           "children": [
             {
