@@ -274,12 +274,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cimmaron"
+              "text": "\"Yo soy Cimmaron\""
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "e4d0935f-0a87-464a-bf24-03173f2354dd"
     }
   ],
