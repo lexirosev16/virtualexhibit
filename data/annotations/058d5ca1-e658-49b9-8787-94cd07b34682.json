@@ -3971,9 +3971,27 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Welmo raps again "
+              "text": "Welmo raps again: "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La bomba ",
+              "italic": true
+            }
+          ],
+          "align": "center"
         }
       ],
       "tags": [
