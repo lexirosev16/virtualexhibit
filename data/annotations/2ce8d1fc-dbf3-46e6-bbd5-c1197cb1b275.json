@@ -8,7 +8,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "bold": true
             }
           ],
           "align": "center"
@@ -18,7 +19,8 @@
           "align": "center",
           "children": [
             {
-              "text": "\"Somos semillas, somos el fruto de la bomba\"\n"
+              "text": "\"Somos semillas, somos el fruto de la bomba\"",
+              "bold": true
             }
           ]
         },
@@ -90,7 +92,8 @@
           "align": "center",
           "children": [
             {
-              "text": "[verso] "
+              "text": "[verso] ",
+              "italic": true
             }
           ]
         },
@@ -99,7 +102,37 @@
           "align": "center",
           "children": [
             {
-              "text": "segurimos\n"
+              "text": "segurimos tocando bomba ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "por todo el mundo es sus rincones "
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "con allegria y con "
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "text": "\n"
             }
           ]
         }
