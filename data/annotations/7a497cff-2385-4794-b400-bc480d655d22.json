@@ -268,7 +268,7 @@
     },
     {
       "start_time": 585,
-      "end_time": 697,
+      "end_time": 721,
       "annotation": [
         {
           "type": "paragraph",
@@ -283,6 +283,10 @@
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "bomba"
+        },
+        {
+          "category": "Analysis",
+          "tag": "resistance"
         }
       ],
       "uuid": "e4d0935f-0a87-464a-bf24-03173f2354dd"
