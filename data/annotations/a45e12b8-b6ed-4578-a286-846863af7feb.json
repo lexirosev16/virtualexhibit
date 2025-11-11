@@ -17,54 +17,6 @@
       "uuid": "817b1ddc-d592-4240-a95f-43bbc70891e6"
     },
     {
-      "start_time": 2563,
-      "end_time": 2720,
-      "annotation": [
-        {
-          "text": "Ausuba "
-        },
-        {
-          "type": "line-break",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "line-break",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": "\"Goza de la bomba\"",
-          "bold": true
-        },
-        {
-          "type": "line-break",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": "",
-          "bold": true
-        }
-      ],
-      "tags": [
-        {
-          "category": "Genre/Sub-genre/Rhythm",
-          "tag": "bomba"
-        }
-      ],
-      "uuid": "4b568930-59d5-4d69-b770-425447e230b5"
-    },
-    {
       "start_time": 2735,
       "end_time": 0,
       "annotation": [
