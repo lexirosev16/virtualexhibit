@@ -1,0 +1,105 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This AVannotate visual project centers on Bomba, an Afro-Puerto Rican music - dance tradition. It features annotated events from "
+        },
+        {
+          "text": "Encuentro de los Tambores",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Encuentros de las Cantaoras",
+          "italic": true
+        },
+        {
+          "text": ", spanning from 2015 to 2025. The project also includes three films relevant to Bomba culture: "
+        },
+        {
+          "text": "Zafra Fusion Cepeda",
+          "italic": true
+        },
+        {
+          "text": " (1983), "
+        },
+        {
+          "text": "Resistimos",
+          "italic": true
+        },
+        {
+          "text": " (2021), and "
+        },
+        {
+          "text": "Raíces",
+          "italic": true
+        },
+        {
+          "text": " (2001)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In addition, it incorporates recordings from notable festivals such as La Sanse, IMMERSE, and La Magia de los Tambores. The project houses transcriptions that emphasize themes of poverty, resistance, oppression, colonialism, and politics. Each annotation is enriched with metadata tags for instrumentation, genre, performers, speakers, and context."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Designed within the AVannotate platform, this project aims to support Bomba practitioners and amateur scholars interested in Afro-Caribbean expressive and musical culture—especially the legacy of Bomba. Most audiovisual materials are sourced from YouTube and independent film projects, making this a dynamic and accessible resource for cultural research and engagement."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Introduction",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introduction-2",
+  "created_at": "2025-11-11T03:52:53.869Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2025-11-11T03:52:53.869Z",
+  "updated_by": "lexirosev16"
+}
