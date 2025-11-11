@@ -196,6 +196,10 @@
         {
           "category": "Instrumentation",
           "tag": "barriles"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
         }
       ],
       "uuid": "4965674b-7325-4e5c-aca0-1efe5a8682d4"
