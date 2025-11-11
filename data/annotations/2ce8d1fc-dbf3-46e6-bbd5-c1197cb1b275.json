@@ -736,6 +736,27 @@
       ],
       "tags": [],
       "uuid": "32053dfd-2bd9-4577-aa28-6763c29e8879"
+    },
+    {
+      "start_time": 1619,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Radiante Flor\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "1c90c296-55c6-4cde-94d2-ae0e6115e556"
     }
   ],
   "set": "Default",
