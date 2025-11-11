@@ -1014,6 +1014,27 @@
         }
       ],
       "uuid": "126fdd06-ed1b-4fec-91f8-57a7d6b39677"
+    },
+    {
+      "start_time": 3840,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Credits Felix"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "18fd03c6-4abe-486c-9ab2-95f6b6b19206"
     }
   ],
   "set": "Default",
