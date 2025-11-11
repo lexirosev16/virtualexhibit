@@ -646,6 +646,65 @@
         }
       ],
       "uuid": "4cb7ba9a-fde5-4dd3-91ee-c6deeca13e5c"
+    },
+    {
+      "start_time": 1418,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Domine\"",
+              "italic": true,
+              "bold": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rafael como canta Rafael ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "esta negra baila bomba ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "esta negra domine ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "trabaja la culebra ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        }
+      ],
+      "tags": [],
+      "uuid": "ecf406ed-f294-47f6-93b4-1d066a37f99c"
     }
   ],
   "set": "Default",
