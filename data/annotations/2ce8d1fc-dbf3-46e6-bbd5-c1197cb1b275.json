@@ -851,7 +851,7 @@
     },
     {
       "start_time": 2735,
-      "end_time": 2890,
+      "end_time": 3043,
       "annotation": [
         {
           "type": "paragraph",
@@ -866,6 +866,22 @@
           "children": [
             {
               "text": "\"Yo naci mujer"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ivelisse Dias is one of the dancers to perform a solo dance in the batey"
             }
           ]
         }
