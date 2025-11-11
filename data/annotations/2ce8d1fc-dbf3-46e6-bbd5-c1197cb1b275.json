@@ -877,6 +877,27 @@
         }
       ],
       "uuid": "916fbe08-7154-4467-978f-907629f8ade7"
+    },
+    {
+      "start_time": 2899,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"yo no soy sola\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "38bcae6f-a204-4836-a117-816cc41545ef"
     }
   ],
   "set": "Default",
