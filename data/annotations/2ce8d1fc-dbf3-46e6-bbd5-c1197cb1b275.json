@@ -943,6 +943,35 @@
         }
       ],
       "uuid": "8f952433-fd60-4a60-8e1d-b996cc9a5c68"
+    },
+    {
+      "start_time": 3306,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"He llegado, caminando\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ausuba "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "b7ec7465-4ff5-493a-853c-7f1131e0833d"
     }
   ],
   "set": "Default",
