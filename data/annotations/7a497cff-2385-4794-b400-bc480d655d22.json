@@ -212,12 +212,32 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "indecencia "
+              "text": "Yo no feliz\nvivir aquí. Yo no feliz vivir aquí. Tanta indecencia. Tanta indecencia. Oh\npedir al mayoral mi ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "\n\n\n\n\n\n"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        },
+        {
+          "category": "Instrumentation",
+          "tag": "barriles"
+        }
+      ],
       "uuid": "112c2acc-4571-42ea-9dae-ef4e15320e31"
     }
   ],
