@@ -757,6 +757,27 @@
         }
       ],
       "uuid": "1c90c296-55c6-4cde-94d2-ae0e6115e556"
+    },
+    {
+      "start_time": 1906,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo soy del Oeste\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "bab90a49-8cfe-426a-88a9-0af7a5912d07"
     }
   ],
   "set": "Default",
