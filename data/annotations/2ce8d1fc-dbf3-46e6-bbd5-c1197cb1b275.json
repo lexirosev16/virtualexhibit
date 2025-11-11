@@ -972,6 +972,27 @@
         }
       ],
       "uuid": "b7ec7465-4ff5-493a-853c-7f1131e0833d"
+    },
+    {
+      "start_time": 3660,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Porque dicen mi morena\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "5e4c4b25-502b-4be1-a522-2d3127ef921f"
     }
   ],
   "set": "Default",
