@@ -9,7 +9,8 @@
           "children": [
             {
               "text": "",
-              "bold": true
+              "bold": true,
+              "italic": true
             }
           ],
           "align": "center"
@@ -20,7 +21,8 @@
           "children": [
             {
               "text": "\"Somos semillas, somos el fruto de la bomba\"",
-              "bold": true
+              "bold": true,
+              "italic": true
             }
           ]
         },
@@ -28,7 +30,8 @@
           "type": "code-block",
           "children": [
             {
-              "text": "[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoños, como herencia son los tambores  \n\n[verso]  \nDe un bello árbol que nos dio sombra  \nheredamos estas tradiciones, y día a día aprendemos  \nbomba, tambores, baile y las canciones  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores, las flores  \nson retoños como capullo  \nnuestra herencia son los tambores  \n\n[verso]  \nSomos legado de los ancestros que dejaron en nuestros corazones  \nsomos el eco de los barriles  \nsomos ritmo, tambor y flores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores"
+              "text": "[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoños, como herencia son los tambores  \n\n[verso]  \nDe un bello árbol que nos dio sombra  \nheredamos estas tradiciones, y día a día aprendemos  \nbomba, tambores, baile y las canciones  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores, las flores  \nson retoños como capullo  \nnuestra herencia son los tambores  \n\n[verso]  \nSomos legado de los ancestros que dejaron en nuestros corazones  \nsomos el eco de los barriles  \nsomos ritmo, tambor y flores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores",
+              "italic": true
             }
           ],
           "align": "center"
@@ -38,7 +41,8 @@
           "align": "center",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "italic": true
             }
           ]
         },
@@ -47,7 +51,8 @@
           "align": "center",
           "children": [
             {
-              "text": "[verso]"
+              "text": "[verso]",
+              "italic": true
             }
           ]
         },
@@ -56,7 +61,8 @@
           "align": "center",
           "children": [
             {
-              "text": "somos presentes somos futuros semilleros de generaciones"
+              "text": "somos presentes somos futuros semilleros de generaciones",
+              "italic": true
             }
           ]
         },
@@ -65,7 +71,8 @@
           "align": "center",
           "children": [
             {
-              "text": "hijas e hijos de nuestra bomba y compartimos bien nuestros dones. "
+              "text": "hijas e hijos de nuestra bomba y compartimos bien nuestros dones. ",
+              "italic": true
             }
           ]
         },
@@ -74,7 +81,8 @@
           "align": "center",
           "children": [
             {
-              "text": "\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores"
+              "text": "\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores",
+              "italic": true
             }
           ]
         },
@@ -83,7 +91,8 @@
           "align": "center",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "italic": true
             }
           ]
         },
@@ -102,37 +111,48 @@
           "align": "center",
           "children": [
             {
-              "text": "segurimos tocando bomba ",
+              "italic": true,
+              "text": "Y seguimos tocando bomba  "
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "por todo el mundo y sus rincones  "
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "con los barriles y mi maraca  "
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "con alegría y con mis amores  "
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "text": "\n",
               "italic": true
-            }
-          ]
-        },
-        {
-          "type": "code-block",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "por todo el mundo es sus rincones "
-            }
-          ]
-        },
-        {
-          "type": "code-block",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "con allegria y con "
-            }
-          ]
-        },
-        {
-          "type": "code-block",
-          "align": "center",
-          "children": [
-            {
-              "text": "\n"
             }
           ]
         }
