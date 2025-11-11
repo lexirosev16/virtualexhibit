@@ -3977,21 +3977,43 @@
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": ""
+              "italic": true,
+              "text": "La sensación del gusto, el roce de la tela y el sudor pasean juntos. Aumentan los latidos, temperatura en fiebre que le curó. No se calle, pues si callo no soy libre. Llamando y respuesta, resistencia y osadía, Aun con las cadenas, 24 horas al día. Mi voz viaja activa, sabiendo que quizás No vuelva a ver la luz del día. Tambor, dame el ser del sonido de tu alma. Tambor, cuida mi sueño con tu dulce melodía."
             }
           ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": "La bomba ",
+              "text": "",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "underline": true,
+              "text": "English Translation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "The sensation of taste, the brush of fabric, and sweat walk together. Heartbeats rise, fevered temperature healed. Do not be silent—for if I am silent, I am not free. Call and response, resistance and boldness, Even with chains, 24 hours a day. My voice travels, alive, Knowing that perhaps I may never see the light of day again. Drum, give me the being of your soul’s sound. Drum, guard my sleep with your sweet melody",
               "italic": true
             }
-          ],
-          "align": "center"
+          ]
         }
       ],
       "tags": [
