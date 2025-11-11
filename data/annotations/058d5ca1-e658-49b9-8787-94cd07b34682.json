@@ -3540,7 +3540,7 @@
               "italic": true
             },
             {
-              "text": "  \nCachón, dice Elena.\nCachón, dice Elena, para calmarse.\nMe voy para Guayama, de vuelta del viaje.\nCachón le dice a Almoe que vamos a encontrarnos.\nCachón, dice Elena. ",
+              "text": "  \nCachón, dice Elena.\\",
               "italic": true
             }
           ]
@@ -3549,11 +3549,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Domingo en la manana de regreso del viaje.\n",
-              "italic": true
+              "italic": true,
+              "text": "Cachón, dice Elena, para calmarse.\nMe voy para Guayama, de vuelta del viaje.\nCachón le dice, Cachón dice Elena, cachón dice Elena, \n\"Cachón dice Elena, que vamos pa la contra pa resguardarse\""
             },
             {
-              "text": "1950s recording which transitions into a professional commercial recording of "
+              "text": "\n\n1950s recording which transitions into a professional commercial recording of "
             },
             {
               "text": "Paracumbé with lead singer Nelie Robles Lebron from 1997. ",
