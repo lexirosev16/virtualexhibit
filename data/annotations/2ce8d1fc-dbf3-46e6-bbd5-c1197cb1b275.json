@@ -65,7 +65,36 @@
           "children": [
             {
               "italic": true,
-              "text": "somos presentes somos futuros"
+              "text": "somos presentes somos futuros semilleros de generaciones"
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "hijas e hijos de nuestra bomba y compartimos bien nuestros dones. "
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "text": "\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores\n\n"
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
             }
           ]
         },
