@@ -17,12 +17,21 @@
         },
         {
           "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Milenis"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
           "align": "center",
           "children": [
             {
-              "text": "\"Somos semillas, somos el fruto de la bomba\"",
               "bold": true,
-              "italic": true
+              "italic": true,
+              "text": "\"Somos semillas, somos el fruto de la bomba\""
             }
           ]
         },
