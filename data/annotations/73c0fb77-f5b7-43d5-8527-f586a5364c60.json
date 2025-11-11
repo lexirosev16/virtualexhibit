@@ -45,7 +45,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "sicá"
+        }
+      ],
       "uuid": "96da8346-5612-49d7-9e18-3e9fefa16d20"
     }
   ],
