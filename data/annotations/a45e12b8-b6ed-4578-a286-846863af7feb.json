@@ -1,28 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 215,
-      "end_time": 455,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Cuando baila la negrita ",
-              "italic": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Genre/Sub-genre/Rhythm",
-          "tag": "bomba"
-        }
-      ],
-      "uuid": "c2fc7332-c0bd-4a64-8f89-a7c18c1ace10"
-    },
-    {
       "start_time": 929,
       "end_time": 1160,
       "annotation": [
