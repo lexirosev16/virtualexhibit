@@ -747,6 +747,43 @@
         }
       ],
       "uuid": "83519e42-6b33-4c0c-b3e1-004cfb30e01e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Somos semillas, somos el fruto de la bomba\"",
+              "bold": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "code-block",
+          "children": [
+            {
+              "text": "[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoños, como herencia son los tambores  \n\n[verso]  \nDe un bello árbol que nos dio sombra  \nheredamos estas tradiciones, y día a día aprendemos  \nbomba, tambores, baile y las canciones  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores, las flores  \nson retoños como capullo  \nnuestra herencia son los tambores  \n\n[verso]  \nSomos legado de los ancestros que dejaron en nuestros corazones  \nsomos el eco de los barriles  \nsomos ritmo, tambor y flores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores\n",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Cantos de Bomba",
+          "tag": "\"Somos semillas, somos el fruto de la bomba\""
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "9e171972-7d26-442f-b7f4-514a703391cd"
     }
   ],
   "set": "Default",
