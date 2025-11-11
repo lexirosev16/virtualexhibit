@@ -914,6 +914,35 @@
         }
       ],
       "uuid": "38bcae6f-a204-4836-a117-816cc41545ef"
+    },
+    {
+      "start_time": 3074,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo sigo caminado\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ausuba"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "8f952433-fd60-4a60-8e1d-b996cc9a5c68"
     }
   ],
   "set": "Default",
