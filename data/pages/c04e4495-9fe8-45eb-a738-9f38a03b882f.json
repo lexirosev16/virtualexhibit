@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "4c10ca82-33a4-45b0-9d43-f8463abc1132",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "file": "d1c17900-ade7-4a7c-be72-84a831e93f26",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Letras de Bomba y Discurso",
+  "parent": "220be1a5-3f2f-4495-a140-622a628b7416",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "letras-de-bomba-y-discurso",
+  "created_at": "2025-11-11T00:41:28.250Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2025-11-11T00:41:28.250Z",
+  "updated_by": "lexirosev16"
+}
