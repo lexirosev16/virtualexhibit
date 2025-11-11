@@ -249,6 +249,22 @@
         }
       ],
       "uuid": "112c2acc-4571-42ea-9dae-ef4e15320e31"
+    },
+    {
+      "start_time": 470,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sigue buscando"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a7026195-ebfb-4753-a4bc-479b158216ef"
     }
   ],
   "set": "Default",
