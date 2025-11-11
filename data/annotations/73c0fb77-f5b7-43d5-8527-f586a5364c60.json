@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "fa5eb254-c6ac-4856-a85b-f4022a98cb2a"
+    },
+    {
+      "start_time": 125,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drums sounding in the distance. Screen shows only a transition phase"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1e11ee34-71c2-4deb-b797-ac022c616ea4"
     }
   ],
   "set": "Default",
