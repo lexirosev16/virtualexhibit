@@ -244,6 +244,302 @@
         }
       ],
       "uuid": "447b2c77-bc7d-4783-82f3-c8dea23e0f1e"
+    },
+    {
+      "start_time": 929,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Campo, yo vivo triste\"",
+              "bold": true,
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "[coro 3x]",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Campo vo vivo triste ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cada dia sufriendo mas ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "si no baila esta bomba, me voy a morir ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "[verso]",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "esta es la bomba ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "de concimiento ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "bomba de mi borinque ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "que vengo a Loiza",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "[verso] ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "de nuestras ancestros ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "[coro] ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "[verso]",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "hay campo vo vivo triste cada dia sufriendo mas ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "si no baila esta bomba ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "[coro] ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "campo vo vivo triste ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "cada dia sufriendo mas ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "si no baila esta bomba, me voy a morir",
+              "italic": true
+            },
+            {
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Campo vo vivo triste ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cada dia sufriendo mas ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "si no baila esta bomba, me voy a morir ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Cantos de Bomba",
+          "tag": "Campo"
+        }
+      ],
+      "uuid": "1c526172-cc18-4791-a23d-daae87ccc073"
     }
   ],
   "set": "Default",
