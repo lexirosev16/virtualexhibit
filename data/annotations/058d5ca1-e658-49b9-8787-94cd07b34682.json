@@ -1994,7 +1994,37 @@
           "children": [
             {
               "italic": true,
-              "text": ""
+              "text": "Palo \"e\" bandera"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "underline": true,
+              "text": "English Translation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "Flagpole Stick Flagpole stick, Bedframe rod — not with me. You’ve got a long face, Like the mule at the clothesline. And your legs are skinny, Like a sandpiper by the sea.",
+              "italic": true
             }
           ]
         },
@@ -2004,7 +2034,87 @@
           "children": [
             {
               "italic": true,
-              "text": "Palo \"e\" bandera"
+              "text": "Flagpole stick, Bedframe rod — not with me. You’ve got a long face, Like the mule at the clothesline. You’ve got skinny legs, Like a sandpiper by the sea."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "And you learn to show respect, Learn to respect me. Don’t be a vine, Like a sandpiper by the sea."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Flagpole stick, Bedframe rod — not with me. You’ve got a long face, Like the mule at the clothesline. You’ve got skinny legs, Like a sandpiper by the sea."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "And what’s not yours, leave it alone. Don’t come mistreating. Don’t be a vine, Like a sandpiper by the sea."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Flagpole stick, Bedframe rod — not with me. You’ve got a long face, Like the mule at the clothesline. You’ve got skinny legs, Like a sandpiper by the sea."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Learn to show respect, Learn to respect me. Don’t be a vine, Like a sandpiper by the sea."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Flagpole stick, Bedframe rod — not with me. You’ve got a long face, Like the mule at the clothesline. You’ve got skinny legs, Like a sandpiper by the sea."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Learn to show respect, Learn to respect me. Don’t be a vine, Like a sandpiper by the sea."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Flagpole stick."
             }
           ]
         }
