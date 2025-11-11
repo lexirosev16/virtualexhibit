@@ -649,18 +649,28 @@
     },
     {
       "start_time": 1418,
-      "end_time": 1590,
+      "end_time": 1592,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Domine\"",
-              "italic": true,
+              "text": "Maria Castillo ",
               "bold": true
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "bold": true,
+              "text": "\"Domine\""
+            }
+          ]
         },
         {
           "type": "paragraph",
