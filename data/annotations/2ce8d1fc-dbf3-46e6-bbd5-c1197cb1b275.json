@@ -221,6 +221,29 @@
         }
       ],
       "uuid": "d07f75dd-7e7d-467c-ae50-50c13cb897dd"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Mama me voy pa' la bomba\"",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "447b2c77-bc7d-4783-82f3-c8dea23e0f1e"
     }
   ],
   "set": "Default",
