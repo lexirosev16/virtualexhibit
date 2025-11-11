@@ -27,6 +27,58 @@
               "text": "blackface character; vejigantes"
             }
           ]
+        },
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "“In an interview with Roberto Pérez, co-director of the group Bomba con Buya from Chicago, he commented on the video for the song “Candela” that they recorded in the city of Chicago and in the town of Ponce, Puerto Rico. The video appeals to the foundations of a music that at the time, there was the need to communicate to rise up, fight, escape from oppression and rescue that freedom that was taken away. It transmits a comparison of space-time that invokes the reality and interconnectivity of the past, present and future.” (Gudiño Cabrera, 2019, p. 12)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "A technology of decolonialism"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "“Candela as a platform to theorize how African-rooted performance practices such as bomba could simultaneously operate as technology of diasporic citizenship and vehicle for social activism. (Gudiño Cabrera 2017” (Gudiño Cabrera, 2019, p. 13)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
         }
       ],
       "tags": [
