@@ -73,12 +73,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Tanta Indecencia\"",
+              "text": "\"Tanta Indecencia\" ",
               "bold": true,
               "italic": true
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Delegacion del Norte"
+            }
+          ]
         },
         {
           "type": "paragraph",
