@@ -217,12 +217,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Yo soy cimmaron\"",
+              "text": "\"Yo soy cimmaron\" ",
               "bold": true,
               "italic": true
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Delegacion del Norte"
+            }
+          ]
         },
         {
           "type": "paragraph",
