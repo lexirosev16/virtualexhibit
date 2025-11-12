@@ -70,6 +70,49 @@
         }
       ],
       "uuid": "9d0a0449-8343-4eae-b0da-9338f1ed48c4"
+    },
+    {
+      "start_time": 2957,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Agua Tile\"",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si Loiza no tiene, no se porque ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que repica barrile, agua tile",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "f29bbe5e-c083-4e61-9c57-8d8ae94cf81a"
     }
   ],
   "set": "Default",
