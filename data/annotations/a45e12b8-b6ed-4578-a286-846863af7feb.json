@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 7200,
+      "end_time": 7202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Dale Golpe\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "4d705146-09ee-4427-921b-1a37d789da39"
+    }
+  ],
   "set": "Default",
   "event_id": "6ea301df-c0ba-4718-a2ad-0d2946f8fb7e",
   "source_id": "450cfe28-3066-431e-bb37-d6df942733c1"
