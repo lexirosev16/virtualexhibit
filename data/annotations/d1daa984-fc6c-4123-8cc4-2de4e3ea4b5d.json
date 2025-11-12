@@ -517,6 +517,22 @@
         }
       ],
       "uuid": "afffd856-7922-4255-87db-485af6ab3f8b"
+    },
+    {
+      "start_time": 365,
+      "end_time": 383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coqui sounds, thunder, and rain are heard as final credits roll. (soundscape)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb5b2e9c-45e0-471b-870f-45bf3e4e33e2"
     }
   ],
   "set": "Default",
