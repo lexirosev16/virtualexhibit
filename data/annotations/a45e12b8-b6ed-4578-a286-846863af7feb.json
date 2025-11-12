@@ -64,6 +64,30 @@
         }
       ],
       "uuid": "114f945d-97b3-4419-867c-7c59615b403e"
+    },
+    {
+      "start_time": 91,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Tanta Indecencia\"",
+              "italic": true,
+              "bold": true
+            }
+          ],
+          "align": "center"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context/Analysis",
+          "tag": "resistance"
+        }
+      ],
+      "uuid": "20d39797-63ec-41e3-aa9a-8bc9c2958d26"
     }
   ],
   "set": "Default",
