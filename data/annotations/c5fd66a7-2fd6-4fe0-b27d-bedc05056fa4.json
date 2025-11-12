@@ -841,33 +841,82 @@
       "annotation": [
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": "\"Candela Colorao\""
+              "italic": true,
+              "text": "\"Candela Colorao\"",
+              "bold": true
             }
           ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": ""
+              "italic": true,
+              "text": "[Verso] Voz cantando al dios del tambor, un trueno se escucha desde lejos, como señor de su manifestación. Y entre pasos aligerados voy entonando esta canción, y entre pasos aligerados, en la lluvia voy a cantar."
             }
           ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": "voz cantando al Dios del tambor un trueno se escucha desde lejos "
+              "italic": true,
+              "text": "[Coro – 3x] Yo vine a la batalla, ¡candela colorao, candela colorao! No vine a la batalla ¡candela colora, candela colorao!"
             }
           ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": "como senor de su manifestacion y entre pasos aligerados "
+              "italic": true,
+              "text": "[Verso] Si en mi casa no hay guano, yo lo quemo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[Coro – repite]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[Verso] ¡Candela colora, candela colorao!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[Coro – repite]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Si en mi tierra no hay guano, ¡se coloca!"
             }
           ]
         }
