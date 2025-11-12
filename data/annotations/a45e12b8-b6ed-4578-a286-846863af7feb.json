@@ -208,6 +208,61 @@
         }
       ],
       "uuid": "20d39797-63ec-41e3-aa9a-8bc9c2958d26"
+    },
+    {
+      "start_time": 5760,
+      "end_time": 41880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo soy cimmaron\"",
+              "bold": true,
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[coro]",
+              "bold": true,
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estando en pie de lucha, yo soy cimarrón.\nLibertad o muerte, yo soy cimarrón.\nEn pie de lucha, yo soy cimarrón.\nLibertad o muerte, no soy esclavón.\nLibertad o muerte, yo soy primero.",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estamos en pie de lucha al ritmo de amor.\nEn pie de lucha, yo soy cimarrón.\nYo soy cimarrón.\nHe quitado las cadenas, ya borrado al mayor.\nSeguiremos en batalla hasta obtener la libertad.\nDe pie de lucha, yo soy cimarrón",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "a478809b-df48-4d5d-8d26-2e81ace857df"
     }
   ],
   "set": "Default",
