@@ -24,6 +24,27 @@
         }
       ],
       "uuid": "3a55da5c-1c90-4534-ba89-c7daee8f3fd7"
+    },
+    {
+      "start_time": 2122,
+      "end_time": 2160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Viento\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "163d7009-7093-4849-9013-8d84200cd9a3"
     }
   ],
   "set": "Default",
