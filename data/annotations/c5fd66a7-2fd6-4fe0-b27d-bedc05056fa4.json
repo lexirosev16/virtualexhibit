@@ -30,27 +30,12 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Soy los elementos\" compone por Maria ",
+              "text": "\"Soy los elementos\"",
+              "bold": true,
               "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
+            },
             {
-              "text": "Soy tierra. Soy aire. Soy agua. Soy fuego",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Cuando entro al batey yo me libero ",
+              "text": "  Compuesta por María",
               "italic": true
             }
           ],
@@ -62,176 +47,6 @@
           "children": [
             {
               "italic": true,
-              "text": "Soy tierra "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy aire "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy agua "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy fuego "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "cuando entro al batey yo me libero "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy rio "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy montana "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy cielo "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy deseo "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "cuando entro al batey con mis ancestros "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy tierra"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy aire"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": " soy agua "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy fuego"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "cuando entro al batey , yo mi libero"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
               "text": ""
             }
           ]
@@ -240,7 +55,12 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "soy agua soy gotas soy lluvia soy hielo cuando entro al batey fluyo con mis ancestros ",
+              "text": "Verso",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nSoy tierra.\nSoy aire.\nSoy agua.\nSoy fuego.\nCuando entro al batey, yo me libero.",
               "italic": true
             }
           ],
@@ -248,333 +68,148 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "[coro]"
+              "text": "Soy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "soy tierra"
+              "text": "Soy río,\nsoy montaña,\nsoy cielo,\nsoy deseo.\nCuando entro al batey con mis ancestros.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "soy aire "
+              "text": "Soy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "soy agua "
+              "text": "Soy agua,\nsoy gotas,\nsoy lluvia,\nsoy hielo.\nCuando entro al batey, fluyo con mis ancestros.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "soy fuego "
+              "text": "[Coro]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "cuando entro al batey yo mi libero "
+              "text": "[Verso]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nSoy tierra,\nsoy arena,\nsoy piedra,\nsoy suelo.\nCuando entro al batey, conecto con mis ancestros.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "[verso]"
+              "text": "[Coro]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "soy tierra"
+              "text": "[Verso]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nSoy fuego,\nsoy llama,\nsoy hoguera,\nsoy candela.\nCuando entro al batey, luz de mis ancestros.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "soy arena "
+              "text": "[Coro]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "soy piedra "
+              "text": "[Verso]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nSoy aire,\nsoy viento,\nsoy brisa,\nsoy cielo.\nCuando entro al batey, voy con mis ancestros.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "soy suelo "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
+              "text": "[Coro – repite 4x]",
+              "bold": true,
+              "italic": true
+            },
             {
-              "italic": true,
-              "text": "cuando entro al batey conecto con mis ancestros "
+              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
+              "italic": true
             }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "[coro]"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy tierra, soy airea, soy agua, soy fuego. cuando entro al batey yo me libero"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "[verso] "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy fuego "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy llamo "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy hoguera soy candela cuando entro al batey luz de mis ancestros "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "[coro]"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "Soy tierra "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy aire "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy agua "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy fuego "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "cuando entro al batey yo me libero "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "[verso] "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy aire "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy viento"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "soy brisas soy cielo "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "cuando entro al batey voy con mis ancestros "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "[coro repite 2x] "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": ""
-            }
-          ]
+          ],
+          "align": "center"
         }
       ],
       "tags": [
