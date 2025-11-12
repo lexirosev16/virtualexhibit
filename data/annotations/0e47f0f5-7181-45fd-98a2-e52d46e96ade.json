@@ -15,6 +15,31 @@
       ],
       "tags": [],
       "uuid": "e60a038c-ebf6-4809-8e20-ac174256c60b"
+    },
+    {
+      "start_time": 25,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drums support Residente's rap"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "sicá"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "eb9b4aad-d9df-4994-b9ce-c34180cec433"
     }
   ],
   "set": "Default",
