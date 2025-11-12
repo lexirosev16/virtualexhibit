@@ -20,6 +20,50 @@
         }
       ],
       "uuid": "4d705146-09ee-4427-921b-1a37d789da39"
+    },
+    {
+      "start_time": 5376,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"El Azul de mi Caribe\"",
+              "italic": true,
+              "bold": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[coro]\nEl azul de mi Caribe, el blanco de mi ilusión. El rojo de mi bandera tiene sangre de cimarrón."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[verso]",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "114f945d-97b3-4419-867c-7c59615b403e"
     }
   ],
   "set": "Default",
