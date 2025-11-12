@@ -1,1 +1,23 @@
-{"annotations":[],"set":"Default","event_id":"8d2931b9-ddd5-431f-8f7b-33b52ca82248","source_id":"e51ec52c-36cc-407f-b25d-337077415d30"}
+{
+  "annotations": [
+    {
+      "start_time": 8,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lolita impersonator "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e60a038c-ebf6-4809-8e20-ac174256c60b"
+    }
+  ],
+  "set": "Default",
+  "event_id": "8d2931b9-ddd5-431f-8f7b-33b52ca82248",
+  "source_id": "e51ec52c-36cc-407f-b25d-337077415d30"
+}
