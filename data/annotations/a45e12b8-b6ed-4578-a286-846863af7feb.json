@@ -74,87 +74,126 @@
           "children": [
             {
               "text": "\"Tanta Indecencia\"",
-              "italic": true,
-              "bold": true
+              "bold": true,
+              "italic": true
             }
           ],
           "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "Indecencia LTA, indecencia. Yo pedí mi vía, esencia, mi nombre. Me cambiaron y otro Dios me presentaron. Y en la tiranía me llevaron. Dejé al lado mi memoria, Estaba toda mi historia. Y fui libre una vez, y lo seré. Yo no fui feliz venir aquí, No fui feliz vivir aquí, No fui feliz."
+              "text": "[Coro]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nYo no feliz vivir aquí. Yo no feliz vivir aquí, yo lo pedí óyeme bien.\nTanta indecencia, tanta indecencia, tanta indecencia.\n",
+              "italic": true
+            },
+            {
+              "text": "[Verso]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nMe sacaron de mi tierra, que cadenas me llevaron.\nNi mi hermana o mi hermano pude ver.\nA la amigazos me humillaron, y mi piel ellos marcaron.\nSolo a la caña le cantaba mi querer.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": ""
+              "text": "[coro]",
+              "bold": true,
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "Tanta indecencia, Tanta indecencia, Tanta indecencia. No pedí bien tanta decencia. El mayoral me castigaba, Sangre y sudor me empapaba. Pero mi alma, siempre libre, quiso ser. La dignidad y el coraje hacia él. Donde me llevaron era la muerte O la libertad de mi ser."
+              "text": "Yo no feliz vivir aquí, yo no feliz vivir aquí, yo no feliz, óyeme bien.\nTanta indecencia.\nTanta indecencia.\nTanta indecencia. ",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": ""
+              "text": "[Verso]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nMi nombre me cambiaron, y otro dios me presentaron.\nY en la tira me alejó.\nYo dejé algo en mi memoria,\nEstaba toda mi historia,\nY fui libre una vez y lo seré.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "Y no pedí venir aquí, Yo no pedí ir aquí, Yo no pedí. Óyeme bien: Tanta indecencia, Tanta indecencia, Tanta indecencia, Tanta indecencia, Tanta indecencia."
+              "text": "[Coro]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nYo no feliz vivir aquí,\nYo no feliz vivir aquí,\nYo no feliz vivir aquí.\nTanta indecencia,\nTanta indecencia,\nTanta indecencia.\nNo pedí bien tanta indecencia.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": ""
+              "text": "[Verso]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nEl mayoral me castigaba,\nSangre y sudor me empapaba.\nPero mi alma, siempre libre, quiso ser.\nLa dignidad y el coraje hacia él.\nDonde me llevaron era la muerte\nO la libertad de mi ser.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "Siguen buscando. Siguen."
+              "text": "[Coro]",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": "  \nYo no feliz vivir aquí,\nYo no feliz vivir aquí,\nYo no pedí, óyeme bien.\nTanta indecencia,\nTanta indecencia,\nTanta indecencia,\nTanta indecencia.",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         }
       ],
       "tags": [
         {
           "category": "Context/Analysis",
           "tag": "resistance"
+        },
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
         }
       ],
       "uuid": "20d39797-63ec-41e3-aa9a-8bc9c2958d26"
