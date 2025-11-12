@@ -1,5 +1,75 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rauw Alejandro: La bomba no es solo musica "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "un latido de africo "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "floreco en Pueerto Rico "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "un dialogue entre tambor, cuerpo y la voz collective cada paso y cada golpe de tmabor con el pasado y con el futuro "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "expresa la bomba en su manera "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "los rimtos laten en la rea un dialoigue done la musica obedce loos ritmos se mexcaln y la energia del pueblo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context/Analysis",
+          "tag": "resistance"
+        }
+      ],
+      "uuid": "b56e15ae-ffc8-4ec7-8041-6a8e678daaed"
+    }
+  ],
   "set": "Default",
   "event_id": "8d2931b9-ddd5-431f-8f7b-33b52ca82248",
   "source_id": "ab14706c-de93-43e6-baa7-b76c00f445d2"
