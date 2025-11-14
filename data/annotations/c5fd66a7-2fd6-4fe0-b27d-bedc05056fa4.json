@@ -1518,6 +1518,14 @@
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "bomba"
+        },
+        {
+          "category": "Speaker/Singer/Performer",
+          "tag": "Ausuba"
+        },
+        {
+          "category": "Cantos de Bomba",
+          "tag": "\"Yo nací mujer\""
         }
       ],
       "uuid": "83519e42-6b33-4c0c-b3e1-004cfb30e01e"
