@@ -37,7 +37,7 @@
       "set_sort": []
     },
     "e553962f-9e19-4298-a6fc-d6e1c4491ad1": {
-      "label": "2022 Encuentro de Tambores",
+      "label": "2022 ICP Interviews about the Encuentro de Tambores",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/mW_s_EKzxSc?si=a4m-dKAitHkUFKkK",
@@ -53,6 +53,24 @@
       "caption_set": [],
       "set_sort": [],
       "file_type": "Video"
+    },
+    "3d3c6273-340c-4694-9569-525dbc7c6d18": {
+      "label": "2022 Encuentro de Tambores",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/live/f355p8sBuYw?si=WajHURvDGxJvS35j",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
+    },
+    "3930aed3-3a9e-4eae-b502-fc9da9165093": {
+      "label": "2018 Encuentro de Tambores",
+      "is_offline": false,
+      "file_url": "https://youtu.be/rrwRJwRz6k0?si=pF--LhxrxHGQO1jG",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
@@ -61,14 +79,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This section contains audiovisual recordings from los encuentros de tambores y cantaoras held between 2015 and 2025. In this section, I have transcribed the song lyrics, identified and tagged the performers and composers, and coded the material according to lyrical analysis. The overarching themes include race, gender, nation, oppression, and related social dynamics."
+          "text": "This section contains audiovisual recordings from los encuentros de tambores y cantaoras held between 2022 and 2025. In this section, I have transcribed the song lyrics, identified and tagged the performers and composers, and coded the material according to lyrical analysis. The overarching themes include race, gender, nation, oppression, and related social dynamics."
         }
       ]
     }
   ],
   "citation": "",
-  "label": "Los Encuentros de Tambores y Los Encuentros de Cantaoras 2015-2025",
+  "label": "Los Encuentros de Tambores y Los Encuentros de Cantaoras 2022-2025",
   "av_file_order": [
+    "3930aed3-3a9e-4eae-b502-fc9da9165093",
+    "3d3c6273-340c-4694-9569-525dbc7c6d18",
     "e553962f-9e19-4298-a6fc-d6e1c4491ad1",
     "450cfe28-3066-431e-bb37-d6df942733c1",
     "c86976f7-d2e5-493f-b5d1-7a9f18dd9631",
@@ -78,6 +98,6 @@
   ],
   "created_at": "2025-11-11T04:41:17.624Z",
   "created_by": "lexirosev16",
-  "updated_at": "2025-11-14T20:53:20.790Z",
+  "updated_at": "2025-11-14T21:25:48.655Z",
   "updated_by": "lexirosev16"
 }
