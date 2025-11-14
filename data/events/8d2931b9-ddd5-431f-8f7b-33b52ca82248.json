@@ -9,24 +9,6 @@
       "caption_set": [],
       "set_sort": []
     },
-    "b242162d-5a5e-44ae-aa9e-6b6308a7bbf5": {
-      "label": "Sanse",
-      "is_offline": true,
-      "file_url": "\"C:\\Users\\lexir\\Downloads\\20250116_173440.mp4\"",
-      "duration": 0,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Video"
-    },
-    "5bce45ac-3d8d-4b0a-b42c-f95d980837fe": {
-      "label": "",
-      "is_offline": false,
-      "file_url": "",
-      "duration": 0,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Audio"
-    },
     "15ecf291-5177-4bc2-b26b-6e73ffe0ef3d": {
       "label": "\"Carita Linda\" Rauw Alejandro",
       "is_offline": false,
@@ -97,9 +79,15 @@
   "label": "Commercial Music Videos with Bomba",
   "created_at": "2025-10-09T18:01:44.277Z",
   "created_by": "lexirosev16",
-  "updated_at": "2025-11-12T18:22:12.460Z",
+  "updated_at": "2025-11-14T21:26:47.598Z",
   "updated_by": "lexirosev16",
   "av_file_order": [
-    "ebf3d06a-4d8b-49c5-95a6-7d3098de663e"
+    "ebf3d06a-4d8b-49c5-95a6-7d3098de663e",
+    "15ecf291-5177-4bc2-b26b-6e73ffe0ef3d",
+    "e51ec52c-36cc-407f-b25d-337077415d30",
+    "ab14706c-de93-43e6-baa7-b76c00f445d2",
+    "779980fc-6921-47e6-a702-ade5451ffdf8",
+    "2417fea2-1ceb-448a-b4bc-dbb66e597075",
+    "b5328fd3-2101-4919-b467-00230da4472b"
   ]
 }
