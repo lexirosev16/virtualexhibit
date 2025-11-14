@@ -11,6 +11,27 @@
               "text": "Cuando baila la negrita ",
               "italic": true
             }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "trueno rayo de tambor "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "cuando baila la negrita "
+            }
           ]
         }
       ],
