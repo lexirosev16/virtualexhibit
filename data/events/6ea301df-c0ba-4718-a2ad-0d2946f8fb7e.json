@@ -44,6 +44,15 @@
       "duration": 0,
       "caption_set": [],
       "set_sort": []
+    },
+    "720de2f0-8f34-4875-b740-86b68e1c3c5c": {
+      "label": "Encuentro de Cantaoras (1)",
+      "is_offline": false,
+      "file_url": "https://youtu.be/2iNpSWPfnNw?si=mgCrUdkXGFkHRXJE",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
@@ -60,14 +69,15 @@
   "citation": "",
   "label": "Encuentro de Tambores 2015-2025",
   "av_file_order": [
-    "c86976f7-d2e5-493f-b5d1-7a9f18dd9631",
     "e553962f-9e19-4298-a6fc-d6e1c4491ad1",
     "450cfe28-3066-431e-bb37-d6df942733c1",
-    "e08f5739-3d48-4c6f-8c12-0c7af304cd5d",
-    "3b78fed2-a7cd-43f2-847a-68d9cb9c6341"
+    "c86976f7-d2e5-493f-b5d1-7a9f18dd9631",
+    "720de2f0-8f34-4875-b740-86b68e1c3c5c",
+    "3b78fed2-a7cd-43f2-847a-68d9cb9c6341",
+    "e08f5739-3d48-4c6f-8c12-0c7af304cd5d"
   ],
   "created_at": "2025-11-11T04:41:17.624Z",
   "created_by": "lexirosev16",
-  "updated_at": "2025-11-12T19:29:30.448Z",
+  "updated_at": "2025-11-14T20:50:09.423Z",
   "updated_by": "lexirosev16"
 }
