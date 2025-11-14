@@ -205,6 +205,18 @@
         {
           "category": "Genre/Sub-genre/Rhythm",
           "tag": "bomba"
+        },
+        {
+          "category": "Context/Analysis",
+          "tag": "government"
+        },
+        {
+          "category": "Context/Analysis",
+          "tag": "oppression"
+        },
+        {
+          "category": "Context/Analysis",
+          "tag": "corruption"
         }
       ],
       "uuid": "20d39797-63ec-41e3-aa9a-8bc9c2958d26"
