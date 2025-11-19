@@ -303,6 +303,17 @@
         },
         {
           "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Delegacion Indigina",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
           "children": [
             {
               "text": "[coro]",
