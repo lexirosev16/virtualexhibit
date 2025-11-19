@@ -77,9 +77,12 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Besito en la frente\" begins "
+              "text": "\"Besito en la frente\"",
+              "bold": true,
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
