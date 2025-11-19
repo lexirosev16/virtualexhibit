@@ -288,19 +288,87 @@
       "uuid": "a478809b-df48-4d5d-8d26-2e81ace857df"
     },
     {
-      "start_time": 9360,
+      "start_time": 9720,
       "end_time": 0,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "\"Sueno los tambores\"",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[coro]",
+              "bold": true,
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena los tambores ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que esta baile bomba ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "para gozar ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "suename los tambores y suename los cuas ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que vamos'a bailar ",
+              "italic": true
+            }
+          ],
+          "align": "center"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "673bd9ca-5b31-412b-82ec-9f4d6442ff74"
     }
   ],
