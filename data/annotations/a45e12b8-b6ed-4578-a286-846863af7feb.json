@@ -636,16 +636,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "\"De Carolina\"",
               "bold": true,
               "italic": true
