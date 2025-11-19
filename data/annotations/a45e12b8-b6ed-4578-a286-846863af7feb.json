@@ -296,7 +296,8 @@
           "children": [
             {
               "text": "\"Suena Ya!\"",
-              "italic": true
+              "italic": true,
+              "bold": true
             }
           ],
           "align": "center"
@@ -307,7 +308,27 @@
           "children": [
             {
               "italic": true,
-              "text": "Delegacion de la Diaspora ",
+              "text": "Delegación de la Diáspora  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[Coro]  ",
               "bold": true
             }
           ]
@@ -318,60 +339,69 @@
           "children": [
             {
               "italic": true,
-              "bold": true,
-              "text": "[coro]"
+              "text": "Suena los tambores,  "
             }
           ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": "Suena los tambores ",
-              "italic": true
+              "italic": true,
+              "text": "que este baile es bomba  "
             }
-          ],
-          "align": "center"
+          ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": "que esta baile bomba ",
-              "italic": true
+              "italic": true,
+              "text": "para gozar.  "
             }
-          ],
-          "align": "center"
+          ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": "para gozar ",
-              "italic": true
+              "italic": true,
+              "text": ""
             }
-          ],
-          "align": "center"
+          ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": "suename los tambores y suename los cuas ",
-              "italic": true
+              "italic": true,
+              "text": "Suéname los tambores,  "
             }
-          ],
-          "align": "center"
+          ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": "que vamos'a bailar ",
-              "italic": true
+              "italic": true,
+              "text": "y suéname los cuás,  "
             }
-          ],
-          "align": "center"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "que vamos a bailar."
+            }
+          ]
         }
       ],
       "tags": [
