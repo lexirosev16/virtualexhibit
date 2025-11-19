@@ -636,7 +636,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Delegacion de la Carolina ",
+              "text": "",
               "italic": true
             }
           ],
@@ -649,9 +649,32 @@
               "text": "\"De Carolina\"",
               "bold": true,
               "italic": true
+            },
+            {
+              "text": "\nDelegacion de la Carolina "
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "References the song \"de Carolina\" por Rauw Alejandro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "[verso]",
+              "bold": true,
+              "italic": true
+            }
+          ]
         },
         {
           "type": "paragraph",
@@ -767,7 +790,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Somo' de Carolina, Carolina, Carolina ",
+              "text": "Somo' de Carolina, -lina, -lina ",
               "italic": true
             }
           ],
@@ -781,6 +804,126 @@
               "italic": true,
               "text": "[verso]",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Mira Mira Mira tumbe"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Carolina y Mayaguez "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Donde traje la bomba "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "son pueblo de Mayaguez "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Carolina, ---"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Mira, Mira, Mira, Mira Tumbe"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "de pueblo de Mayaguez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "yo te traigo la bomba por Carolina a Mayaguez "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "ese golpe "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ay Maria, cuembre hoy "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Carolina "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
             }
           ]
         }
