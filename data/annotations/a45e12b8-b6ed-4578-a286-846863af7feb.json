@@ -531,7 +531,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Yo quiero cantar ",
+              "text": "\"Yo quiero cantar\"",
               "italic": true,
               "bold": true
             }
@@ -542,11 +542,82 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "You quiero bailar bomba ",
+              "text": "Yo quiero bailar bomba ",
               "italic": true
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Suename los tambores "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[verso]",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Cuando suena los tambores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "para que bailar la bomba "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "sola baila "
+            }
+          ]
         }
       ],
       "tags": [
