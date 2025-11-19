@@ -522,6 +522,40 @@
         }
       ],
       "uuid": "673bd9ca-5b31-412b-82ec-9f4d6442ff74"
+    },
+    {
+      "start_time": 10080,
+      "end_time": 10200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo quiero cantar ",
+              "italic": true,
+              "bold": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You quiero bailar bomba ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre/Sub-genre/Rhythm",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "45beed4f-2447-4118-b0e9-f996a1ab87eb"
     }
   ],
   "set": "Default",
