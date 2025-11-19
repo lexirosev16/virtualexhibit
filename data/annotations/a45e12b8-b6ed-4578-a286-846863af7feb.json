@@ -307,21 +307,21 @@
           "children": [
             {
               "italic": true,
-              "text": "Delegacion Indigina",
+              "text": "Delegacion de la Diaspora ",
               "bold": true
             }
           ]
         },
         {
           "type": "paragraph",
+          "align": "center",
           "children": [
             {
-              "text": "[coro]",
+              "italic": true,
               "bold": true,
-              "italic": true
+              "text": "[coro]"
             }
-          ],
-          "align": "center"
+          ]
         },
         {
           "type": "paragraph",
