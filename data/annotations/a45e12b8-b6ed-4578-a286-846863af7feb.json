@@ -286,6 +286,22 @@
         }
       ],
       "uuid": "a478809b-df48-4d5d-8d26-2e81ace857df"
+    },
+    {
+      "start_time": 156,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "673bd9ca-5b31-412b-82ec-9f4d6442ff74"
     }
   ],
   "set": "Default",
