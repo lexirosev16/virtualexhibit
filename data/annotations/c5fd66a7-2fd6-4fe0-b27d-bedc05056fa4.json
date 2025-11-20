@@ -2318,7 +2318,7 @@
               "bold": true
             },
             {
-              "text": "  \nGo, gózate la bomba, goza\nAy, goza, goza, goza, goza\nCon Loíza y la cantadora\nGo, gózate la bomba, goza"
+              "text": "  \nGoza, gózate la bomba, goza\nAy, goza, goza, goza, goza\nCon Loíza y la cantadora\nGoza, gózate la bomba, goza"
             }
           ]
         },
@@ -2342,7 +2342,7 @@
               "bold": true
             },
             {
-              "text": "  \nGo, gózate la bomba, goza\nGózate la bomba, goza\nGózate la bomba, goza\nA la hora que ahora fue, gózate la bomba, goza"
+              "text": "  \nGoza, gózate la bomba, goza\nGózate la bomba, goza\nGózate la bomba, goza\nA la hora que ahora fue, gózate la bomba, goza"
             }
           ]
         },
@@ -2374,16 +2374,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Verso Final / Dedicatoria",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\n\n"
+              "text": "\n"
             }
           ]
         }
