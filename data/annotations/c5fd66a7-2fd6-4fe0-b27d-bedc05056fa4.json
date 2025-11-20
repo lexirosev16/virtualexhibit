@@ -395,7 +395,136 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Radiante Flor\""
+              "text": "\"Radiante Flor\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 1",
+              "bold": true
+            },
+            {
+              "text": "  \nFragante flor, la vida es frágil\nPero el espíritu no se extingue\nSe crece y se alegra en el legado que veo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nMis canciones son las flores\nMi recuerdo es su fragancia\nMis canciones son las flores\nMi recuerdo es su fragancia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 2",
+              "bold": true
+            },
+            {
+              "text": "  \nPara que te acuerdes de mí\nTe dejo melodías en abundancia\nMis canciones son las flores\nMis recuerdos es su fragancia\nCon el color de mi voz\nSe vestirá la Trinitaria"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nMis canciones son las flores\nMi recuerdo es su fragancia\nMis versos son los colores\nSon de amanecer este día mejores\nMIs canciones son las flores\nMi recuerdo es su fragancia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 3",
+              "bold": true
+            },
+            {
+              "text": "  \nAcompáñame a estar contigo, estar contigo\nMis canciones son las flores\nMi recuerdo es fragancia\nMira pétalos de colores\nMis canciones son las flores\nMi recuerdo en tu fragancia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nMis canciones son las flores\nMi recuerdo es su fragancia\nMe está picando una abeja\nY tengo el aguijón\nMis canciones son las flores\nY recuerdo en su fragancia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 4",
+              "bold": true
+            },
+            {
+              "text": "  \nMe lo quité, vamos a seguir aquí con la bomba\nCanciones son las flores\nY recuerdo en mi fragancia\nMis canciones son las flores\nTus pétalos son de colores\nMis canciones son las flores\nY recuerdo en su fragancia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nMi voz se extiende\nY a ti siempre te acompaña\nCanciones son las flores\nMi recuerdo en su fragancia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 5",
+              "bold": true
+            },
+            {
+              "text": "  \nRecuérdame en tus oraciones\nMis canciones son las flores\nMi recuerdo es su fragancia\nDe la tierra y los ancestros\nQue todo el mundo baila\nMis canciones son las flores\nMi recuerdo es su fragancia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nMis canciones son las flores\nMi recuerdo es su fragancia\nAcompáñame a estar contigo, a estar contigo\nCanciones son las flores\nMi recuerdo es su fragancia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
             }
           ]
         }
