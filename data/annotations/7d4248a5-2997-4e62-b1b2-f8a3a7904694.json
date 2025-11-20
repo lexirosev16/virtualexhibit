@@ -324,6 +324,142 @@
         }
       ],
       "uuid": "f29bbe5e-c083-4e61-9c57-8d8ae94cf81a"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "“Plere Maria” ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[Coro]",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Plere Maria, pleré, plere Maria, pleré."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Plere Maria pleré, Catalina la Reina Cuembé."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[verso]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ayer yo estaba en la Bomba, en casa Rosa Inés, pidiendo toditos golpe, y Plere Maria, pleré."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ya llegaba Eustacio Flores, y llegaba Andres Laguer, y estuvo Papo y le dice Plere María, pleré."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ya llega Gloria a la puerta, y llega a la fiesta Belén, cantando coros y alegre, fiesta todos Pleré Belén."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[coro]",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Plere Maria, pleré, plere Maria, pleré."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Plere Maria pleré, Catalina la Reina de mi Cuembé."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Bomba es Bomba, y Plena es Plena!!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "719dea3c-4970-4381-a776-118128a3f158"
     }
   ],
   "set": "Default",
