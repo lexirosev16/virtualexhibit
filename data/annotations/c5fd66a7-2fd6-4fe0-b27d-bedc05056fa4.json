@@ -173,22 +173,19 @@
           "children": [
             {
               "text": "\"Soy los elementos\"",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
-              "text": "  Compuesta por María",
-              "italic": true
+              "text": "  Compuesta por María"
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": ""
             }
           ]
@@ -198,160 +195,140 @@
           "children": [
             {
               "text": "Verso",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
-              "text": "  \nSoy tierra.\nSoy aire.\nSoy agua.\nSoy fuego.\nCuando entro al batey, yo me libero.",
-              "italic": true
+              "text": "  \nSoy tierra.\nSoy aire.\nSoy agua.\nSoy fuego.\nCuando entro al batey, yo me libero."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Soy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
-              "italic": true
+              "text": "Soy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Soy río,\nsoy montaña,\nsoy cielo,\nsoy deseo.\nCuando entro al batey con mis ancestros.",
-              "italic": true
+              "text": "Soy río,\nsoy montaña,\nsoy cielo,\nsoy deseo.\nCuando entro al batey con mis ancestros."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Soy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
-              "italic": true
+              "text": "Soy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Soy agua,\nsoy gotas,\nsoy lluvia,\nsoy hielo.\nCuando entro al batey, fluyo con mis ancestros.",
-              "italic": true
+              "text": "Soy agua,\nsoy gotas,\nsoy lluvia,\nsoy hielo.\nCuando entro al batey, fluyo con mis ancestros."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
               "text": "[Coro]",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
-              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
-              "italic": true
+              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
               "text": "[Verso]",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
-              "text": "  \nSoy tierra,\nsoy arena,\nsoy piedra,\nsoy suelo.\nCuando entro al batey, conecto con mis ancestros.",
-              "italic": true
+              "text": "  \nSoy tierra,\nsoy arena,\nsoy piedra,\nsoy suelo.\nCuando entro al batey, conecto con mis ancestros."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
               "text": "[Coro]",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
-              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
-              "italic": true
+              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
               "text": "[Verso]",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
-              "text": "  \nSoy fuego,\nsoy llama,\nsoy hoguera,\nsoy candela.\nCuando entro al batey, luz de mis ancestros.",
-              "italic": true
+              "text": "  \nSoy fuego,\nsoy llama,\nsoy hoguera,\nsoy candela.\nCuando entro al batey, luz de mis ancestros."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
               "text": "[Coro]",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
-              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
-              "italic": true
+              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
               "text": "[Verso]",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
-              "text": "  \nSoy aire,\nsoy viento,\nsoy brisa,\nsoy cielo.\nCuando entro al batey, voy con mis ancestros.",
-              "italic": true
+              "text": "  \nSoy aire,\nsoy viento,\nsoy brisa,\nsoy cielo.\nCuando entro al batey, voy con mis ancestros."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
               "text": "[Coro – repite 4x]",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
-              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero.",
-              "italic": true
+              "text": "  \nSoy tierra,\nsoy aire,\nsoy agua,\nsoy fuego.\nCuando entro al batey, yo me libero."
             }
           ],
-          "align": "center"
+          "align": "left"
         }
       ],
       "tags": [
