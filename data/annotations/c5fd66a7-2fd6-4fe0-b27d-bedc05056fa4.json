@@ -2648,6 +2648,103 @@
         }
       ],
       "uuid": "ed11af93-2770-4fee-876f-4a40908fa267"
+    },
+    {
+      "start_time": 3600,
+      "end_time": 3900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 1",
+              "bold": true
+            },
+            {
+              "text": "  \nSiempre recordamos que la importancia del amor es mutua\nQue la libertad también es mutua\nY que también hay amor para todas, para todos y para todas\nSiempre y cuando sea así"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nYo no vengo a comer cuento, tengo voz, tengo derecho\nVengo a pelear por lo que quiero\nIgualdad, libertad y respeto\nYo no vengo a comer cuento, tengo voz, tengo derecho\nVengo a pelear por lo que quiero\nIgualdad, libertad y respeto"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 2",
+              "bold": true
+            },
+            {
+              "text": "  \nQue ya no somos las sumisas\nHoy grito a los cuatro vientos\nTengo voz, tengo derecho\nIgualdad, libertad y respeto"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nYo no vengo a comer cuento, tengo voz, tengo derecho\nVengo a pelear por lo que quiero\nIgualdad, libertad y respeto"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 3",
+              "bold": true
+            },
+            {
+              "text": "  \nY ya no hay tiempo de parlamento\nNi pensar en remordimiento\nSe levanta un movimiento\nAl gobierno no me someto"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro Final",
+              "bold": true
+            },
+            {
+              "text": "  \nYo no vengo a comer cuento, tengo voz, tengo derecho\nVengo a pelear por lo que quiero\nIgualdad, libertad y respeto"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "performer",
+          "tag": "Ausuba"
+        }
+      ],
+      "uuid": "730261ed-2312-44c5-b11e-720d394b22d8"
     }
   ],
   "set": "Default",
