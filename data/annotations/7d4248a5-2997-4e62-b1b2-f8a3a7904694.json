@@ -571,6 +571,146 @@
         }
       ],
       "uuid": "719dea3c-4970-4381-a776-118128a3f158"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Felicitá“",
+              "italic": true,
+              "bold": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Felicitá y a donde estará, a donde estará ella, y a donde estará."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[coro]",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Felicitá y a donde estará."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[verso]",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ay Felícita mi amiga, es mi amiga leal."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Yo la busco y no la encuentro, y a dónde ella estará."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ay si sé fue pa Guayama yo me voy a enojar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ay Felícita te busco y no te puedo encontrar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Yo la busque allá en Cangrejo, y no la pude encontrar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ay me dicen que la vieron allá en Machuchál."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ay Felícita mi amiga, ay mi amiga leal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "yubá"
+        },
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "23c41993-3266-4f33-ab1c-b6b827ddccf5"
     }
   ],
   "set": "Default",
