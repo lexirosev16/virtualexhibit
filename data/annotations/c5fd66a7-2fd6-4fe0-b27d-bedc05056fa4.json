@@ -372,18 +372,6 @@
       "uuid": "965c5fb5-1132-4af2-b333-d8f07ca7dacd"
     },
     {
-      "start_time": 1418,
-      "end_time": 1592,
-      "annotation": [],
-      "tags": [
-        {
-          "category": "genre",
-          "tag": "bomba"
-        }
-      ],
-      "uuid": "9b711eb2-9514-4b4c-bb34-70881f47f28d"
-    },
-    {
       "start_time": 1610,
       "end_time": 1620,
       "annotation": [
