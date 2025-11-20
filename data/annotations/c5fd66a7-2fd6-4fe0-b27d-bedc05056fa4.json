@@ -899,9 +899,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\n"
-            },
-            {
               "text": "\"Yo nací mujer\" Compuesta por Ausuba",
               "bold": true
             }
@@ -913,160 +910,11 @@
           "align": "left",
           "children": [
             {
-              "text": "[Coro – se repite siempre igual] ",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Yo nací mujer, fuerte y guerrera, libre, hermosa, aventurera."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Verso] ",
-              "bold": true
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Yo soy calma, yo soy paz en ti."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Coro] ",
-              "bold": true
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Yo nací mujer, fuerte y guerrera, libre, hermosa, aventurera."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Verso] ",
-              "bold": true
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Y con pantalones yo soy la doncella."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Coro] ",
-              "bold": true
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Yo nací mujer, fuerte y guerrera, libre, hermosa, aventurera."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Verso]",
+              "text": "Verso 1",
               "bold": true
             },
             {
-              "text": " "
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Soy mujer taína, soy mujer negra, soy mujer blanca, y es mi mezcla."
+              "text": "  \nYo nací mujer guerrera, libre, hermosa y aventurera\nCon mis manos en esta tierra\nYo soy la melaza, yo soy hierba buena\nYo nací mujer guerrera, libre, hermosa y aventurera"
             }
           ]
         },
@@ -1074,27 +922,71 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Coro] ",
+              "text": "Coro",
               "bold": true
+            },
+            {
+              "text": "  \nSoy mujer taína, soy mujer negra\nSoy mujer blanca y mi esencia entera\nYo nací mujer guerrera, libre, hermosa y aventurera\nFruto de un junte de raza bella"
             }
-          ],
-          "align": "left"
+          ]
         },
         {
           "type": "paragraph",
-          "align": "left",
           "children": [
             {
-              "text": "Yo nací mujer, fuerte y guerrera, libre, hermosa, aventurera."
+              "text": "Verso 2",
+              "bold": true
+            },
+            {
+              "text": "  \nYo soy jíbarita puertorriqueña\nYo nací mujer guerrera, libre, hermosa y aventurera\nGuerra, fuego, viento y mar\nFirme y valiente, yo soy calma y paz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nMujer guerrera, libre, hermosa, aventurera\nHija de la grande revolucionaria\nMadre de los hombres que hicieron patria\nMujer guerrera, libre, hermosa y aventurera"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 3",
+              "bold": true
+            },
+            {
+              "text": "  \nY con pantalones yo soy la doncella\nYo nací mujer fuerte y guerrera\nYo nací mujer guerrera, libre, hermosa y aventurera\nSoy mujer taína, soy mujer negra\nSoy mujer blanca, mi voz entera"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nYo nací mujer guerrera, libre, hermosa y aventurera\nFruto de un junte de raza bella\nYo soy antillana, soy caribeña\nMujer guerrera, libre, hermosa y aventurera"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso Final",
+              "bold": true
+            },
+            {
+              "text": "  \nSiempre con mis manos en esta tierra\nYo soy la melaza, yo soy hierba buena\nMujer guerrera, libre, hermosa y aventurera\nYo nací mujer guerrera, libre, hermosa y aventurera"
             }
           ]
         },
@@ -1103,167 +995,7 @@
           "align": "left",
           "children": [
             {
-              "text": "",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Verso] ",
-              "bold": true
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Fruto de este junte de la raza bella, yo soy antillana, soy caribeña."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Coro] ",
-              "bold": true
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Yo nací mujer, fuerte y guerrera, libre, hermosa, aventurera."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Verso] ",
-              "bold": true
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Siempre con mis taínos en esta tierra, yo soy la melaza, yo soy hierba buena."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Coro] ",
-              "bold": true
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Yo nací mujer, fuerte y guerrera, libre, hermosa, aventurera."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Verso] ",
-              "bold": true
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Hija de la grande revolucionaria, madre de los hombres que hicieron patria."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Coro] ",
-              "bold": true
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "Yo nací mujer, fuerte y guerrera, libre, hermosa, aventurera."
+              "text": "\n\n"
             }
           ]
         }
