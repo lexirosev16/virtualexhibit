@@ -80,7 +80,8 @@
           "children": [
             {
               "text": "\"Agua Tile\"",
-              "bold": true
+              "bold": true,
+              "italic": true
             }
           ],
           "align": "center"
@@ -91,7 +92,8 @@
           "children": [
             {
               "text": "[coro] ",
-              "bold": true
+              "bold": true,
+              "italic": true
             }
           ]
         },
