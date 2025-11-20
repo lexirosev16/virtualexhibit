@@ -1378,13 +1378,169 @@
           "align": "left"
         },
         {
-          "type": "code-block",
+          "type": "paragraph",
           "children": [
             {
-              "text": "[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoños, como herencia son los tambores  \n\n[verso]  \nDe un bello árbol que nos dio sombra  \nheredamos estas tradiciones, y día a día aprendemos  \nbomba, tambores, baile y las canciones  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores, las flores  \nson retoños como capullo  \nnuestra herencia son los tambores  \n\n[verso]  \nSomos legado de los ancestros que dejaron en nuestros corazones  \nsomos el eco de los barriles  \nsomos ritmo, tambor y flores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores\n"
+              "text": "Verso 1",
+              "bold": true
+            },
+            {
+              "text": "  \nSomos semillas, somos el fruto de la bomba\nSomos las flores, somos retoño\nSomos capullo y nuestra herencia son los tambores"
             }
-          ],
-          "align": "left"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nSomos semillas, somos el fruto de la bomba\nSomos las flores, somos retoño\nSomos capullo y nuestra herencia son los tambores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 2",
+              "bold": true
+            },
+            {
+              "text": "  \nDe un bello árbol que nos dio sombra\nHeredamos estas tradiciones\nY día a día aprendemos bomba\nTambores, baile y las canciones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nSomos semillas, somos el fruto de la bomba\nSomos las flores, somos retoño\nSomos capullo y nuestra herencia son los tambores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 3",
+              "bold": true
+            },
+            {
+              "text": "  \nSomos legado de los ancestros\nQue dejaron en nuestros corazones\nSomos el eco de los barriles\nSomos ritmo, tambor y flores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nSomos semillas, somos el fruto de la bomba\nSomos las flores, somos retoño\nSomos capullo y nuestra herencia son los tambores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 4",
+              "bold": true
+            },
+            {
+              "text": "  \nTenemos sangre puertorriqueña\nDe cimarronas y cimarrones\nLlevamos siempre nuestra cultura\nLa defendemos con mil honores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nSomos semillas, somos el fruto de la bomba\nSomos las flores, somos retoño\nSomos capullo y nuestra herencia son los tambores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 5",
+              "bold": true
+            },
+            {
+              "text": "  \nSomos presentes, somos futuros\nSemilleros de generaciones\nHijas e hijos de nuestra bomba\nY compartimos bien nuestros dones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nSomos semillas, somos el fruto de la bomba\nSomos las flores, somos retoño\nSomos capullo y nuestra herencia son los tambores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 6",
+              "bold": true
+            },
+            {
+              "text": "  \nSeguiremos tocando bomba por todo el mundo y sus rincones\nCon los barriles, con maracas\nCon alegría y con mil amores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nSomos semillas, somos el fruto de la bomba\nSomos las flores, somos retoño\nSomos capullo y nuestra herencia son los tambores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso Final / Dedicatoria",
+              "bold": true
+            },
+            {
+              "text": "  \nUn fuerte aplauso para Milenis\n¡Qué manera de empezar Sacha!\nAsí es que es, ¡Guau, gracias!"
+            }
+          ]
+        },
+        {
+          "type": "code-block",
+          "align": "left",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
         }
       ],
       "tags": [
