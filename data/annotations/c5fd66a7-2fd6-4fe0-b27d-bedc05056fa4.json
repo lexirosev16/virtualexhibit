@@ -2260,6 +2260,172 @@
         }
       ],
       "uuid": "68fc495c-d3bc-46c3-997b-8380444c4cb3"
+    },
+    {
+      "start_time": 3056,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Caminando\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 1",
+              "bold": true
+            },
+            {
+              "text": "  \nY yo sigo caminando por la vida\nCaminando un paso firme marcando\nY yo sigo caminando, y yo sigo caminando\nCaminando por la vida, caminando\nUn paso firme marcando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nY yo sigo caminando, y yo sigo caminando\nPor la vida, caminando un paso firme marcando\nY yo sigo caminando, y yo sigo caminando\nPor la vida, caminando un paso firme marchando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 2",
+              "bold": true
+            },
+            {
+              "text": "  \nCaminando día a día muchas veces me encontré\nY durante ese camino a mil cosas me enfrenté\nY yo sigo caminando con la vida\nCaminando un paso firme marcando\nY yo sigo caminando a paso firme"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nYo sigo caminando, pichándole todo\nLo que mi pan me esté quitando\nY yo sigo bombeando, y yo sigo caminando\nCon la vida, caminando un paso firme marcando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 3",
+              "bold": true
+            },
+            {
+              "text": "  \nAlguna gente me pregunta\nCómo sigo en movimiento\nSolo sigo al corazón\nPara que no me lleve el viento\nY yo sigo caminando con la vida\nCaminando un paso firme marcando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nY yo sigo caminando poco a poco por la vida\nSeguiré cantando los cheles, caminando\nCaminando al tope yo llegaré\nY yo sigo caminando por la vida\nCaminando un paso firme marcando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 4",
+              "bold": true
+            },
+            {
+              "text": "  \nAlguna gente me pregunta por qué sigo en movimiento\nSolo sigo al corazón para que no me lleve el viento\nY yo sigo caminando por la vida\nCaminando un paso firme marcando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nY yo sigo caminando con la vida\nCaminando un paso firme marcando\nY yo sigo caminando, sudando la gota gorda\nQué rico calorcito de Loíza, del cariño"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso Final / Dedicatoria",
+              "bold": true
+            },
+            {
+              "text": "  \nAsí que estamos buenos, esta canción sabrosa\nDesde Chicago, Puerto Rico se la dedico\nA toda la gente bella aquí presente\nY felicidades a todas las cantadoras\nDesde nuestras mayores hasta los que empezaron bebés\nTodavía este rol del cantador o la cantadora es importante\nPorque ahí está la historia, ahí es que aprendemos un montón\nGracias Usua por la invitación de poder compartir con ustedes"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro Final",
+              "bold": true
+            },
+            {
+              "text": "  \nHe llegado, he llegado, he llegado caminando\nHe llegado, he llegado, he llegado caminando\nPasito a pasito yo llegaré\nQue me guíe la semilla que sembré\nHe llegado, he llegado caminando\nDesde Chicago yo vengo cantando\nAy, yo llegué, ay sí llegué"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cierre",
+              "bold": true
+            },
+            {
+              "text": "  \nHe llegado, he llegado, he llegado caminando\nHe llegado, he llegado, he llegado caminando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "performer",
+          "tag": "Ausuba"
+        },
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "aca925d9-9918-441f-92eb-5dbccf684cd7"
     }
   ],
   "set": "Default",
