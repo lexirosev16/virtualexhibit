@@ -2518,8 +2518,8 @@
       "uuid": "23b43b4c-8029-4255-ad24-fd7982ac9034"
     },
     {
-      "start_time": 61,
-      "end_time": 0,
+      "start_time": 3660,
+      "end_time": 5400,
       "annotation": [
         {
           "type": "paragraph",
@@ -2641,6 +2641,10 @@
         {
           "category": "performer",
           "tag": "Ausuba"
+        },
+        {
+          "category": "context",
+          "tag": "feminism"
         }
       ],
       "uuid": "ed11af93-2770-4fee-876f-4a40908fa267"
