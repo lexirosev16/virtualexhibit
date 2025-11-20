@@ -1221,240 +1221,298 @@
       "uuid": "9e171972-7d26-442f-b7f4-514a703391cd"
     },
     {
-      "start_time": 1020,
-      "end_time": 0,
+      "start_time": 900,
+      "end_time": 1020,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "más Ay Dios que será de"
+              "text": "más Ay Dios que será de",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "mí si no bailo esta bomba me voy a morir"
+              "text": "mí si no bailo esta bomba me voy a morir",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "campo yo vivo triste y cada día sufriendo más"
+              "text": "campo yo vivo triste y cada día sufriendo más",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay Dios, Qué será de mí si no bailo esta bomba me voy a morir "
+              "text": "Ay Dios, Qué será de mí si no bailo esta bomba me voy a morir ",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Campo yo vivo triste cada día sufriendo más"
+              "text": "Campo yo vivo triste cada día sufriendo más",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay qué será de mí si no bail esta bomba me voy a morir "
+              "text": "Ay qué será de mí si no bail esta bomba me voy a morir ",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay campo yo vivo triste"
+              "text": "Ay campo yo vivo triste",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay cada día sufriendo más"
+              "text": "Ay cada día sufriendo más",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay Dios que será de mí si no bailo esta bomba me voy a morir "
+              "text": "Ay Dios que será de mí si no bailo esta bomba me voy a morir ",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "campo yo vivo triste cada día sufriendo más"
+              "text": "campo yo vivo triste cada día sufriendo más",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay Dios Qué será de mí si no bailo esta bomba me voy a morir "
+              "text": "Ay Dios Qué será de mí si no bailo esta bomba me voy a morir ",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "y es la bondad que consentimiento yo te quiero a ti cantar la bomba de mi borinque que aquí"
+              "text": "y es la bondad que consentimiento yo te quiero a ti cantar la bomba de mi borinque que aquí",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "aisa te vengo a cantar aly campo campo yo vivo"
+              "text": "aisa te vengo a cantar aly campo campo yo vivo",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "triste cada día suendo más Ay Dios Qué será de mí si no bailo"
+              "text": "triste cada día suendo más Ay Dios Qué será de mí si no bailo",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "nunca me voy a morir Solo te pido que repi el cuero y"
+              "text": "nunca me voy a morir Solo te pido que repi el cuero y",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "que suene también el cua para que nuestras ancestras allá"
+              "text": "que suene también el cua para que nuestras ancestras allá",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "desde el cielo la puedan cantar Ay campo campo yo vivo"
+              "text": "desde el cielo la puedan cantar Ay campo campo yo vivo",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "triste cada día sufriendo más Ay Dios"
+              "text": "triste cada día sufriendo más Ay Dios",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "será de mí si no bailo esta bomba me voy a morir Ay Camp yo vivo"
+              "text": "será de mí si no bailo esta bomba me voy a morir Ay Camp yo vivo",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "triste cada día sufriendo más"
+              "text": "triste cada día sufriendo más",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay queé será de mí si no hailo esta bomba yo voy a morir "
+              "text": "Ay queé será de mí si no hailo esta bomba yo voy a morir ",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Campo yo vivo triste cada día sufriendo Ay Dios que sea de mí si no bailo esta"
+              "text": "Campo yo vivo triste cada día sufriendo Ay Dios que sea de mí si no bailo esta",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "bomba me voy a morir canto yo vivo"
+              "text": "bomba me voy a morir canto yo vivo",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "triste cada día sufriendo má Ay Dios que"
+              "text": "triste cada día sufriendo má Ay Dios que",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "será de mí si no ao esa bomba me voy a morir"
+              "text": "será de mí si no ao esa bomba me voy a morir",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "camb Yo vivo triste cada día sufriendo más Ay que será de mi si no bailo esta bomba me voy a morir "
+              "text": "camb Yo vivo triste cada día sufriendo más Ay que será de mi si no bailo esta bomba me voy a morir ",
+              "italic": true
             }
-          ]
+          ],
+          "align": "center"
         }
       ],
       "tags": [],
