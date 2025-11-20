@@ -1,1 +1,151 @@
-{"annotations":[{"start_time":0,"end_time":180,"annotation":[{"type":"paragraph","children":[{"text":"\"Estoy Buscando un Arbol que me de sombra\""}]}],"tags":[{"category":"genre","tag":"bomba"},{"category":"performer","tag":"Margarita Sánchez Cepeda"}],"uuid":"3a55da5c-1c90-4534-ba89-c7daee8f3fd7"},{"start_time":2122,"end_time":2160,"annotation":[{"type":"paragraph","children":[{"text":"\"Viento\" "}]}],"tags":[{"category":"genre","tag":"bomba"}],"uuid":"163d7009-7093-4849-9013-8d84200cd9a3"},{"start_time":2693,"end_time":2760,"annotation":[{"type":"paragraph","children":[{"text":"\"sigue\""}]}],"tags":[{"category":"genre","tag":"bomba"},{"category":"performer","tag":"Barbara Cepeda"}],"uuid":"9d0a0449-8343-4eae-b0da-9338f1ed48c4"},{"start_time":2957,"end_time":3300,"annotation":[{"type":"paragraph","children":[{"text":"\"Agua Tile\"","italic":true}],"align":"center"},{"type":"paragraph","children":[{"text":"Si Loiza no tiene, no se porque ","italic":true}],"align":"center"},{"type":"paragraph","children":[{"text":"Que repica barrile, agua tile","italic":true}],"align":"center"}],"tags":[{"category":"genre","tag":"bomba"}],"uuid":"f29bbe5e-c083-4e61-9c57-8d8ae94cf81a"}],"set":"Default","event_id":"e6e70e98-f562-47dc-9c43-e591e22be287","source_id":"6b3094e3-62c1-44b7-bec4-0bf812b51a25"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Estoy Buscando un Arbol que me de sombra\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "performer",
+          "tag": "Margarita Sánchez Cepeda"
+        }
+      ],
+      "uuid": "3a55da5c-1c90-4534-ba89-c7daee8f3fd7"
+    },
+    {
+      "start_time": 2122,
+      "end_time": 2160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Viento\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "163d7009-7093-4849-9013-8d84200cd9a3"
+    },
+    {
+      "start_time": 2693,
+      "end_time": 2760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"sigue\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "performer",
+          "tag": "Barbara Cepeda"
+        }
+      ],
+      "uuid": "9d0a0449-8343-4eae-b0da-9338f1ed48c4"
+    },
+    {
+      "start_time": 2957,
+      "end_time": 3300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Agua Tile\"",
+              "bold": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "text": "[coro] ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Agua Tile, Agua tile "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si Loiza no tiene, no se porque ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que repica barrile, agua tile",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "f29bbe5e-c083-4e61-9c57-8d8ae94cf81a"
+    }
+  ],
+  "set": "Default",
+  "event_id": "e6e70e98-f562-47dc-9c43-e591e22be287",
+  "source_id": "6b3094e3-62c1-44b7-bec4-0bf812b51a25"
+}
