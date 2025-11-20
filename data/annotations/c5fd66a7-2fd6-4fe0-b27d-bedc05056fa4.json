@@ -6,131 +6,152 @@
       "annotation": [
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
-              "text": "[Coro – se repite] Cuando baila la negrita, truena el rayo del tambor. Cuando baila la negrita, con el ritmo del bembé."
+              "text": "\"Cuando baila la negrita\"",
+              "bold": true
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": ""
+              "text": "Verso 1",
+              "bold": true
+            },
+            {
+              "text": "  \nQue viva la niñez y la juventud de Puerto Rico\nBravo cuando baila la negrita\nTrueno, rayo, tambor\nCuando baila la negrita, lluvia al pulso"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "Verso Cuando baila la negrita, suena el rayo del tambor. Cuando baila la negrita, llueven ritmos de sabor."
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nCuando baila la negrita, trueno, rayo, tambor\nCuando baila la negrita, sube al viento, se mojó\nCuando baila la negrita, suena el horario, tambor\nCuando baila la negrita, lluvia, cielo, tambor"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": ""
+              "text": "Verso 2",
+              "bold": true
+            },
+            {
+              "text": "  \nCuando baila la negrita, fen los rayos, tambor\nCuando baila la alegrita, al cielo se mojó"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "La negrita baila yuba, enciende el corazón."
+              "text": "Verso",
+              "bold": true
+            },
+            {
+              "text": "\nLa negrita baila bomba, yuba inspiró\nCada golpe del tambor se encendió en el corazón"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": ""
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nCuando baila la negrita, trueno, rayo, tambor\nCuando baila la negrita, lluvia en el cielo"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "[Coro – repite] "
+              "text": "Verso",
+              "bold": true
+            },
+            {
+              "text": "\nCuando baila la negrita, las estrellas brillan en chic\nBailó en la casita de Don Pedro la bomba y sonó"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "Cuando baila la negrita, suena el rayo del tambor. Con el ritmo del mojo"
+              "text": "Verso 3",
+              "bold": true
+            },
+            {
+              "text": "  \nCuando baila la negrita, tambor, lluvia al viento\nSe mojó, los tambores cuentan historia\nDe coraje y valor, Puerto Rico yo te quiero\nY te canto de corazón"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": ""
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nCuando baila la negrita, rayos, campos, tambor\nCuando baila la alegrita, al cielo se mojó\nCuando baila la negrita, trueno, oro, tambor\nCuando baila la negrita, sube al viento, se mojó"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "[Verso]"
+              "text": "Verso 4",
+              "bold": true
+            },
+            {
+              "text": "  \nCuando baila la negrita, los rayos danzan\nCuando baila la alegrita, al viento se mojó\nLa negrita baila bomba, inspiró amor\nSe encendió en el corazón"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "Cuentan historias de honor y valor, Puerto Rico yo te quiero, y te canto de corazón"
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nCuando baila la negrita, trueno, rayos, tambor\nCuando baila la negrita, lluvia al viento se mojó\nCuando baila la negrita, trueno, rayo, tambor\nCuando baila la negrita, al viento se mojó"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
-              "text": "[Coro] "
+              "text": "Verso Final / Dedicatoria",
+              "bold": true
+            },
+            {
+              "text": "  "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
-              "text": "Cuando baila la negrita, truena el rayo del tambor. Cuando baila la negrita, con el ritmo semojo"
+              "text": "\n\n"
             }
           ]
         }
