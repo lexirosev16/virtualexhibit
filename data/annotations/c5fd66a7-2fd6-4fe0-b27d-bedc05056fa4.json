@@ -1456,12 +1456,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "coro",
+              "text": "Familia de Alduén",
               "italic": true,
               "bold": true
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "bold": true,
+              "text": "coro"
+            }
+          ]
         },
         {
           "type": "paragraph",
@@ -1809,7 +1820,12 @@
           "align": "center"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "7fdda139-08d1-449e-ba25-4f0327e18a42"
     }
   ],
