@@ -1228,11 +1228,22 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "más Ay Dios que será de",
-              "italic": true
+              "text": "\"Campo, yo vivo triste\"",
+              "italic": true,
+              "bold": true
             }
           ],
           "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "más Ay Dios que será de"
+            }
+          ]
         },
         {
           "type": "paragraph",
@@ -1515,7 +1526,16 @@
           "align": "center"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "cantos de bomba",
+          "tag": "Campo"
+        }
+      ],
       "uuid": "7572dda5-5053-4fcc-ba06-ac613a4b03a6"
     }
   ],
