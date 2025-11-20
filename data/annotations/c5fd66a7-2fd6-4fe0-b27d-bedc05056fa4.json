@@ -372,22 +372,6 @@
       "uuid": "965c5fb5-1132-4af2-b333-d8f07ca7dacd"
     },
     {
-      "start_time": 929,
-      "end_time": 1160,
-      "annotation": [],
-      "tags": [
-        {
-          "category": "cantos de bomba",
-          "tag": "Campo"
-        },
-        {
-          "category": "context",
-          "tag": "oppression"
-        }
-      ],
-      "uuid": "2f054762-e696-4df1-bb62-9a3908d5c0a3"
-    },
-    {
       "start_time": 1173,
       "end_time": 1407,
       "annotation": [
