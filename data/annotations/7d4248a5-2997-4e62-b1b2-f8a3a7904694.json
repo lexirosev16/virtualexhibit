@@ -178,21 +178,12 @@
       "annotation": [
         {
           "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Viento\" ",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
           "align": "center",
           "children": [
             {
               "italic": true,
-              "text": "Esta huracan "
+              "text": "“Viento”",
+              "bold": true
             }
           ]
         },
@@ -202,7 +193,7 @@
           "children": [
             {
               "italic": true,
-              "text": "esta temoral "
+              "text": "Viento, llévatelo a la mar!"
             }
           ]
         },
@@ -212,7 +203,119 @@
           "children": [
             {
               "italic": true,
-              "text": "no my ve "
+              "text": "(Coro)",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Viento"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "[verso]",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "llévatelo a la mar!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Llévatelo pa’ allá!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Llévate la maldad!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ay yo me voy de acá!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Ay me voy a resguardar!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Lo que quiero es cantar!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Lo que quiero es bailar!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "llévatelo a la mar!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Llévatelo pa’ allá!"
             }
           ]
         }
@@ -221,6 +324,10 @@
         {
           "category": "genre",
           "tag": "bomba"
+        },
+        {
+          "category": "genre",
+          "tag": "sicá"
         }
       ],
       "uuid": "163d7009-7093-4849-9013-8d84200cd9a3"
