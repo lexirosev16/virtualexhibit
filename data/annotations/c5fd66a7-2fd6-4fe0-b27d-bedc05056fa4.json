@@ -1833,7 +1833,6 @@
           "children": [
             {
               "text": "Familia de Alduén",
-              "italic": true,
               "bold": true
             }
           ],
@@ -1844,7 +1843,6 @@
           "align": "left",
           "children": [
             {
-              "italic": true,
               "bold": true,
               "text": "coro"
             }
@@ -1854,8 +1852,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mi familia está presente en la historia de la bomba,  ",
-              "italic": true
+              "text": "Mi familia está presente en la historia de la bomba,  "
             }
           ],
           "align": "left"
@@ -1864,8 +1861,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez.  ",
-              "italic": true
+              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez.  "
             }
           ],
           "align": "left"
@@ -1874,8 +1870,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mi familia está presente en la historia de la bomba,  ",
-              "italic": true
+              "text": "Mi familia está presente en la historia de la bomba,  "
             }
           ],
           "align": "left"
@@ -1884,8 +1879,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez.",
-              "italic": true
+              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez."
             }
           ],
           "align": "left"
@@ -1894,8 +1888,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "",
-              "italic": true
+              "text": ""
             }
           ],
           "align": "left"
@@ -1904,8 +1897,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mi familia está presente en la historia de la bomba,  ",
-              "italic": true
+              "text": "Mi familia está presente en la historia de la bomba,  "
             }
           ],
           "align": "left"
@@ -1914,8 +1906,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "todos conocen a la familia, desde Chicago a Mayagüez.  ",
-              "italic": true
+              "text": "todos conocen a la familia, desde Chicago a Mayagüez.  "
             }
           ],
           "align": "left"
@@ -1924,8 +1915,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mi familia está presente en la historia de la bomba,  ",
-              "italic": true
+              "text": "Mi familia está presente en la historia de la bomba,  "
             }
           ],
           "align": "left"
@@ -1934,8 +1924,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "todos conocen a la familia, desde Chicago a Mayagüez.",
-              "italic": true
+              "text": "todos conocen a la familia, desde Chicago a Mayagüez."
             }
           ],
           "align": "left"
@@ -1945,7 +1934,6 @@
           "children": [
             {
               "text": "verso ",
-              "italic": true,
               "bold": true
             }
           ],
@@ -1955,8 +1943,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Suenan los tambores, los mayores saben,  ",
-              "italic": true
+              "text": "Suenan los tambores, los mayores saben,  "
             }
           ],
           "align": "left"
@@ -1965,8 +1952,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "también en la historia la familia está en pie.  ",
-              "italic": true
+              "text": "también en la historia la familia está en pie.  "
             }
           ],
           "align": "left"
@@ -1975,8 +1961,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "El oeste tiene la familia Alduen,  ",
-              "italic": true
+              "text": "El oeste tiene la familia Alduen,  "
             }
           ],
           "align": "left"
@@ -1985,8 +1970,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "se dedica al ritmo que nunca va a perder. ",
-              "italic": true
+              "text": "se dedica al ritmo que nunca va a perder. "
             }
           ],
           "align": "left"
@@ -1996,7 +1980,6 @@
           "children": [
             {
               "text": "coro",
-              "italic": true,
               "bold": true
             }
           ],
@@ -2006,8 +1989,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mi familia está presente en la historia de la bomba,",
-              "italic": true
+              "text": "Mi familia está presente en la historia de la bomba,"
             }
           ],
           "align": "left"
@@ -2016,8 +1998,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez.",
-              "italic": true
+              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez."
             }
           ],
           "align": "left"
@@ -2026,8 +2007,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mi familia está presente en la historia de la bomba,",
-              "italic": true
+              "text": "Mi familia está presente en la historia de la bomba,"
             }
           ],
           "align": "left"
@@ -2036,8 +2016,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez.",
-              "italic": true
+              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez."
             }
           ],
           "align": "left"
@@ -2047,7 +2026,6 @@
           "children": [
             {
               "text": "verso",
-              "italic": true,
               "bold": true
             }
           ],
@@ -2057,8 +2035,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Era la voz de mi tío abuelo,  ",
-              "italic": true
+              "text": "Era la voz de mi tío abuelo,  "
             }
           ],
           "align": "left"
@@ -2067,8 +2044,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "desde el cielo con mi mamá cantando en vuelo.  ",
-              "italic": true
+              "text": "desde el cielo con mi mamá cantando en vuelo.  "
             }
           ],
           "align": "left"
@@ -2077,8 +2053,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Rando desde la nube cuando yo canto,  ",
-              "italic": true
+              "text": "Rando desde la nube cuando yo canto,  "
             }
           ],
           "align": "left"
@@ -2087,8 +2062,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "una lluvia de bomba que nos llena de encanto.",
-              "italic": true
+              "text": "una lluvia de bomba que nos llena de encanto."
             }
           ],
           "align": "left"
@@ -2098,7 +2072,6 @@
           "children": [
             {
               "text": "coro",
-              "italic": true,
               "bold": true
             }
           ],
@@ -2108,8 +2081,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mi familia está presente en la historia de la bomba,",
-              "italic": true
+              "text": "Mi familia está presente en la historia de la bomba,"
             }
           ],
           "align": "left"
@@ -2118,8 +2090,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez.",
-              "italic": true
+              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez."
             }
           ],
           "align": "left"
@@ -2128,8 +2099,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mi familia está presente en la historia de la bomba,",
-              "italic": true
+              "text": "Mi familia está presente en la historia de la bomba,"
             }
           ],
           "align": "left"
@@ -2138,8 +2108,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez.",
-              "italic": true
+              "text": "todos conocen a la familia Alduen, desde Chicago a Mayagüez."
             }
           ],
           "align": "left"
@@ -2149,7 +2118,6 @@
           "children": [
             {
               "text": "verso",
-              "italic": true,
               "bold": true
             }
           ],
@@ -2159,8 +2127,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Un aplauso para Mari y la familia Alduen,  ",
-              "italic": true
+              "text": "Un aplauso para Mari y la familia Alduen,  "
             }
           ],
           "align": "left"
@@ -2169,8 +2136,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "presente en la gloria que nunca se va a perder.  ",
-              "italic": true
+              "text": "presente en la gloria que nunca se va a perder.  "
             }
           ],
           "align": "left"
@@ -2179,8 +2145,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Todas esas familias que han dejado legado,  ",
-              "italic": true
+              "text": "Todas esas familias que han dejado legado,  "
             }
           ],
           "align": "left"
@@ -2189,8 +2154,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "cultural inmenso que siempre será cantado. ",
-              "italic": true
+              "text": "cultural inmenso que siempre será cantado. "
             }
           ],
           "align": "left"
