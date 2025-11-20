@@ -1375,17 +1375,16 @@
               "bold": true
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "code-block",
           "children": [
             {
-              "text": "[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoños, como herencia son los tambores  \n\n[verso]  \nDe un bello árbol que nos dio sombra  \nheredamos estas tradiciones, y día a día aprendemos  \nbomba, tambores, baile y las canciones  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores, las flores  \nson retoños como capullo  \nnuestra herencia son los tambores  \n\n[verso]  \nSomos legado de los ancestros que dejaron en nuestros corazones  \nsomos el eco de los barriles  \nsomos ritmo, tambor y flores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores\n",
-              "italic": true
+              "text": "[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoños, como herencia son los tambores  \n\n[verso]  \nDe un bello árbol que nos dio sombra  \nheredamos estas tradiciones, y día a día aprendemos  \nbomba, tambores, baile y las canciones  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores, las flores  \nson retoños como capullo  \nnuestra herencia son los tambores  \n\n[verso]  \nSomos legado de los ancestros que dejaron en nuestros corazones  \nsomos el eco de los barriles  \nsomos ritmo, tambor y flores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores de nuestra herencia de los tambores  \n\n[verso]  \nTenemos sangre pura de los cimarrones  \nllevamos siempre nuestra cultura, la defendemos con mil honores  \n\n[coro]  \nSomos semillas  \nsomos el fruto de la bomba  \nsomos las flores  \nsomos retoño  \nsomos capullo, y nuestra herencia son los tambores\n"
             }
           ],
-          "align": "center"
+          "align": "left"
         }
       ],
       "tags": [
