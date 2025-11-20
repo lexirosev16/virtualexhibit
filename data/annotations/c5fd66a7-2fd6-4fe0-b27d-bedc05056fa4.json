@@ -2308,6 +2308,141 @@
         }
       ],
       "uuid": "4fea09f0-fc69-4e20-947c-2cb6fcbfe85f"
+    },
+    {
+      "start_time": 2563,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Goza de la bomba\" - Ausuba ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 1",
+              "bold": true
+            },
+            {
+              "text": "  \nAh, goza, gózate la bomba, goza\nSi no sabes quién te canta, es Asuba quien te toca\nGózate la bomba, goza\nGózate la bomba, goza"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nGo, gózate la bomba, goza\nCon Mariela nada menos, ahí la bomba tú la gozas\nGoza, goza la bomba, goza\nAy, goza, gózate la bomba, goza"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 2",
+              "bold": true
+            },
+            {
+              "text": "  \nGoza, gózate la bomba\nY al ritmo con Joel y me voy\nTú la bomba de lo mar\nCon la bomba tú la gozas"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nGo, gózate la bomba, goza\nAy, goza, goza, goza, goza\nCon Loíza y la cantadora\nGo, gózate la bomba, goza"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 3",
+              "bold": true
+            },
+            {
+              "text": "  \nNunca linda que en el bate baila\nAhora que ahora fue, gózate la bomba, goza\nSi no sabes quién te canta\nGózate la bomba, que si no sabes quién te canta es Toa"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nGo, gózate la bomba, goza\nGózate la bomba, goza\nGózate la bomba, goza\nA la hora que ahora fue, gózate la bomba, goza"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 4",
+              "bold": true
+            },
+            {
+              "text": "  \nQue baile, gózate la bomba, goza\nCon Loíza y la cantadora\nGózate la bomba, goza\nY gózate la bomba, goza"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nGo, la bomba, goza\nAy, goza, goza, goza, goza\nGózate la bomba, goza\nGózate la bomba, goza"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso Final / Dedicatoria",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "4cbb8c96-0e7f-4e64-ac21-f2b04347d7a4"
     }
   ],
   "set": "Default",
