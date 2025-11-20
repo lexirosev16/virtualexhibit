@@ -701,6 +701,30 @@
         }
       ],
       "uuid": "23c41993-3266-4f33-ab1c-b6b827ddccf5"
+    },
+    {
+      "start_time": 2237,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Agua na ma",
+              "bold": true,
+              "italic": true
+            }
+          ],
+          "align": "center"
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "2188cad0-0a92-464e-b5fe-feaa2c803bee"
     }
   ],
   "set": "Default",
