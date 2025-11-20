@@ -2516,6 +2516,134 @@
         }
       ],
       "uuid": "23b43b4c-8029-4255-ad24-fd7982ac9034"
+    },
+    {
+      "start_time": 61,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"No me vas a pegar\"",
+              "bold": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Verso 1",
+              "bold": true
+            },
+            {
+              "text": "  \nAhí, ¿y qué pasa si me coges con otro?\nSi te cojo coqueteando de a otro\nYo solo exijo trato respetuoso\nY que tu amor sea firme y respetuoso"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \n¿Y qué pasa si me coges con otro?\nSi te veo coqueteándole a otro\nTú a mí no me vas a pegar\nNi a manipular, ni a maltratar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 2",
+              "bold": true
+            },
+            {
+              "text": "  \nNada pasa si me ves coqueteándole a otro\nTú a mí no me vas a hacer nada\nSi te veo coqueteándole a otro\nTú lo que eres un macharrán"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \n¿Y qué pasa si me coges con otro?\nSi te veo coqueteando a otro\n¿Y qué pasa si me coges con otro?\nSi te veo coqueteando a otro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 3",
+              "bold": true
+            },
+            {
+              "text": "  \nTú no me vengas a pegar\nTú no me vengas a pegar\nNo me vengas a maltratar\nTú no me vengas a pegar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nHermano, no me vas a manipular\nTú no me vengas a pegar\nNi mucho menos maltratar\nTú no me vengas a pegar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 4",
+              "bold": true
+            },
+            {
+              "text": "  \nLas manos son para acariciar\nPara nuestro hogar levantar\nCon nuestras manos trabajar\nTú no me vas a maltratar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro Final",
+              "bold": true
+            },
+            {
+              "text": "  \nTú no me vas a pegar\nNo me vas a maltratar\nTú no me vengas a pegar\nNo me vengas a pegar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "performer",
+          "tag": "Ausuba"
+        }
+      ],
+      "uuid": "ed11af93-2770-4fee-876f-4a40908fa267"
     }
   ],
   "set": "Default",
