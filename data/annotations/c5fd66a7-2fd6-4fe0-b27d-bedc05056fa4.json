@@ -2118,6 +2118,148 @@
         }
       ],
       "uuid": "4cbb8c96-0e7f-4e64-ac21-f2b04347d7a4"
+    },
+    {
+      "start_time": 2893,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo no estoy sola\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 1",
+              "bold": true
+            },
+            {
+              "text": "  \nYo no estoy sola, vivo mi vida en colores\nRegalándole amores a todos los corazones\nYo no estoy sola, vivo mi vida en colores\nRegalándole amores a todos los corazones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nVivo mi vida en colores, vivo mi vida señores\nYo no estoy sola, vivo mi vida en colores\nRegalándole amores a todos los corazones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 2",
+              "bold": true
+            },
+            {
+              "text": "  \nAl ritmo del buleador, con el tiempo lo escuchan los bailadores\nPorque ya van a bailar con mi vida en colores\nRegalándole amores a todos los corazones\nA todos los corazones, regalándole amores a todos los corazones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nVivo mi vida en colores, regalándole amor a todos los corazones\nPara todos los que me quieren, les dedico esta canción\nA todos los que me quieren, yo les brindo con amor"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 3",
+              "bold": true
+            },
+            {
+              "text": "  \nYo no estoy sola, vivo mi vida en colores\nRegalándole amores a todos los corazones\nYo no estoy sola, vivo mi vida en colores\nRegando de amores a todos los corazones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nY a todos los corazones, a todos los corazones que bailen\nBailadores, les regalo esta canción\nQue bailen con amor, a todos los corazones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 4",
+              "bold": true
+            },
+            {
+              "text": "  \nOye, baila, baila ahora\nA todos los corazones va esta canción\nTodos los corazones, báilala de corazón\nA todos los corazones, de corazón, a todos los corazones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nY lo baila con amor, a todos los corazones\nPara que lo bailen los bailadores\nA todos los corazones que hagan el coro\nDonde está, a todos los corazones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso Final / Dedicatoria",
+              "bold": true
+            },
+            {
+              "text": "  \nPara todos los que me quieren, a todos los corazones\nYo les dedico la canción, todo lo que me quiere\nLes entrego mi corazón, a todos los corazones\nYo no estoy sola, vivo mi vida en colores\nRegalándole amores a todos los corazones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "performer",
+          "tag": "Ausuba"
+        }
+      ],
+      "uuid": "68fc495c-d3bc-46c3-997b-8380444c4cb3"
     }
   ],
   "set": "Default",
