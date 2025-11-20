@@ -1761,6 +1761,147 @@
         }
       ],
       "uuid": "7fdda139-08d1-449e-ba25-4f0327e18a42"
+    },
+    {
+      "start_time": 1418,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso ",
+              "bold": true
+            },
+            {
+              "text": "\nCulebra como canto Rafael domine domine\nEsa negra domine que trabaja la culebra como canto Rafael\nComo canto Rafael como canto Rafael"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nEsta negra baila bomba\nEsa negra domine domine\nEsta negra trabaja la culebra como Rafael\nQue trabaja la culebra como canto Rafael"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            },
+            {
+              "text": "  \nEsta negra baila la bomba y se pica con los pies\nDominé dominé esa negra dominé\nTrabaja la culebra como Rafael\nLo deora borique la cantadora cantan bomba cantando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nDomin domine domine domine\nQue trabaja la culebra como cantó Rafael\nQue trabaja la culebra como cantó Rafael\nQue trabaja la culebra como cantó Rafael\nComo cantó Rafael como cantó Rafael como cantó Rafael"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso ",
+              "bold": true
+            },
+            {
+              "text": "  \nLas negras cantan bombas como cantó Rafael\nComo cantó Rafael como mano Rafael\nLa negra bailan bomba aquí de mayel\nDominé esa negra dominé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nQue trabaja la culebra como cantó Rafael\nDominé dominé esta dominé\nQue la culebra como cantó Rafael\nComo cantó Rafael como canto Rafael"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso ",
+              "bold": true
+            },
+            {
+              "text": "  \nEsa negra baila bomba\nEsa negra domin domin domin\nEsa negra domin que trabaja la culebra como canto Rafael\nQue trabaja la culebra como canto Rafael"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "  \nLa negrita baila bomba\nEsta negra dominé dominé domin\nEsa negra domin que trabaja la culebra como canto Rafael\nDomin domin esa negra domin que trabaja la culebra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso Final / Dedicatoria",
+              "bold": true
+            },
+            {
+              "text": "  \nUn aplauso para María Castillo\nOye una dedicación especial a Neli Tanco, cantadora de la diáspora que falleció este año\nY que por muchos años fue la voz femenina que se veía en las tarimas de la diáspora\nEn cuanto a bomba y plena se refiere\nAsí que un aplauso a Neli Tanco y a nuestras ancestras que siguen vivas\nVida frágil, y hoy nos falta una voz\nQue como un árbol dio sus frutos y la más..."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "cantos de bomba",
+          "tag": "\"Esta es la domine\""
+        },
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "4fea09f0-fc69-4e20-947c-2cb6fcbfe85f"
     }
   ],
   "set": "Default",
