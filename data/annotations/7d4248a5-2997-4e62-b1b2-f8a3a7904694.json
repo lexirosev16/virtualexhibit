@@ -33,7 +33,39 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Viento\" "
+              "text": "\"Viento\" ",
+              "italic": true
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "Esta huracan "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "esta temoral "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "center",
+          "children": [
+            {
+              "italic": true,
+              "text": "no my ve "
             }
           ]
         }
