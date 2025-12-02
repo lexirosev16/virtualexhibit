@@ -478,48 +478,43 @@
           "children": [
             {
               "text": "\"Yo quiero cantar\"",
-              "italic": true,
               "bold": true
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Yo quiero bailar bomba ",
-              "italic": true
+              "text": "Yo quiero bailar bomba "
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Suename los tambores "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": ""
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "[verso]",
               "bold": true
             }
@@ -527,40 +522,36 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Cuando suena los tambores"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": ""
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "para que bailar la bomba "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "sola baila "
             }
           ]
