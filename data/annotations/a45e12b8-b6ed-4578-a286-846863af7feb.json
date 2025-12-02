@@ -30,18 +30,16 @@
           "children": [
             {
               "text": "\"El Azul de mi Caribe\"",
-              "italic": true,
               "bold": true
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "[coro]\nEl azul de mi Caribe, el blanco de mi ilusión. El rojo de mi bandera tiene sangre de cimarrón."
             }
           ]
@@ -50,11 +48,10 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "[verso]",
-              "italic": true
+              "text": "[verso]"
             }
           ],
-          "align": "center"
+          "align": "left"
         }
       ],
       "tags": [
