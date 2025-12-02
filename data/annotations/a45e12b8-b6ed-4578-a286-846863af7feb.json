@@ -202,19 +202,17 @@
           "children": [
             {
               "text": "\"Yo soy cimmaron\" ",
-              "bold": true,
-              "italic": true
+              "bold": true
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "bold": true,
-              "italic": true,
               "text": "Delegacion del Norte"
             }
           ]
@@ -224,31 +222,28 @@
           "children": [
             {
               "text": "[coro]",
-              "bold": true,
-              "italic": true
+              "bold": true
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Estando en pie de lucha, yo soy cimarrón.\nLibertad o muerte, yo soy cimarrón.\nEn pie de lucha, yo soy cimarrón.\nLibertad o muerte, no soy esclavón.\nLibertad o muerte, yo soy primero.",
-              "italic": true
+              "text": "Estando en pie de lucha, yo soy cimarrón.\nLibertad o muerte, yo soy cimarrón.\nEn pie de lucha, yo soy cimarrón.\nLibertad o muerte, no soy esclavón.\nLibertad o muerte, yo soy primero."
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Estamos en pie de lucha al ritmo de amor.\nEn pie de lucha, yo soy cimarrón.\nYo soy cimarrón.\nHe quitado las cadenas, ya borrado al mayor.\nSeguiremos en batalla hasta obtener la libertad.\nDe pie de lucha, yo soy cimarrón",
-              "italic": true
+              "text": "Estamos en pie de lucha al ritmo de amor.\nEn pie de lucha, yo soy cimarrón.\nYo soy cimarrón.\nHe quitado las cadenas, ya borrado al mayor.\nSeguiremos en batalla hasta obtener la libertad.\nDe pie de lucha, yo soy cimarrón"
             }
           ],
-          "align": "center"
+          "align": "left"
         }
       ],
       "tags": [
