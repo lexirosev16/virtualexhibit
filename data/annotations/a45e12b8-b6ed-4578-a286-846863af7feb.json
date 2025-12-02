@@ -574,18 +574,17 @@
           "children": [
             {
               "text": "\"De Carolina\"",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
               "text": "\nDelegacion de la Carolina "
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "text": "References the song \"de Carolina\" por Rauw Alejandro"
@@ -594,141 +593,9 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "text": "[verso]",
-              "bold": true,
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "La gente sabe que somos de la calle",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "La gente sabe que somos de la calle",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "La gente sabe que somos de la calle",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Somo' de Carolina y venimo' vira'o",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Somo' de Carolina y venimo' vira'o",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Somo' de Carolina y venimo' vira'o",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Somo' de Carolina y venimo' vira'o",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Somo' de Carolina, Carolina, Carolina",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Somo' de Carolina y venimo' vira'o",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Somo' de Carolina y venimo' vira'o",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Somo' de Carolina y venimos vira'o",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Somo' de Carolina, -lina, -lina ",
-              "italic": true
-            }
-          ],
-          "align": "center"
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
               "text": "[verso]",
               "bold": true
             }
@@ -736,110 +603,217 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
+              "text": "La gente sabe que somos de la calle"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La gente sabe que somos de la calle"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La gente sabe que somos de la calle"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somo' de Carolina y venimo' vira'o"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somo' de Carolina y venimo' vira'o"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somo' de Carolina y venimo' vira'o"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somo' de Carolina y venimo' vira'o"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somo' de Carolina, Carolina, Carolina"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somo' de Carolina y venimo' vira'o"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somo' de Carolina y venimo' vira'o"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somo' de Carolina y venimos vira'o"
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somo' de Carolina, -lina, -lina "
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "[verso]",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
               "text": "Mira Mira Mira tumbe"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Carolina y Mayaguez "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Donde traje la bomba "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "son pueblo de Mayaguez "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Carolina, ---"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Mira, Mira, Mira, Mira Tumbe"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "de pueblo de Mayaguez"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "yo te traigo la bomba por Carolina a Mayaguez "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "ese golpe "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Ay Maria, cuembre hoy "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Carolina "
             }
           ]
