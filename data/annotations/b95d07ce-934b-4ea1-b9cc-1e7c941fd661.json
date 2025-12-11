@@ -48,7 +48,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Petronila Gilbert; Guilbe\"",
+              "text": "\"Petronila Guilbe\"",
               "bold": true
             }
           ]
@@ -57,7 +57,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Petronila Gilbert yo no declaré, yo no declaré, yo no declaré"
+              "text": "Petronila Guilbe yo no declaré, yo no declaré, yo no declaré"
             }
           ]
         },
@@ -69,7 +69,7 @@
               "bold": true
             },
             {
-              "text": "\nPetronila Gilbert yo no declaré,"
+              "text": "\nPetronila Guilbe yo no declaré,"
             }
           ]
         },
@@ -155,11 +155,11 @@
         },
         {
           "category": "genre",
-          "tag": "rhythm"
+          "tag": "bomba"
         },
         {
           "category": "genre",
-          "tag": "bomba"
+          "tag": "yubá"
         }
       ],
       "uuid": "ca1c7922-f32f-437a-b5e7-3149608db748"
