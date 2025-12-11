@@ -9,28 +9,25 @@
           "children": [
             {
               "text": "\"Rulé candela\"",
-              "italic": true,
               "bold": true
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Yo me voy por La Loiza "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Rulé candela"
             }
           ]
