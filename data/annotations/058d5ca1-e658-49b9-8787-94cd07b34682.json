@@ -4251,70 +4251,74 @@
             {
               "text": "The vocalist is uncredited in the film but the style resembles that of Residente/Calle 13. The singer might also be the rapper-singer Welmo who appears throughout the film. In this segment, an electric guitar melody can be heard, and it transitions into the following partial song. The song \"soy libre\" of unknown author is political in nature commenting on the nature of freedom, and colonialism in Puerto Rico by stating that the author is \"free like the rivers.\" It's a powerful close to a film that touches on themes colonialism rather sparingly.  "
             }
-          ]
+          ],
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "",
-              "italic": true
+              "text": ""
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "\"Soy Libre\""
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Y soy libre, Libre como el río que en el mar desemboca, "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Libre las palabras que saltan de mi boca. Libre decido y alcanzo lo que quiero, Y aunque presto esté mi cuerpo, Es mi mente la que elevo. Libre es el aire que respiro Desde el momento en que nazco Hasta el último suspiro. Libre como el suelo de una isla que se expande, Libre es mi pueblo, y ante balas no se rinde. "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Libre, y soy libre. "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Libre, y soy libre\""
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "performer",
+          "tag": "Welmo E. Romero Joseph"
+        },
+        {
+          "category": "genre",
+          "tag": "hip-hop"
+        }
+      ],
       "uuid": "14f55bba-31bc-44e9-9f0a-0ec82844ccd8"
     }
   ],
