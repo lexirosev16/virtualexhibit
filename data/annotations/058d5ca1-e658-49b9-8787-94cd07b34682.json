@@ -639,7 +639,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Ay un baile de bomba en casa de José y estan tocando Yuba en Francés"
             }
           ]
         },
@@ -647,7 +647,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay un baile de bomba en casa de José"
+              "text": "[Coro]",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Landié, Landié, ay landié lan lan deloyé"
             }
           ]
         },
