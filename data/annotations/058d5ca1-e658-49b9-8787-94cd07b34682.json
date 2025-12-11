@@ -1407,14 +1407,15 @@
           "children": [
             {
               "text": "\"Cuando Diego\" ",
-              "bold": true
+              "bold": true,
+              "italic": true
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "italic": true,
@@ -1424,7 +1425,7 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "italic": true,
@@ -1434,7 +1435,7 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "italic": true,
@@ -1444,7 +1445,7 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "italic": true,
@@ -1455,16 +1456,16 @@
       ],
       "tags": [
         {
-          "category": "cantos de bomba",
-          "tag": "Song Title"
-        },
-        {
           "category": "genre",
           "tag": "bomba"
         },
         {
           "category": "instrumentation",
           "tag": "barriles"
+        },
+        {
+          "category": "cantos de bomba",
+          "tag": "Cuando Diego Bailo"
         }
       ],
       "uuid": "934e9e39-28e3-4d30-b2c8-34ecb56da712"
