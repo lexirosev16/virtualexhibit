@@ -3920,7 +3920,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Adios que me voy\" "
+              "text": "\"Adiós que me voy\" ",
+              "bold": true
+            },
+            {
+              "text": "(attributed to Mayaguez) "
             }
           ]
         },
@@ -3928,7 +3932,121 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "attributed to Mayaguez "
+              "text": "Adiós que me voy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que me voy para mi casa"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adiós que me voy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay que ya me voy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me voy pa' Loiza Aldea"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que me voy por Guayama "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay que ya me voy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adios, hijito del alma"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adios mi hijo querido"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adios amigo querido"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay adios que ya me voy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
             }
           ]
         }
@@ -3937,6 +4055,14 @@
         {
           "category": "genre",
           "tag": "bomba"
+        },
+        {
+          "category": "cantos de bomba",
+          "tag": "Adiós que me voy"
+        },
+        {
+          "category": "genre",
+          "tag": "holandés"
         }
       ],
       "uuid": "6c37e5cd-0ed7-4dfd-861e-3a2d99fc1d00"
