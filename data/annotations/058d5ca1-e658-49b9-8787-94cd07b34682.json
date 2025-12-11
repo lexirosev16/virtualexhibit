@@ -3608,12 +3608,10 @@
           "children": [
             {
               "text": "“Cachón”",
-              "bold": true,
-              "italic": true
+              "bold": true
             },
             {
-              "text": "  \nCachón, dice Elena.\\",
-              "italic": true
+              "text": "  \nCachón, dice Elena."
             }
           ]
         },
@@ -3621,18 +3619,7 @@
           "type": "paragraph",
           "children": [
             {
-              "italic": true,
-              "text": "Cachón, dice Elena, para calmarse.\nMe voy para Guayama, de vuelta del viaje.\nCachón le dice, Cachón dice Elena, cachón dice Elena, \n\"Cachón dice Elena, que vamos pa la contra pa resguardarse\""
-            },
-            {
-              "text": "\n\n1950s recording which transitions into a professional commercial recording of "
-            },
-            {
-              "text": "Paracumbé with lead singer Nelie Robles Lebron from 1997. ",
-              "italic": true
-            },
-            {
-              "text": "\n\n"
+              "text": "Cachón, dice Elena, para calmarse.\nMe voy para Guayama, de vuelta del viaje.\nCachón le dice, Cachón dice Elena, cachón dice Elena, \n\"Cachón dice Elena, que vamos pa la contra pa resguardarse\"\n\n1950s recording which transitions into a professional commercial recording of Paracumbé with lead singer Nelie Robles Lebron from 1997. \n\n"
             }
           ]
         }
