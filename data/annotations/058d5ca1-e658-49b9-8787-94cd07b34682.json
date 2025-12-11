@@ -112,51 +112,48 @@
             {
               "text": "Ruth Fernandez sings \"Negra triste.\" A song which discusses a Black woman who loses her love and suffers due to this loss. "
             }
-          ]
+          ],
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Ya Negro Murió\" or \"Negra Triste\" (Aguadilla)",
-              "italic": true
+              "text": "\"Ya Negro Murió\" or \"Negra Triste\" (Aguadilla)"
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Negra triste, porque ya el negro murió, porque ya el negro durmió, mas nunca va a disfrutar el guateque— solo quedó la negra."
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "La negra no cesa de llorar, ¡ay, su dolor! Negra está triste, negra sola llora su pena, llora su pena y su dolor."
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "El negro que tanto quiso está en los reinos de Dios. Negra está triste, está llorando su amor, está llorando a su negro, su negro que tanto amó."
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "text": "",
@@ -166,7 +163,7 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "underline": true,
@@ -176,40 +173,36 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "\"Sad Black Woman\""
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Sad Black woman, because the Black man has died, because the Black man has slept, never again to enjoy the celebration— only the Black woman remains."
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "She does not stop crying, oh, her sorrow. She is sad, alone she weeps her grief, she weeps her sorrow and her pain."
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "The Black man she loved so deeply is now in the realms of God. She is heartbroken, mourning her love, mourning her Black man, the one she loved so much."
             }
           ]
@@ -218,7 +211,7 @@
       "tags": [
         {
           "category": "cantos de bomba",
-          "tag": "Song Title"
+          "tag": "La Negra Triste"
         }
       ],
       "uuid": "b2b03aee-05ec-49b5-b2ac-02eeef2788b1"
