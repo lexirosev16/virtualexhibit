@@ -1,14 +1,15 @@
 {
   "annotations": [
     {
-      "start_time": 7200,
+      "start_time": 7920,
       "end_time": 7202,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Dale Golpe\""
+              "text": "Delegation del Cangrejos ",
+              "bold": true
             }
           ]
         }
