@@ -1,1 +1,43 @@
-{"annotations":[{"start_time":5310,"end_time":0,"annotation":[{"type":"paragraph","children":[{"text":"\"Comida no\""}]}],"tags":[],"uuid":"945a3210-a99b-4bb3-86d1-87e9f6920872"}],"set":"Default","event_id":"6ea301df-c0ba-4718-a2ad-0d2946f8fb7e","source_id":"3d3c6273-340c-4694-9569-525dbc7c6d18"}
+{
+  "annotations": [
+    {
+      "start_time": 5310,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Comida no\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "945a3210-a99b-4bb3-86d1-87e9f6920872"
+    },
+    {
+      "start_time": 651,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Narration: ",
+              "bold": true
+            },
+            {
+              "text": "Discusses the significance of the maraca to cantos de bomba."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce9cbbcc-2b5c-476d-aae3-5270f475e109"
+    }
+  ],
+  "set": "Default",
+  "event_id": "6ea301df-c0ba-4718-a2ad-0d2946f8fb7e",
+  "source_id": "3d3c6273-340c-4694-9569-525dbc7c6d18"
+}
