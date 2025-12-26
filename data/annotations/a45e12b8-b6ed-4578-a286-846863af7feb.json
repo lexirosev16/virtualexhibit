@@ -1158,6 +1158,22 @@
         }
       ],
       "uuid": "6c8c4a91-47a6-438d-8573-caf48ffb28eb"
+    },
+    {
+      "start_time": 440,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are eight delegations corresponding to different regions. Bomberos and Bomberos have come from all parts for this historic moment. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b675e0d8-0318-4399-9d00-faa6d6d21967"
     }
   ],
   "set": "Default",
