@@ -434,6 +434,77 @@
               "text": "Mandingo eh tambora"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Verso 2 ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Ahora "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Mandingo eh "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mandingo eh "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mandingo eh tambora"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando baila este coro"
+            }
+          ]
         }
       ],
       "tags": [
