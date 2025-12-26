@@ -16,20 +16,14 @@
     "github_org": "lexirosev16",
     "is_private": false,
     "title": "Beyond the Batey: Analyzing Historical and Contemporary Bomba Performances and Films ",
-    "description": "For this digital edition/exhibit, I have created annotations....",
+    "description": "For this digital edition/exhibit, I have created annotations for audiovisual elements for commercial music videos featuring bomba, for various largescale bomba festivals including La magia de los tambores, Los Encuentros de Tambores, Los Encuentros de Cantaoras, and LaSanse. ",
     "language": "en",
     "slug": "virtualexhibit",
     "creator": "lexirosev16",
     "authors": "Alexis R. Velazquez",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "tanyaclement",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -661,7 +655,7 @@
       ]
     },
     "created_at": "2025-10-09T17:31:22.585Z",
-    "updated_at": "2025-12-26T15:26:55.885Z",
+    "updated_at": "2025-12-26T15:29:18.096Z",
     "generate_pages_site": true
   },
   "annotations": {
