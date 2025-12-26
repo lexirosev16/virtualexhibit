@@ -2033,7 +2033,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "performer",
+          "tag": "Delegación del Oeste"
+        }
+      ],
       "uuid": "96190b82-8e72-4a0a-8b04-9d70c8b1c4e4"
     }
   ],
