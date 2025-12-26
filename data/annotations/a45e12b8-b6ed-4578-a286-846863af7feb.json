@@ -515,6 +515,10 @@
         {
           "category": "genre",
           "tag": "bomba"
+        },
+        {
+          "category": "performer",
+          "tag": "Delegación de la Diaspora"
         }
       ],
       "uuid": "673bd9ca-5b31-412b-82ec-9f4d6442ff74"
