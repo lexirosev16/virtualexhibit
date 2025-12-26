@@ -263,7 +263,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Suena Ya!\"",
+              "text": "\"Suena Ya!\" performed by the Delegación de la Diáspora (Arizona, Buffalo, NY, New Jersey)",
               "bold": true
             }
           ],
@@ -274,25 +274,7 @@
           "align": "left",
           "children": [
             {
-              "text": "Delegación de la Diáspora  "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "[Coro]  ",
+              "text": "Verso 1 ",
               "bold": true
             }
           ]
@@ -302,7 +284,35 @@
           "align": "left",
           "children": [
             {
-              "text": "Suena los tambores,  "
+              "text": "Ay, ai eh "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Ay, ai eh"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Suena los tambores"
             }
           ]
         },
@@ -320,7 +330,7 @@
           "align": "left",
           "children": [
             {
-              "text": "para gozar.  "
+              "text": "para gozar"
             }
           ]
         },
@@ -329,7 +339,7 @@
           "align": "left",
           "children": [
             {
-              "text": ""
+              "text": "Suéname los tambores"
             }
           ]
         },
@@ -338,7 +348,7 @@
           "align": "left",
           "children": [
             {
-              "text": "Suéname los tambores,  "
+              "text": "y suéname los cuás"
             }
           ]
         },
@@ -347,7 +357,7 @@
           "align": "left",
           "children": [
             {
-              "text": "y suéname los cuás,  "
+              "text": "que vamos a bailar"
             }
           ]
         },
@@ -356,25 +366,8 @@
           "align": "left",
           "children": [
             {
-              "text": "que vamos a bailar."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "[coro]"
+              "text": "Coro",
+              "bold": true
             }
           ]
         },
@@ -410,16 +403,7 @@
           "align": "left",
           "children": [
             {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "[verso]",
+              "text": "Verso",
               "bold": true
             }
           ]
@@ -429,7 +413,7 @@
           "align": "left",
           "children": [
             {
-              "text": "mandingo eh "
+              "text": "Mandingo eh "
             }
           ]
         },
@@ -438,7 +422,7 @@
           "align": "left",
           "children": [
             {
-              "text": "mandingo eh "
+              "text": "Mandingo eh "
             }
           ]
         },
@@ -447,17 +431,7 @@
           "align": "left",
           "children": [
             {
-              "text": "mandingo eh tambora"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": ""
+              "text": "Mandingo eh tambora"
             }
           ]
         }
