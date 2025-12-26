@@ -879,7 +879,7 @@
               "bold": true
             },
             {
-              "text": "por [compositor], [delegacion de XXX] "
+              "text": "por Plenibom, [delegacion de XXX] "
             }
           ]
         },
@@ -1114,7 +1114,35 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Tambores que bailan \n\n"
+              "text": "Tambores que bailan \n"
+            },
+            {
+              "text": "Coro ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tambores, Tambores "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tambores del mar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
             }
           ]
         }
@@ -1123,6 +1151,10 @@
         {
           "category": "instrumentation",
           "tag": "barriles"
+        },
+        {
+          "category": "genre",
+          "tag": "yubá"
         }
       ],
       "uuid": "6c8c4a91-47a6-438d-8573-caf48ffb28eb"
