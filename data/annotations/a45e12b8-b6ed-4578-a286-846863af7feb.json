@@ -452,7 +452,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Yo quiero cantar\"",
+              "text": "\"Oy, yo quiero cantar\" - composed by Ishmael Rodriguez",
               "bold": true
             }
           ],
@@ -462,10 +462,20 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Yo quiero bailar bomba "
+              "text": "Verso ",
+              "bold": true
             }
           ],
           "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Yo quiero bailar bomba "
+            }
+          ]
         },
         {
           "type": "paragraph",
@@ -481,17 +491,8 @@
           "align": "left",
           "children": [
             {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": "[verso]",
-              "bold": true
+              "bold": true,
+              "text": "Verso 2"
             }
           ]
         },
@@ -501,15 +502,6 @@
           "children": [
             {
               "text": "Cuando suena los tambores"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
-              "text": ""
             }
           ]
         },
