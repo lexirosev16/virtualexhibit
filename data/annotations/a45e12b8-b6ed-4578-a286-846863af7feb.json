@@ -1190,6 +1190,27 @@
       ],
       "tags": [],
       "uuid": "188321ef-c629-4b24-b06c-d9ededfac0e0"
+    },
+    {
+      "start_time": 953,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Delegation of"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "instrumentation",
+          "tag": "barriles"
+        }
+      ],
+      "uuid": "74b8b077-b262-4d52-aa43-35e70279022e"
     }
   ],
   "set": "Default",
