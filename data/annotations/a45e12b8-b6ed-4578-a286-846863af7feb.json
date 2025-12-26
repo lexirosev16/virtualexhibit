@@ -1346,7 +1346,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Soy los elementos\" por Delegation del Oeste  ",
+              "text": "\"Soy los elementos\" performed by the Delegation del Oeste  ",
               "bold": true
             }
           ]
@@ -1355,11 +1355,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Verso  ",
+              "text": "Verso 1\n",
               "bold": true
             },
             {
-              "text": "\nSoy tierra\nSoy aire\nSoy agua\nSoy fuego\nCuando entro al batey, yo me libero"
+              "text": "Soy tierra\nSoy aire\nSoy agua\nSoy fuego\nCuando entro al batey, yo me libero"
             }
           ]
         },
@@ -1401,7 +1401,61 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Soy río,\nSoy montaña\nSoy cielo\nSoy deseo\nCuando entro al batey con mis ancestros"
+              "text": "Soy tierra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy aire\nSoy agua\nSoy fuego\nCuando entro al batey, yo me libero"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy tierra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy aire\nSoy agua\nSoy fuego\nCuando entro al batey, yo me libero\n"
+            },
+            {
+              "text": "Verso 3",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy río\nSoy montaña\nSoy cielo\nSoy deseo\nCuando entro al batey con mis ancestros"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
             }
           ]
         },
@@ -1417,7 +1471,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Verso 3",
+              "text": "Verso 4",
               "bold": true
             }
           ]
@@ -1499,6 +1553,31 @@
             },
             {
               "text": "\nSoy aire\nSoy viento\nSoy brisa\nSoy cielo\nCuando entro al batey, voy con mis ancestros"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy tierra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy aire\nSoy agua\nSoy fuego\nCuando entro al batey, yo me libero"
             }
           ]
         }
