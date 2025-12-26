@@ -986,6 +986,10 @@
         {
           "category": "genre",
           "tag": "bomba"
+        },
+        {
+          "category": "performer",
+          "tag": "Delegación de Carolina"
         }
       ],
       "uuid": "bb44aa4c-3906-457a-8101-af87a051f6af"
