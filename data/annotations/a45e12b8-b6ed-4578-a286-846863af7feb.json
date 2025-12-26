@@ -1592,13 +1592,113 @@
     },
     {
       "start_time": 1652,
-      "end_time": 0,
+      "end_time": 1680,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Crowd joins in singing about Mayaguez"
+              "text": "\"De Mayaguez\" performed by the Delegation del Oeste",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro 1"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mírame bien a la cara a la cara"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mírame Mírame bien a la cara que yo soy de Mayaguez "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro 2",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mírame bien a la cara a la cara"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mírame Mírame bien a la cara que yo soy de Mayaguez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mírame bien a la cara a la cara"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mírame Mírame bien a la cara que yo soy de Mayaguez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro 3 ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mírame bien a la cara a la cara"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mírame Mírame bien a la cara que yo soy de Mayaguez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
             }
           ]
         }
