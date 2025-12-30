@@ -3049,81 +3049,75 @@
             {
               "text": "Final credits roll on the screen and state the following:"
             }
-          ]
+          ],
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Producer: Banco Popular ",
-              "italic": true
+              "text": "Producer: Banco Popular "
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Director Paloma Sau",
-              "italic": true
+              "text": "Director Paloma Sau"
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Director and Music Producer:"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Angel \"Cuco\" Pena"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Producer "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "Laura E Vega"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "A production of paradise films and ninguen sciencia"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "text": "Participating Artists ",
@@ -3133,7 +3127,7 @@
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "text": "\n"
@@ -3146,7 +3140,8 @@
             {
               "text": "Here’s the corrected list with proper Spanish accents and spelling where needed:"
             }
-          ]
+          ],
+          "align": "left"
         },
         {
           "type": "bulleted-list",
@@ -3154,7 +3149,8 @@
             {
               "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
             }
-          ]
+          ],
+          "align": "left"
         },
         {
           "type": "paragraph",
@@ -3162,11 +3158,12 @@
             {
               "text": "Let me know if you'd like this sorted alphabetically or formatted for a program or publication."
             }
-          ]
+          ],
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
               "text": "\n\n\n\n\n"
