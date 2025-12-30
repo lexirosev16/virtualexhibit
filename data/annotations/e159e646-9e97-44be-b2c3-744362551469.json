@@ -939,93 +939,49 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Delegation of Loiza presents their work at the Encuentro de Tambores"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
+              "text": "\"Yo Bailare\" ",
+              "bold": true
+            },
             {
-              "text": "\"Yo Bailare\""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[coro] ",
-              "italic": true
+              "text": "performed by the Delegation de Loiza"
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
-          "align": "center",
           "children": [
             {
-              "italic": true,
+              "text": "Coro ",
+              "bold": true
+            }
+          ],
+          "align": "left"
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
               "text": "Yo bailare"
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "yo bailare "
             }
           ]
         },
         {
           "type": "paragraph",
-          "align": "center",
+          "align": "left",
           "children": [
             {
-              "italic": true,
               "text": "es de la bomba "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": "[Verso]"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "center",
-          "children": [
-            {
-              "italic": true,
-              "text": ""
             }
           ]
         }
@@ -1034,6 +990,10 @@
         {
           "category": "genre",
           "tag": "bomba"
+        },
+        {
+          "category": "performer",
+          "tag": "Delegación de Loiza"
         }
       ],
       "uuid": "fee7d94a-8af1-4286-9318-a7d0cf4c7ec9"
