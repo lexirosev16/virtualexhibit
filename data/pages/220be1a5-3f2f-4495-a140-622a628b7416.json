@@ -2,11 +2,13 @@
   "content": [],
   "created_at": "2025-10-09T17:31:22.616Z",
   "created_by": "lexirosev16",
-  "title": "A Virtual Exhibit: Celebrating the Life of Alba Rosa Rosario Cepeda",
-  "updated_at": "2025-12-30T22:01:33.228Z",
+  "title": "Analyzing Bomba Festivals ",
+  "updated_at": "2025-12-30T22:02:15.008Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
-  }
+  },
+  "parent": "d74a96ce-ebbb-4b63-98fd-e7a550b66f0f",
+  "slug": "analyzing-bomba-festivals"
 }
