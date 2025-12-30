@@ -310,95 +310,80 @@
             {
               "text": "[Cepeda] performs [\"song\"] on barriles"
             }
-          ]
+          ],
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "yo que quiera ",
-              "italic": true
+              "text": "yo que quiera "
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "toca la bomba",
-              "italic": true
+              "text": "toca la bomba"
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "toca la plena ",
-              "italic": true
+              "text": "toca la plena "
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "son es la melodia ",
-              "italic": true
+              "text": "son es la melodia "
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "cual que quiera ",
-              "italic": true
+              "text": "cual que quiera "
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "la cultura ",
-              "italic": true
+              "text": "la cultura "
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "la bomba, la plena ",
-              "italic": true
+              "text": "la bomba, la plena "
             }
           ],
-          "align": "center"
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "es de Rafael Cepeda",
-              "italic": true
+              "text": "es de Rafael Cepeda"
             }
           ],
-          "align": "center"
+          "align": "left"
         }
       ],
       "tags": [
