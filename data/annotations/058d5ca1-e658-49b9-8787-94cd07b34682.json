@@ -5000,6 +5000,28 @@
       ],
       "tags": [],
       "uuid": "066f5d2a-89c3-4a7a-a6b1-f6c509113603"
+    },
+    {
+      "start_time": 3053,
+      "end_time": 3060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Seshuque Y Balance\" - Grupo Afro Boriqua (1998) ",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "05fa36db-09cb-471f-ade9-9d79c77efb84"
     }
   ],
   "set": "Default",
