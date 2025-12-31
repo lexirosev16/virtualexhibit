@@ -110,7 +110,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ruth Fernandez sings \"Negra triste.\" A song which discusses a Black woman who loses her love and suffers due to this loss. "
+              "text": "Ruth Fernandez sings "
+            },
+            {
+              "text": "\"Negra triste.\"",
+              "bold": true
+            },
+            {
+              "text": " A song which discusses a Black woman who loses her love and suffers due to this loss. "
             }
           ],
           "align": "left"
@@ -119,7 +126,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Ya Negro Murió\" or \"Negra Triste\" (Aguadilla)"
+              "text": "\"Ya Negro Murió\" or \"Negra Triste\"",
+              "bold": true
+            },
+            {
+              "text": " (Aguadilla)"
             }
           ],
           "align": "left"
@@ -156,18 +167,9 @@
           "align": "left",
           "children": [
             {
-              "text": "",
-              "underline": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "align": "left",
-          "children": [
-            {
               "underline": true,
-              "text": "English Translation "
+              "text": "English Translation ",
+              "bold": true
             }
           ]
         },
@@ -176,7 +178,8 @@
           "align": "left",
           "children": [
             {
-              "text": "\"Sad Black Woman\""
+              "text": "\"Sad Black Woman\"",
+              "bold": true
             }
           ]
         },
