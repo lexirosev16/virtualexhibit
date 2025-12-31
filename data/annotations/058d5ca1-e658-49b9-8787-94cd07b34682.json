@@ -3512,11 +3512,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Welmo raps: \"M"
-            },
-            {
-              "text": "e levanto tomo aire sigo el ritmo me despejo en la sangre de una raza que se mira al espejo con las manos negras manos que se lanzan sobre el cuero. Canto, baile, ritmo. Canto, baile, ritmo\"",
-              "italic": true
+              "text": "Welmo raps: Me levanto tomo aire sigo el ritmo me despejo en la sangre de una raza que se mira al espejo con las manos negras manos que se lanzan sobre el cuero. Canto, baile, ritmo. Canto, baile, ritmo."
             }
           ]
         },
@@ -3524,8 +3520,9 @@
           "type": "paragraph",
           "children": [
             {
-              "italic": true,
-              "text": ""
+              "text": "English Translation:",
+              "underline": true,
+              "bold": true
             }
           ]
         },
@@ -3533,17 +3530,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "English Translation: ",
-              "underline": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "italic": true,
-              "text": "\"I rise, I breathe, I follow the rhythm. I clear my mind in the blood of a race that looks into the mirror with Black hands—hands that strike the drum. Song, dance, rhythm. Song, dance, rhythm.\""
+              "text": "I rise, I breathe, I follow the rhythm. I clear my mind in the blood of a race that looks into the mirror with Black hands—hands that strike the drum. Song, dance, rhythm. Song, dance, rhythm."
             }
           ]
         }
