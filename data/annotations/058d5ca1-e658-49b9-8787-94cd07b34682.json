@@ -4789,27 +4789,6 @@
       "uuid": "ffe78eec-6ac4-416a-a092-af1e53abd384"
     },
     {
-      "start_time": 2653,
-      "end_time": 2700,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Elena\" salsa song "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "genre",
-          "tag": "salsa"
-        }
-      ],
-      "uuid": "2428684d-8415-44f3-be00-29d28288d69b"
-    },
-    {
       "start_time": 2824,
       "end_time": 0,
       "annotation": [
