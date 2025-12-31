@@ -2079,27 +2079,6 @@
       "uuid": "249c42cc-3535-4cf4-8ff0-89c80d1c8f10"
     },
     {
-      "start_time": 3420,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Vejigantes"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "context",
-          "tag": "add context"
-        }
-      ],
-      "uuid": "46814eb3-6644-4135-910c-b5399d34361b"
-    },
-    {
       "start_time": 3433,
       "end_time": 3600,
       "annotation": [
