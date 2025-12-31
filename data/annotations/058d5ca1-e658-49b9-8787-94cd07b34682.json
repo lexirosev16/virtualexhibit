@@ -4701,7 +4701,7 @@
           "align": "left",
           "children": [
             {
-              "text": "Y soy libre, Libre como el río que en el mar desemboca, "
+              "text": "Y soy libre, Libre como el río que en el mar desemboca"
             }
           ]
         },
@@ -4710,7 +4710,7 @@
           "align": "left",
           "children": [
             {
-              "text": "Libre las palabras que saltan de mi boca. Libre decido y alcanzo lo que quiero, Y aunque presto esté mi cuerpo, Es mi mente la que elevo. Libre es el aire que respiro Desde el momento en que nazco Hasta el último suspiro. Libre como el suelo de una isla que se expande, Libre es mi pueblo, y ante balas no se rinde. "
+              "text": "Libre las palabras que saltan de mi boca. Libre decido y alcanzo lo que quiero, Y aunque presto esté mi cuerpo"
             }
           ]
         },
@@ -4719,7 +4719,7 @@
           "align": "left",
           "children": [
             {
-              "text": "Libre, y soy libre. "
+              "text": "Es mi mente la que elevo. Libre es el aire que respiro Desde el momento en que nazco Hasta el último suspiro. Libre como el suelo de una isla que se expande, Libre es mi pueblo, y ante balas no se rinde"
             }
           ]
         },
@@ -4728,7 +4728,16 @@
           "align": "left",
           "children": [
             {
-              "text": "Libre, y soy libre\""
+              "text": "Libre, y soy libre"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Libre, y soy libre"
             }
           ]
         }
