@@ -3415,13 +3415,10 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Welmo intervenes once again with a narrative rap transition. His rap declares: "
-            },
-            {
-              "italic": true,
-              "text": "“No pretendo ser el reemplazo de voces ausentes, ni decir que mi oratoria es la única referencia. Baile bomba, toques de plena—lo que digo vale la pena. Lo importante es la conexión del pasado con el presente.”\\"
+              "text": "Welmo intervenes once again with a narrative rap transition. His rap declares: No pretendo ser el reemplazo de voces ausentes, ni decir que mi oratoria es la única referencia. Baile bomba, toques de plena—lo que digo vale la pena. Lo importante es la conexión del pasado con el presente."
             }
-          ]
+          ],
+          "align": "left"
         },
         {
           "type": "paragraph",
@@ -3430,19 +3427,25 @@
               "text": "English Translation:",
               "underline": true
             }
-          ]
+          ],
+          "align": "left"
         },
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "“I don’t pretend to replace absent voices, nor claim that my speech is the only reference. Dance bomba, play plena—what I say is worth hearing. What matters is the connection between past and present.”",
-              "italic": true
+              "text": "I don’t pretend to replace absent voices, nor claim that my speech is the only reference. Dance bomba, play plena—what I say is worth hearing. What matters is the connection between past and present."
             }
-          ]
+          ],
+          "align": "left"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "performer",
+          "tag": "Welmo E. Romero Joseph"
+        }
+      ],
       "uuid": "a530d6fb-3b8a-4a8e-869f-d067b3e22365"
     },
     {
