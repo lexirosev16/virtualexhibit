@@ -3459,11 +3459,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "“Cachón”",
+              "text": "“Cachón dice Elena”",
               "bold": true
             },
             {
-              "text": "  \nCachón, dice Elena."
+              "text": " ("
+            },
+            {
+              "text": "Lero)",
+              "bold": true
             }
           ]
         },
@@ -3471,7 +3475,71 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Cachón, dice Elena, para calmarse.\nMe voy para Guayama, de vuelta del viaje.\nCachón le dice, Cachón dice Elena, cachón dice Elena, \n\"Cachón dice Elena, que vamos pa la contra pa resguardarse\""
+              "text": "Cachón dice Elena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cachón dice Elena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay Cachón dice Elena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que va a buscar la contra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pa resguardarse"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando pase por Guayanilla"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que venga de vuelta y viaje"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Va a buscar la contra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pa resguardarse"
             }
           ]
         },
@@ -3483,7 +3551,7 @@
               "bold": true
             },
             {
-              "text": "1950s recording which transitions into a professional commercial recording of Paracumbé with lead singer Nelie Robles Lebron from 1997. \n\n"
+              "text": "1950s recording which transitions into a professional commercial recording of Paracumbé with lead singer Nelie Robles Lebron from 1997. \n"
             }
           ]
         }
