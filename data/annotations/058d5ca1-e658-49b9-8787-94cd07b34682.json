@@ -3315,7 +3315,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "en la tempestad;"
+              "text": "en la tempestad"
             }
           ]
         },
@@ -3339,7 +3339,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "y yo nunca cambiaré."
+              "text": "y yo nunca cambiaré"
             }
           ]
         },
@@ -3347,7 +3347,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ahora que estamos tan agustito,"
+              "text": "Coro",
+              "bold": true
             }
           ]
         },
@@ -3355,7 +3356,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "tan agustito, tan agustito, tú ves..."
+              "text": "Ahora que estamos tan agustito"
             }
           ]
         },
@@ -3363,7 +3364,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Variation of original Lyrics that serves a narrative function",
+              "text": "tan agustito, tan agustito, tú ves"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Variation of original lyrics serves a narrative function",
               "underline": true
             }
           ]
@@ -3372,15 +3389,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Para que sepas en verdad quién soy, de dónde vengo y hacia dónde voy. Voy a contarte una historia, lo que debe saber la sangre que corre. Mis pedazas es pura cera, te dire porque. (Llamada)\"que ataca a José\" "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The song is most likely a merengue. "
+              "text": "Para que sepas en verdad quién soy, de dónde vengo y hacia dónde voy. Voy a contarte una historia, lo que debe saber la sangre que corre. Mis pedazas es pura cera, te dire porque. (Llamada)\"que ataca a José\"  "
             }
           ]
         },
