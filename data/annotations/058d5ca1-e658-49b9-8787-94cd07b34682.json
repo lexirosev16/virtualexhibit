@@ -4737,19 +4737,17 @@
         },
         {
           "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ],
-          "align": "left"
-        },
-        {
-          "type": "paragraph",
           "align": "left",
           "children": [
             {
-              "text": "\"Soy Libre\""
+              "text": "\""
+            },
+            {
+              "text": "Soy Libre",
+              "bold": true
+            },
+            {
+              "text": "\""
             }
           ]
         },
