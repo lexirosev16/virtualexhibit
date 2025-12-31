@@ -3848,35 +3848,6 @@
       "uuid": "9414b877-4201-496c-b5a5-27d514eb59db"
     },
     {
-      "start_time": 1057,
-      "end_time": 1095,
-      "annotation": [
-        {
-          "type": "bulleted-list",
-          "children": [
-            {
-              "type": "list-item",
-              "children": [
-                {
-                  "text": "\"Cancion de Baquine\" Guayama"
-                }
-              ]
-            },
-            {
-              "type": "list-item",
-              "children": [
-                {
-                  "text": "Recited poetry, avante-garde style"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "45daa7c7-9be8-48a3-8e27-a267a9081134"
-    },
-    {
       "start_time": 1276,
       "end_time": 1327,
       "annotation": [
