@@ -546,7 +546,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "[coro]",
+              "text": "Coro",
               "bold": true
             }
           ]
@@ -572,7 +572,7 @@
           "children": [
             {
               "bold": true,
-              "text": "[Verso]"
+              "text": "Verso"
             }
           ]
         },
@@ -604,7 +604,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "[Coro]",
+              "text": "Coro",
               "bold": true
             }
           ]
@@ -614,39 +614,6 @@
           "children": [
             {
               "text": "Landié, Landié, ay landié lan lan deloyé"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": " "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "bold": true,
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
             }
           ]
         }
